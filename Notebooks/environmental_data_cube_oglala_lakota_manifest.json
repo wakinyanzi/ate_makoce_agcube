@@ -1,0 +1,45 @@
+{
+  "title": "Environmental Data Cube for Oglala Lakota",
+  "purpose": "Support the agricultural sustainability assessment of BIA-leased lands on the Pine Ridge Indian Reservation",
+  "community": "Oglala Lakota Nation",
+  "data_governance": "Tribal Data Sovereignty",
+  "components": [
+    {
+      "component": "Annual Environmental Context",
+      "year_start": 2000,
+      "year_end": 2023,
+      "year_count": 24,
+      "variables": [
+        "ndvi",
+        "tmax_k",
+        "precip_mm",
+        "evi"
+      ],
+      "spatial_support": "Annual environmental time series; variable-specific spatial support"
+    },
+    {
+      "component": "Integrated Dissertation Analysis",
+      "year_start": 2019,
+      "year_end": 2023,
+      "year_count": 3,
+      "variables": [
+        "landsat_parcel_ndvi",
+        "landsat_parcel_ndmi",
+        "reservation_evi",
+        "growing_precip_mm",
+        "growing_tmax_c",
+        "parcel_pixel_count"
+      ],
+      "spatial_support": "Parcel-level Landsat, reservation-scale EVI, climate context"
+    }
+  ],
+  "integration_principle": "Preserve distinct spatial and temporal support for each observation source",
+  "climate_geographic_provenance": "Original geographic extraction documentation unresolved",
+  "interpretation_limitations": [
+    "Remote sensing observations do not independently establish grazing causation",
+    "Parcel-level Landsat and reservation-scale MODIS EVI are not spatially interchangeable",
+    "Climate observations are contextual; original geographic support is unverified",
+    "Field validation is required for independent assessment of land conditions"
+  ],
+  "sensitive_geographic_data_included": false
+}
