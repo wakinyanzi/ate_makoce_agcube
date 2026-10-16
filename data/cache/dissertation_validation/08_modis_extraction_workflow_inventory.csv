@@ -1,0 +1,10 @@
+file,matched_terms,match_count
+Notebooks/rangeland_health_assessment_2015_2023.ipynb,"spatial_grid_0.5deg_2000_2023, MOD13Q1",1453
+Notebooks/09_dissertation_data_cube_validation.ipynb,"spatial_grid_0.5deg_2000_2023, Pine Ridge Spatial NDVI Cube, grid_step_deg, MOD13Q1, modis.ornl.gov, api/v1, kmAboveBelow, kmLeftRight",194
+Notebooks/02_your_first_datacube.ipynb,"MOD13Q1, modis.ornl.gov, api/v1",14
+src/cube_utils.py,"MOD13Q1, modis.ornl.gov, api/v1, kmAboveBelow, kmLeftRight",9
+Notebooks/08_your_own_question.ipynb,MOD13Q1,8
+Notebooks/05_spatial_operations.ipynb,"spatial_grid_0.5deg_2000_2023, Pine Ridge Spatial NDVI Cube, grid_step_deg, MOD13Q1",7
+README.md,"MOD13Q1, modis.ornl.gov, api/v1",5
+glossary.md,MOD13Q1,2
+Notebooks/04_multi_variable_cube.ipynb,MOD13Q1,2

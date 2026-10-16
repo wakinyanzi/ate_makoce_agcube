@@ -1,0 +1,22 @@
+{
+  "title": "Environmental Data Cube for Oglala Lakota",
+  "dataset": "Reservation-polygon MODIS EVI annual series",
+  "community": "Oglala Lakota Nation",
+  "location": "Pine Ridge Indian Reservation",
+  "period": "2000-2023",
+  "source": "MOD13Q1 Collection 6.1",
+  "temporal_resolution_source": "16-day composites",
+  "spatial_method": "EVI raster values masked to the validated Pine Ridge Reservation boundary",
+  "quality_filter": "MOD13Q1 pixel reliability classes 0 and 1",
+  "evi_scale_factor": 0.0001,
+  "annual_aggregation": "Unweighted mean of nonmissing composite-level reservation-polygon spatial mean EVI",
+  "screening_method": "Exclude composites with valid pixel count below 10% of that year's median count",
+  "screening_status": "Exploratory sensitivity analysis, not a validated accuracy threshold",
+  "important_limitations": [
+    "Annual EVI is not a direct measure of overgrazing.",
+    "The reservation boundary is not a BIA lease boundary.",
+    "Valid-pixel-count screening is not equivalent to direct area-coverage measurement.",
+    "2000 and 2023 have fewer than 23 composites.",
+    "NDVI in the existing cube uses different spatial sampling and should not be treated as directly equivalent to this EVI series."
+  ]
+}

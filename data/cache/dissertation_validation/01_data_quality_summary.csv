@@ -1,0 +1,7 @@
+Variable,Dimensions,Total_Values,Missing_Values,Missing_Percent
+ndvi,"('time',)",108,0,0.0
+evi,"('time',)",108,0,0.0
+tmax_k,"('time',)",108,0,0.0
+precip_mm,"('time',)",108,0,0.0
+evi_interpolated,"('time',)",108,0,0.0
+ndmi,"('time',)",108,1,0.93

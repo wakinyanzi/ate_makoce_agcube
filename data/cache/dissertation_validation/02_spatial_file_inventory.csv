@@ -1,0 +1,15 @@
+filename,extension,size_mb,relative_path
+pine_ridge_boundary.geojson,.geojson,0.25,data/cache/pine_ridge_boundary.geojson
+sd_tribal_boundaries.geojson,.geojson,1.66,data/cache/sd_tribal_boundaries.geojson
+environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,.nc,0.01,data/cache/environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc
+environmental_data_cube_oglala_lakota_2015_2023.nc,.nc,0.01,data/cache/environmental_data_cube_oglala_lakota_2015_2023.nc
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,.nc,0.01,data/cache/environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc
+environmental_data_cube_oglala_lakota_monthly_2015_2023.nc,.nc,0.01,data/cache/environmental_data_cube_oglala_lakota_monthly_2015_2023.nc
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,.nc,0.02,data/cache/environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,.nc,0.02,data/cache/environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc
+pine_ridge_example_cube.nc,.nc,0.01,data/pine_ridge_example_cube.nc
+pine_ridge_multi_variable_cube.nc,.nc,0.02,data/cache/pine_ridge_multi_variable_cube.nc
+pine_ridge_ndvi_cube.nc,.nc,0.02,data/cache/pine_ridge_ndvi_cube.nc
+pine_ridge_ndvi_monthly.nc,.nc,0.02,data/cache/pine_ridge_ndvi_monthly.nc
+spatial_grid_0.5deg_2000_2023.nc,.nc,0.01,data/cache/spatial_grid_0.5deg_2000_2023.nc
+pine_ridge_ndbsi_2019.tif,.tif,39.1,data/cache/ndbsi_comparison_2019_2023/pine_ridge_ndbsi_2019.tif

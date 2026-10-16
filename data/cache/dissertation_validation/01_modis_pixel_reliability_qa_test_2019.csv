@@ -1,0 +1,2 @@
+product,date,latitude,longitude,total_valid_pixels,good_pixels,good_or_marginal_pixels,original_ndvi_mean,good_only_ndvi_mean,good_or_marginal_ndvi_mean,good_only_difference,qa_method
+MOD13Q1,2019-07-12,43.5,-102.5,289,247,289,0.5038470588235294,0.527331983805668,0.5038470588235294,0.02348492498213861,"MOD13Q1 pixel reliability, class 0 only"

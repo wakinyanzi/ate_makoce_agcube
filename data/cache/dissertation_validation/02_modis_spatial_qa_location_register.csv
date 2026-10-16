@@ -1,0 +1,8 @@
+latitude,longitude,overlap_pct,outside_pct,spatial_group,validation_role
+43.5,-103.0,51.899530164180256,48.100469835819744,Boundary-adjacent,Boundary-overlap assessment
+43.0,-102.5,50.71067162441042,49.28932837558958,Boundary-adjacent,Boundary-overlap assessment
+43.0,-102.0,52.04662454704019,47.95337545295981,Boundary-adjacent,Boundary-overlap assessment
+43.0,-101.5,58.11457024390964,41.88542975609036,Boundary-adjacent,Boundary-overlap assessment
+43.5,-102.5,100.0,0.0,Interior,Reference location
+43.5,-102.0,100.0,0.0,Interior,New interior comparison
+43.5,-101.5,100.0,0.0,Interior,New interior comparison

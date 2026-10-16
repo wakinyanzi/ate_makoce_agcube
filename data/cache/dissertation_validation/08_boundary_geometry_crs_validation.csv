@@ -1,0 +1,3 @@
+filename,feature_count,crs,geometry_types,valid_geometries,invalid_geometries,empty_geometries,min_lon_or_x,min_lat_or_y,max_lon_or_x,max_lat_or_y
+pine_ridge_boundary.geojson,1,EPSG:4326,Polygon,1,0,0,-103.00102602221831,42.98736197411363,-101.22733473039507,43.79673863823959
+sd_tribal_boundaries.geojson,8,EPSG:4326,"MultiPolygon, Polygon",8,0,0,-103.00102602221831,42.98736197411363,-96.53603963414693,46.429296508462684

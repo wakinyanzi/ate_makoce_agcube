@@ -1,0 +1,12 @@
+file,dimensions,variables,spatial_grid,point_locations,coordinates
+environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,{'year': 24},"ndvi, tmax_k, precip_mm, evi",False,False,year
+environmental_data_cube_oglala_lakota_2015_2023.nc,{'year': 9},"ndvi, tmax_k, precip_mm, evi",False,False,year
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,{'year': 9},"ndvi, tmax_k, precip_mm, evi",False,False,year
+environmental_data_cube_oglala_lakota_monthly_2015_2023.nc,{'time': 108},"ndvi, evi, tmax_k, precip_mm",False,False,time
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,{'time': 108},"ndvi, evi, tmax_k, precip_mm, evi_interpolated",False,False,time
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,{'time': 108},"ndvi, evi, tmax_k, precip_mm, evi_interpolated, ndmi",False,False,time
+pine_ridge_multi_variable_cube.nc,{'time': 287},"ndvi, tmax_f, precip_mm",False,False,time
+pine_ridge_ndvi_cube.nc,{'time': 549},ndvi,False,False,time
+pine_ridge_ndvi_monthly.nc,{'time': 287},ndvi,False,False,time
+spatial_grid_0.5deg_2000_2023.nc,"{'year': 24, 'lat': 3, 'lon': 4}",ndvi,True,False,"year, lat, lon"
+pine_ridge_example_cube.nc,"{'time': 12, 'lat': 4, 'lon': 4}","ndvi, tmax_f",True,False,"time, lat, lon"

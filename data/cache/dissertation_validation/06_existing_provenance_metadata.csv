@@ -1,0 +1,216 @@
+filename,scope,variable,attribute,value
+environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,Global,Dataset,title,Environmental Data Cube for Oglala Lakota
+environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,Global,Dataset,temporal_coverage,2000-2023
+environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,Variable,ndvi,units,unitless
+environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,Variable,tmax_k,long_name,Annual mean daily maximum temperature
+environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,Variable,tmax_k,units,K
+environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,Variable,precip_mm,long_name,Annual total precipitation
+environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,Variable,precip_mm,units,mm
+environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,Variable,evi,long_name,Annual mean Enhanced Vegetation Index
+environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,Variable,evi,units,unitless
+environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,Variable,evi,scale_factor_applied,0.0001
+environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,Variable,evi,source,MODIS MOD13Q1/MYD13Q1 Collection 6.1
+environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,Variable,evi,note,Current EVI extraction requires spatial-coverage verification.
+environmental_data_cube_oglala_lakota_2015_2023.nc,Global,Dataset,title,Environmental Data Cube for Oglala Lakota
+environmental_data_cube_oglala_lakota_2015_2023.nc,Global,Dataset,temporal_coverage,2015-2023
+environmental_data_cube_oglala_lakota_2015_2023.nc,Global,Dataset,temporal_resolution,annual
+environmental_data_cube_oglala_lakota_2015_2023.nc,Global,Dataset,description,Annual environmental time series for 2015-2023. Temperature is retained in Kelvin. EVI spatial coverage must be verified before interpreting it as a Pine Ridge reservation-wide average.
+environmental_data_cube_oglala_lakota_2015_2023.nc,Global,Dataset,evi_spatial_coverage,Verified Pine Ridge Reservation boundary
+environmental_data_cube_oglala_lakota_2015_2023.nc,Variable,ndvi,units,unitless
+environmental_data_cube_oglala_lakota_2015_2023.nc,Variable,ndvi,long_name,Annual mean NDVI
+environmental_data_cube_oglala_lakota_2015_2023.nc,Variable,tmax_k,long_name,Annual mean of daily maximum temperature
+environmental_data_cube_oglala_lakota_2015_2023.nc,Variable,tmax_k,units,K
+environmental_data_cube_oglala_lakota_2015_2023.nc,Variable,precip_mm,long_name,Annual total precipitation
+environmental_data_cube_oglala_lakota_2015_2023.nc,Variable,precip_mm,units,mm/year
+environmental_data_cube_oglala_lakota_2015_2023.nc,Variable,evi,long_name,Annual mean Enhanced Vegetation Index
+environmental_data_cube_oglala_lakota_2015_2023.nc,Variable,evi,units,1
+environmental_data_cube_oglala_lakota_2015_2023.nc,Variable,evi,source,Terra MODIS MOD13Q1 Collection 6.1
+environmental_data_cube_oglala_lakota_2015_2023.nc,Variable,evi,spatial_coverage,Verified Pine Ridge Reservation boundary
+environmental_data_cube_oglala_lakota_2015_2023.nc,Variable,evi,temporal_coverage,2015-2023
+environmental_data_cube_oglala_lakota_2015_2023.nc,Variable,evi,scale_factor_applied,0.0001
+environmental_data_cube_oglala_lakota_2015_2023.nc,Variable,evi,quality_screening,MODIS pixel reliability classes 0 and 1; raw EVI range -2000 to 10000
+environmental_data_cube_oglala_lakota_2015_2023.nc,Variable,evi,annual_method,Unweighted mean of valid reservation-wide 16-day composite spatial means
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,Global,Dataset,title,Environmental Data Cube for Oglala Lakota
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,Global,Dataset,temporal_coverage,2015-2023
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,Global,Dataset,temporal_resolution,annual
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,Global,Dataset,description,Annual environmental time series for 2015-2023. Temperature is retained in Kelvin. EVI spatial coverage must be verified before interpreting it as a Pine Ridge reservation-wide average.
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,Variable,ndvi,units,unitless
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,Variable,ndvi,long_name,Annual mean NDVI
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,Variable,tmax_k,long_name,Annual mean of daily maximum temperature
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,Variable,tmax_k,units,K
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,Variable,precip_mm,long_name,Annual total precipitation
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,Variable,precip_mm,units,mm/year
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,Variable,evi,long_name,Annual mean EVI
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,Variable,evi,units,unitless
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,Variable,evi,scale_factor_applied,0.0001
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,Variable,evi,source,MODIS MOD13Q1/MYD13Q1 Collection 6.1
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,Variable,evi,note,Current EVI extraction requires spatial-coverage verification.
+environmental_data_cube_oglala_lakota_monthly_2015_2023.nc,Global,Dataset,title,Environmental Data Cube for Oglala Lakota
+environmental_data_cube_oglala_lakota_monthly_2015_2023.nc,Global,Dataset,temporal_coverage,2015-2023
+environmental_data_cube_oglala_lakota_monthly_2015_2023.nc,Global,Dataset,temporal_resolution,monthly
+environmental_data_cube_oglala_lakota_monthly_2015_2023.nc,Global,Dataset,description,Monthly environmental time series for 2015-2023. EVI uses the verified Pine Ridge Reservation boundary.
+environmental_data_cube_oglala_lakota_monthly_2015_2023.nc,Variable,ndvi,long_name,Monthly mean NDVI
+environmental_data_cube_oglala_lakota_monthly_2015_2023.nc,Variable,ndvi,units,1
+environmental_data_cube_oglala_lakota_monthly_2015_2023.nc,Variable,evi,long_name,Monthly mean EVI
+environmental_data_cube_oglala_lakota_monthly_2015_2023.nc,Variable,evi,units,1
+environmental_data_cube_oglala_lakota_monthly_2015_2023.nc,Variable,evi,source,Terra MODIS MOD13Q1 Collection 6.1
+environmental_data_cube_oglala_lakota_monthly_2015_2023.nc,Variable,evi,spatial_coverage,Pine Ridge Reservation
+environmental_data_cube_oglala_lakota_monthly_2015_2023.nc,Variable,tmax_k,long_name,Monthly mean daily maximum temperature
+environmental_data_cube_oglala_lakota_monthly_2015_2023.nc,Variable,tmax_k,units,K
+environmental_data_cube_oglala_lakota_monthly_2015_2023.nc,Variable,precip_mm,long_name,Monthly total precipitation
+environmental_data_cube_oglala_lakota_monthly_2015_2023.nc,Variable,precip_mm,units,mm
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,Global,Dataset,title,Environmental Data Cube for Oglala Lakota
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,Global,Dataset,temporal_coverage,2015-2023
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,Global,Dataset,temporal_resolution,monthly
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,Global,Dataset,description,Monthly environmental time series for 2015-2023. Missing EVI values were linearly interpolated. Original observations are preserved in the non-interpolated NetCDF file.
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,Variable,ndvi,long_name,Monthly mean NDVI
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,Variable,ndvi,units,1
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,Variable,evi,long_name,Monthly mean EVI
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,Variable,evi,units,1
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,Variable,evi,source,Terra MODIS MOD13Q1 Collection 6.1
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,Variable,evi,spatial_coverage,Pine Ridge Reservation
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,Variable,evi,missing_value_method,Linear interpolation for missing monthly EVI
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,Variable,tmax_k,long_name,Monthly mean daily maximum temperature
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,Variable,tmax_k,units,K
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,Variable,precip_mm,long_name,Monthly total precipitation
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,Variable,precip_mm,units,mm
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,Variable,evi_interpolated,long_name,EVI interpolation flag
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,Variable,evi_interpolated,flag_values,[0 1]
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,Variable,evi_interpolated,flag_meanings,observed interpolated
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Global,Dataset,title,Environmental Data Cube for Oglala Lakota
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Global,Dataset,temporal_coverage,2015-2023
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Global,Dataset,temporal_resolution,monthly
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Global,Dataset,description,Monthly environmental time series for 2015-2023. Missing EVI values were linearly interpolated. Original observations are preserved in the non-interpolated NetCDF file.
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Global,Dataset,ndmi_source,Terra MODIS MOD13Q1 Collection 6.1
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,ndvi,long_name,Monthly mean NDVI
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,ndvi,units,1
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,evi,long_name,Monthly mean EVI
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,evi,units,1
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,evi,source,Terra MODIS MOD13Q1 Collection 6.1
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,evi,spatial_coverage,Pine Ridge Reservation
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,evi,missing_value_method,Linear interpolation for missing monthly EVI
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,tmax_k,long_name,Monthly mean daily maximum temperature
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,tmax_k,units,K
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,precip_mm,long_name,Monthly total precipitation
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,precip_mm,units,mm
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,evi_interpolated,long_name,EVI interpolation flag
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,evi_interpolated,flag_values,[0 1]
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,evi_interpolated,flag_meanings,observed interpolated
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,ndmi,long_name,Normalized Difference Moisture Index
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,ndmi,units,1
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,ndmi,source,Terra MODIS MOD13Q1 Collection 6.1
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,ndmi,formula,(NIR - MIR) / (NIR + MIR)
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,ndmi,nir_band,MODIS Band 2
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,ndmi,mir_band,MODIS Band 7
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,ndmi,spatial_coverage,Pine Ridge Reservation
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,ndmi,quality_screening,Pixel reliability 0 or 1
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,Variable,ndmi,aggregation,Monthly mean of valid composite means
+pine_ridge_multi_variable_cube.nc,Global,Dataset,title,Pine Ridge Multi-Variable Environmental Cube
+pine_ridge_multi_variable_cube.nc,Global,Dataset,location,"Pine Ridge Reservation, Oglala Lakota Nation"
+pine_ridge_multi_variable_cube.nc,Global,Dataset,centroid_lat,43.35
+pine_ridge_multi_variable_cube.nc,Global,Dataset,centroid_lon,-102.09
+pine_ridge_multi_variable_cube.nc,Global,Dataset,variables,"ndvi (MODIS MOD13Q1), tmax_f (gridMET), precip_mm (gridMET)"
+pine_ridge_multi_variable_cube.nc,Global,Dataset,temporal_res,monthly
+pine_ridge_multi_variable_cube.nc,Global,Dataset,created,2026-10-15T06:48:31.386027+00:00
+pine_ridge_multi_variable_cube.nc,Global,Dataset,tk_community,Oglala Lakota Nation
+pine_ridge_multi_variable_cube.nc,Global,Dataset,tk_usage,Non-commercial environmental research
+pine_ridge_multi_variable_cube.nc,Global,Dataset,ieee_2890,https://standards.ieee.org/ieee/2890/10318/
+pine_ridge_multi_variable_cube.nc,Variable,ndvi,long_name,Normalized Difference Vegetation Index
+pine_ridge_multi_variable_cube.nc,Variable,ndvi,units,dimensionless (0–1)
+pine_ridge_multi_variable_cube.nc,Variable,ndvi,valid_range,[0 1]
+pine_ridge_multi_variable_cube.nc,Variable,ndvi,source,MODIS MOD13Q1 V061 via ORNL DAAC
+pine_ridge_multi_variable_cube.nc,Variable,ndvi,spatial_res,250m point centroid average (±2km)
+pine_ridge_multi_variable_cube.nc,Variable,ndvi,temporal_res,16-day composite
+pine_ridge_multi_variable_cube.nc,Variable,ndvi,location,"Pine Ridge, Oglala Lakota Nation"
+pine_ridge_multi_variable_cube.nc,Variable,ndvi,centroid_lat,43.35
+pine_ridge_multi_variable_cube.nc,Variable,ndvi,centroid_lon,-102.09
+pine_ridge_multi_variable_cube.nc,Variable,ndvi,tk_community,Oglala Lakota Nation
+pine_ridge_multi_variable_cube.nc,Variable,ndvi,tk_usage,Environmental research: this data describes Tribal lands
+pine_ridge_multi_variable_cube.nc,Variable,ndvi,care_note,Analysis results should benefit the Oglala Lakota community
+pine_ridge_multi_variable_cube.nc,Variable,ndvi,ieee_2890,https://standards.ieee.org/ieee/2890/10318/
+pine_ridge_multi_variable_cube.nc,Variable,tmax_f,long_name,Daily maximum temperature
+pine_ridge_multi_variable_cube.nc,Variable,tmax_f,units,degrees Fahrenheit
+pine_ridge_multi_variable_cube.nc,Variable,tmax_f,source,gridMET via OPeNDAP
+pine_ridge_multi_variable_cube.nc,Variable,tmax_f,temporal_res,monthly mean of daily maximum
+pine_ridge_multi_variable_cube.nc,Variable,precip_mm,long_name,Daily precipitation
+pine_ridge_multi_variable_cube.nc,Variable,precip_mm,units,mm/month
+pine_ridge_multi_variable_cube.nc,Variable,precip_mm,source,gridMET via OPeNDAP
+pine_ridge_multi_variable_cube.nc,Variable,precip_mm,temporal_res,monthly total precipitation
+pine_ridge_ndvi_cube.nc,Global,Dataset,title,"MODIS NDVI Time Series for Pine Ridge, Oglala Lakota Nation"
+pine_ridge_ndvi_cube.nc,Global,Dataset,summary,16-day MODIS MOD13Q1 NDVI point time series for Pine Ridge centroid
+pine_ridge_ndvi_cube.nc,Global,Dataset,source,"MODIS MOD13Q1 V061, NASA ORNL DAAC MODIS Web Service"
+pine_ridge_ndvi_cube.nc,Global,Dataset,source_url,https://modis.ornl.gov/rst/api/v1/
+pine_ridge_ndvi_cube.nc,Global,Dataset,created,2026-10-15T06:34:36.930180+00:00
+pine_ridge_ndvi_cube.nc,Global,Dataset,created_by,tribal_datacube_tutorial notebook 02
+pine_ridge_ndvi_cube.nc,Global,Dataset,location,"Pine Ridge Reservation, Oglala Lakota Nation"
+pine_ridge_ndvi_cube.nc,Global,Dataset,centroid_lat,43.35
+pine_ridge_ndvi_cube.nc,Global,Dataset,centroid_lon,-102.09
+pine_ridge_ndvi_cube.nc,Global,Dataset,tk_community,Oglala Lakota Nation
+pine_ridge_ndvi_cube.nc,Global,Dataset,tk_usage,Non-commercial environmental research
+pine_ridge_ndvi_cube.nc,Global,Dataset,care_c,Analysis results should benefit the Oglala Lakota community
+pine_ridge_ndvi_cube.nc,Global,Dataset,care_a,Oglala Lakota Nation has authority over use of results
+pine_ridge_ndvi_cube.nc,Global,Dataset,ieee_2890,https://standards.ieee.org/ieee/2890/10318/
+pine_ridge_ndvi_cube.nc,Global,Dataset,conventions,CF-1.8
+pine_ridge_ndvi_cube.nc,Global,Dataset,crs,EPSG:4326 (WGS84)
+pine_ridge_ndvi_cube.nc,Variable,ndvi,long_name,Normalized Difference Vegetation Index
+pine_ridge_ndvi_cube.nc,Variable,ndvi,units,dimensionless (0–1)
+pine_ridge_ndvi_cube.nc,Variable,ndvi,valid_range,[0 1]
+pine_ridge_ndvi_cube.nc,Variable,ndvi,source,MODIS MOD13Q1 V061 via ORNL DAAC
+pine_ridge_ndvi_cube.nc,Variable,ndvi,spatial_res,250m point centroid average (±2km)
+pine_ridge_ndvi_cube.nc,Variable,ndvi,temporal_res,16-day composite
+pine_ridge_ndvi_cube.nc,Variable,ndvi,location,"Pine Ridge, Oglala Lakota Nation"
+pine_ridge_ndvi_cube.nc,Variable,ndvi,centroid_lat,43.35
+pine_ridge_ndvi_cube.nc,Variable,ndvi,centroid_lon,-102.09
+pine_ridge_ndvi_cube.nc,Variable,ndvi,tk_community,Oglala Lakota Nation
+pine_ridge_ndvi_cube.nc,Variable,ndvi,tk_usage,Environmental research: this data describes Tribal lands
+pine_ridge_ndvi_cube.nc,Variable,ndvi,care_note,Analysis results should benefit the Oglala Lakota community
+pine_ridge_ndvi_cube.nc,Variable,ndvi,ieee_2890,https://standards.ieee.org/ieee/2890/10318/
+pine_ridge_ndvi_monthly.nc,Global,Dataset,title,"MODIS NDVI Time Series for Pine Ridge, Oglala Lakota Nation"
+pine_ridge_ndvi_monthly.nc,Global,Dataset,summary,16-day MODIS MOD13Q1 NDVI point time series for Pine Ridge centroid
+pine_ridge_ndvi_monthly.nc,Global,Dataset,source,"MODIS MOD13Q1 V061, NASA ORNL DAAC MODIS Web Service"
+pine_ridge_ndvi_monthly.nc,Global,Dataset,source_url,https://modis.ornl.gov/rst/api/v1/
+pine_ridge_ndvi_monthly.nc,Global,Dataset,created,2026-10-15T06:34:36.930180+00:00
+pine_ridge_ndvi_monthly.nc,Global,Dataset,created_by,tribal_datacube_tutorial notebook 02
+pine_ridge_ndvi_monthly.nc,Global,Dataset,location,"Pine Ridge Reservation, Oglala Lakota Nation"
+pine_ridge_ndvi_monthly.nc,Global,Dataset,centroid_lat,43.35
+pine_ridge_ndvi_monthly.nc,Global,Dataset,centroid_lon,-102.09
+pine_ridge_ndvi_monthly.nc,Global,Dataset,tk_community,Oglala Lakota Nation
+pine_ridge_ndvi_monthly.nc,Global,Dataset,tk_usage,Non-commercial environmental research
+pine_ridge_ndvi_monthly.nc,Global,Dataset,care_c,Analysis results should benefit the Oglala Lakota community
+pine_ridge_ndvi_monthly.nc,Global,Dataset,care_a,Oglala Lakota Nation has authority over use of results
+pine_ridge_ndvi_monthly.nc,Global,Dataset,ieee_2890,https://standards.ieee.org/ieee/2890/10318/
+pine_ridge_ndvi_monthly.nc,Global,Dataset,conventions,CF-1.8
+pine_ridge_ndvi_monthly.nc,Global,Dataset,crs,EPSG:4326 (WGS84)
+pine_ridge_ndvi_monthly.nc,Global,Dataset,temporal_res,monthly (resampled from 16-day)
+pine_ridge_ndvi_monthly.nc,Variable,ndvi,long_name,Normalized Difference Vegetation Index
+pine_ridge_ndvi_monthly.nc,Variable,ndvi,units,dimensionless (0–1)
+pine_ridge_ndvi_monthly.nc,Variable,ndvi,valid_range,[0 1]
+pine_ridge_ndvi_monthly.nc,Variable,ndvi,source,MODIS MOD13Q1 V061 via ORNL DAAC
+pine_ridge_ndvi_monthly.nc,Variable,ndvi,spatial_res,250m point centroid average (±2km)
+pine_ridge_ndvi_monthly.nc,Variable,ndvi,temporal_res,16-day composite
+pine_ridge_ndvi_monthly.nc,Variable,ndvi,location,"Pine Ridge, Oglala Lakota Nation"
+pine_ridge_ndvi_monthly.nc,Variable,ndvi,centroid_lat,43.35
+pine_ridge_ndvi_monthly.nc,Variable,ndvi,centroid_lon,-102.09
+pine_ridge_ndvi_monthly.nc,Variable,ndvi,tk_community,Oglala Lakota Nation
+pine_ridge_ndvi_monthly.nc,Variable,ndvi,tk_usage,Environmental research: this data describes Tribal lands
+pine_ridge_ndvi_monthly.nc,Variable,ndvi,care_note,Analysis results should benefit the Oglala Lakota community
+pine_ridge_ndvi_monthly.nc,Variable,ndvi,ieee_2890,https://standards.ieee.org/ieee/2890/10318/
+spatial_grid_0.5deg_2000_2023.nc,Global,Dataset,title,Pine Ridge Spatial NDVI Cube
+spatial_grid_0.5deg_2000_2023.nc,Global,Dataset,location,"Pine Ridge, Oglala Lakota Nation"
+spatial_grid_0.5deg_2000_2023.nc,Global,Dataset,grid_step_deg,0.5
+spatial_grid_0.5deg_2000_2023.nc,Global,Dataset,tk_community,Oglala Lakota Nation
+spatial_grid_0.5deg_2000_2023.nc,Variable,ndvi,long_name,Annual growing season mean NDVI
+spatial_grid_0.5deg_2000_2023.nc,Variable,ndvi,units,dimensionless
+spatial_grid_0.5deg_2000_2023.nc,Variable,ndvi,source,MODIS MOD13Q1 via ORNL DAAC
+pine_ridge_example_cube.nc,Global,Dataset,title,Pine Ridge Environmental Data Cube
+pine_ridge_example_cube.nc,Global,Dataset,location,"Pine Ridge, Oglala Lakota Nation"
+pine_ridge_example_cube.nc,Global,Dataset,crs,EPSG:4326 (WGS84 geographic)
+pine_ridge_example_cube.nc,Global,Dataset,source,Synthetic data for illustration only
+pine_ridge_example_cube.nc,Global,Dataset,created_by,tribal_datacube_tutorial notebook 01
+pine_ridge_example_cube.nc,Variable,ndvi,long_name,Normalized Difference Vegetation Index
+pine_ridge_example_cube.nc,Variable,ndvi,units,dimensionless
+pine_ridge_example_cube.nc,Variable,ndvi,valid_range,[0 1]
+pine_ridge_example_cube.nc,Variable,ndvi,location,"Pine Ridge, Oglala Lakota Nation"
+pine_ridge_example_cube.nc,Variable,ndvi,source,Synthetic data for illustration only
+pine_ridge_example_cube.nc,Variable,tmax_f,long_name,Maximum daily temperature
+pine_ridge_example_cube.nc,Variable,tmax_f,units,degrees Fahrenheit

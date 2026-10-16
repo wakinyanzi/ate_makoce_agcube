@@ -1,0 +1,13 @@
+filename,variable,source,spatial_coverage,annual_method,aggregation_method,aggregation,processing_method,missing_value_method,note
+environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,ndvi,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented
+environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,tmax_k,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented
+environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,precip_mm,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented
+environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,evi,MODIS MOD13Q1/MYD13Q1 Collection 6.1,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented,Current EVI extraction requires spatial-coverage verification.
+environmental_data_cube_oglala_lakota_2015_2023.nc,ndvi,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented
+environmental_data_cube_oglala_lakota_2015_2023.nc,tmax_k,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented
+environmental_data_cube_oglala_lakota_2015_2023.nc,precip_mm,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented
+environmental_data_cube_oglala_lakota_2015_2023.nc,evi,Terra MODIS MOD13Q1 Collection 6.1,Verified Pine Ridge Reservation boundary,Unweighted mean of valid reservation-wide 16-day composite spatial means,Not documented,Not documented,Not documented,Not documented,Not documented
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,ndvi,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,tmax_k,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,precip_mm,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,evi,MODIS MOD13Q1/MYD13Q1 Collection 6.1,Not documented,Not documented,Not documented,Not documented,Not documented,Not documented,Current EVI extraction requires spatial-coverage verification.

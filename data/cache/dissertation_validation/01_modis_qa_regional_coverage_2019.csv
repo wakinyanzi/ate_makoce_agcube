@@ -1,0 +1,13 @@
+Date,Region,Total pixels,Good pixels,Good coverage (%)
+May 9,Upper left,64,8,12.5
+May 9,Upper right,72,56,77.78
+May 9,Lower left,72,26,36.11
+May 9,Lower right,81,12,14.81
+July 12,Upper left,64,28,43.75
+July 12,Upper right,72,70,97.22
+July 12,Lower left,72,72,100.0
+July 12,Lower right,81,77,95.06
+September 14,Upper left,64,56,87.5
+September 14,Upper right,72,72,100.0
+September 14,Lower left,72,72,100.0
+September 14,Lower right,81,81,100.0
