@@ -1,0 +1,9 @@
+Category,Figure_Candidates,Supporting_Documents
+01_Data_Acquisition,8,38
+02_Data_Provenance,0,7
+03_Study_Area_Sampling,12,3
+04_Preprocessing_QA,0,49
+05_Data_Cube_Construction,89,4
+06_Validation_Reliability,110,87
+07_Reproducibility,2,7
+08_Data_Governance,0,1

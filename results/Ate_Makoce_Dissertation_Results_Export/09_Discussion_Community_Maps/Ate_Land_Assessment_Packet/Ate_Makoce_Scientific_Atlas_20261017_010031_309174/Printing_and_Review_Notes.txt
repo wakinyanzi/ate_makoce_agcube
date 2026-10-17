@@ -1,0 +1,56 @@
+ATE MAKOCE - SCIENTIFIC ATLAS
+PRINTING AND BINDING NOTES
+
+FORMAT
+- 28 pages
+- US Letter landscape, 11 x 8.5 inches
+- Eight full-page maps
+- Eight facing interpretation pages
+- Two added research pages
+- White backgrounds, navy and oxblood typography
+
+PRINTING
+- Print at Actual Size / 100%
+- Do not use Fit to Page
+- For double-sided landscape printing, test the
+  printer's flip-edge setting before the full run
+- Verify pages 10 and 11 form the intended spread
+- Keep pages in reading order
+- Consider 28-32 lb matte interior paper
+- Consider 80-100 lb cover cardstock
+
+JAPANESE STAB BINDING
+- Traditional four-hole binding
+- Left-edge binding
+- 1.36-inch protected content area
+- Hole centers 0.55 inch from the left edge
+- First and last holes 0.85 inch from page ends
+- Print the separate hole guide at Actual Size
+- Test hole positions on scrap paper
+- Use waxed linen thread
+- A stab-bound book will not open fully flat
+
+IMAGES
+- All scientific maps are included without cropping
+- Original legends and labels are preserved
+- Photos are full-page and may be cropped at edges
+- True full bleed requires borderless printing
+  or oversized sheets with trimming
+
+RESEARCH REVIEW
+- The parcel assessment uses 2,878 valid pixels
+- NDVI and NDMI findings refer to 2019, 2022, 2023
+- The broader data cube work covers 2015-2023
+- Do not interpret NDVI as proof of overgrazing
+- Climate provenance requires final verification
+- Inspect every map legend and date before sharing
+- Some original PNGs may contain 'Ate Macoke';
+  the code does not change text embedded in maps
+- Confirm photograph and artwork permissions
+- Review parcel-level data sharing permissions
+  with the landowner and Tribal governance
+
+SOURCE SAFETY
+- Original maps and photos were not modified
+- Original data cube was not modified
+- All outputs are saved to a new folder

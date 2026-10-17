@@ -1,0 +1,13 @@
+ENVIRONMENTAL DATA CUBE FOR OGLALA LAKOTA
+ATE MAKOCE — DISSERTATION FIGURE COLLECTION
+=================================================================
+
+Destination: /Users/elishawakinyanzi/Documents/ElishaWakinyanZi-WORK/datacube_2026/ate_makoce_agcube/results/Ate_Makoce_Dissertation_Figures
+Collection date: 20261016_221806_894039
+
+New figures copied: 181
+Duplicates or existing: 3
+Total records: 184
+Errors: 0
+
+Original notebooks and research files were not modified.

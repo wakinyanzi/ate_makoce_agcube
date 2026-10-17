@@ -1,0 +1,57 @@
+ATE MAKOCE — SCIENTIFIC ATLAS
+PRINTING AND REVIEW NOTES
+
+FORMAT
+- 26 individual pages
+- US Letter landscape: 11 x 8.5 inches
+- PDF pages are in reading order
+- Not arranged for folded signatures
+
+PRINTING
+- Print at Actual Size / 100%
+- For double-sided landscape printing:
+  select Flip on Short Edge
+- Test pages 8 and 9 before printing the full atlas
+- White pages minimize background ink consumption
+- Consider 28–32 lb matte interior paper
+- Consider 80–100 lb cover cardstock
+- Print photos at high quality if possible
+
+JAPANESE STAB BINDING
+- Bind along the LEFT edge of every page
+- A fixed 1.36-inch content-safe area is reserved
+- Four-hole guide is provided as a separate PDF
+- Punch a test stack before punching the entire atlas
+- Stab binding will not open completely flat
+- Waxed linen thread is recommended
+- This is a loose-sheet binding, not saddle stitching
+
+FULL-PAGE IMAGES
+- Scientific maps are scaled to fit the largest
+  binding-safe rectangle WITHOUT CROPPING
+- The entire original PNG and legend are retained
+- Photographs fill the page and may be cropped
+  at their outer edges
+- True edge-to-edge photos require borderless
+  printing or oversized sheets and trimming
+
+IMPORTANT REVIEW ITEMS
+- Some original map PNGs may contain the
+  incorrect embedded spelling 'Ate Macoke'.
+  The code does not alter source map imagery.
+- Confirm map legends, dates, classifications,
+  and observed patterns before distribution.
+- The educational interpretation text is
+  provisional until compared to actual map content.
+- Confirm the Art Alley artwork credit,
+  location, and reproduction permission.
+- Confirm any additional photographic credits.
+- Review parcel-level data sharing with the
+  landowner and applicable Tribal governance.
+- Inspect every map at physical print size,
+  especially multipanel figures and legends.
+
+SOURCE SAFETY
+- Original maps and photographs are read only
+- No original data cube or notebook is changed
+- All outputs are in a new timestamped folder

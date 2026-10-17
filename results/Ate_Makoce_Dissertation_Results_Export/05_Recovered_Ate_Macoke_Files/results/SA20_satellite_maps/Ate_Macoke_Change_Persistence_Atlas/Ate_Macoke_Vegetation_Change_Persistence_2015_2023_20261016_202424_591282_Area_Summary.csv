@@ -1,0 +1,13 @@
+map,class_code,class_label,pixel_count,area_ha
+MAP A — VEGETATION GAIN AND LOSS,1,Strong loss (< -0.10),756,68.04
+MAP A — VEGETATION GAIN AND LOSS,2,Moderate loss (-0.10 to -0.05),630,56.7
+MAP A — VEGETATION GAIN AND LOSS,3,Relatively stable (-0.05 to +0.05),1363,122.67
+MAP A — VEGETATION GAIN AND LOSS,4,Moderate gain (+0.05 to +0.10),123,11.07
+MAP A — VEGETATION GAIN AND LOSS,5,Strong gain (> +0.10),6,0.54
+MAP B — LOW-GREENNESS PERSISTENCE,1,0–1 low years,2287,205.83
+MAP B — LOW-GREENNESS PERSISTENCE,2,2–3 low years,230,20.7
+MAP B — LOW-GREENNESS PERSISTENCE,3,4 low years,35,3.15
+MAP B — LOW-GREENNESS PERSISTENCE,4,5–6 low years (persistent),46,4.14
+MAP B — LOW-GREENNESS PERSISTENCE,5,7–9 low years (persistent),280,25.2
+MAP A — VEGETATION GAIN AND LOSS,0,Insufficient endpoint data,0,0.0
+MAP B — LOW-GREENNESS PERSISTENCE,0,Insufficient valid years,0,0.0

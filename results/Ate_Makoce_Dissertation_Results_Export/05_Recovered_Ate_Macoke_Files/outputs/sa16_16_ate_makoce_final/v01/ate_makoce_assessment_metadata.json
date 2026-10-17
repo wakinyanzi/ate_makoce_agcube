@@ -1,0 +1,56 @@
+{
+  "project": "Environmental Data Cube for Oglala Lakota",
+  "study_area": "Ate Makoce - BIA Parcel",
+  "created_utc": "2026-10-16T08:14:08.539490+00:00",
+  "assessment": "Integrated Landsat NDMI and NDVI vegetation trajectory assessment",
+  "years": [
+    2019,
+    2022,
+    2023
+  ],
+  "primary_threshold": 0.05,
+  "sensitivity_thresholds": [
+    0.03,
+    0.04,
+    0.05,
+    0.06,
+    0.07
+  ],
+  "raster_crs": "EPSG:32613",
+  "resolution_m": [
+    30.0,
+    30.0
+  ],
+  "nodata_value": 255,
+  "classification": {
+    "0": "Recovery to 2019",
+    "1": "Partial recovery",
+    "2": "Continued decline",
+    "3": "Relatively stable",
+    "4": "Other trajectory \u2014 both indices",
+    "5": "NDMI\u2013NDVI disagreement"
+  },
+  "area_accounting": {
+    "parcel_area_ha": 258.816,
+    "classified_area_ha": 256.525,
+    "unclassified_area_ha": 2.291
+  },
+  "climate_context": {
+    "source": "gridMET point-based extraction",
+    "season": "May\u2013September",
+    "precipitation_mm": {
+      "2019": 636.8,
+      "2022": 281.9,
+      "2023": 522.5
+    },
+    "note": "Climate values provide regional context and are not parcel-wide gridded observations."
+  },
+  "limitations": [
+    "Vegetation indices do not directly measure grazing pressure.",
+    "NDMI and NDVI share Landsat spectral information.",
+    "The \u00b10.05 threshold is exploratory.",
+    "Some boundary-intersecting cells are excluded by the mask.",
+    "Field and management data are needed for sustainability conclusions."
+  ],
+  "data_governance": "Respect Oglala Lakota Nation data governance and applicable permissions before sharing parcel-level spatial products."
+}
