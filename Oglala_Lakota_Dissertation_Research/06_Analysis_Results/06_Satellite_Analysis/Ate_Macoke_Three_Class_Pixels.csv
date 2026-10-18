@@ -1,0 +1,2879 @@
+row,column,x,y,original_class,three_class,class_label,crs
+0,53,758355.0,4826715.0,1,1,Recovery,EPSG:32613
+0,54,758385.0,4826715.0,1,1,Recovery,EPSG:32613
+1,31,757695.0,4826685.0,1,1,Recovery,EPSG:32613
+1,32,757725.0,4826685.0,1,1,Recovery,EPSG:32613
+1,33,757755.0,4826685.0,1,1,Recovery,EPSG:32613
+1,34,757785.0,4826685.0,1,1,Recovery,EPSG:32613
+1,35,757815.0,4826685.0,1,1,Recovery,EPSG:32613
+1,36,757845.0,4826685.0,1,1,Recovery,EPSG:32613
+1,37,757875.0,4826685.0,1,1,Recovery,EPSG:32613
+1,38,757905.0,4826685.0,4,3,Stable / mixed / disagreement,EPSG:32613
+1,39,757935.0,4826685.0,3,3,Stable / mixed / disagreement,EPSG:32613
+1,40,757965.0,4826685.0,3,3,Stable / mixed / disagreement,EPSG:32613
+1,41,757995.0,4826685.0,3,3,Stable / mixed / disagreement,EPSG:32613
+1,42,758025.0,4826685.0,3,3,Stable / mixed / disagreement,EPSG:32613
+1,43,758055.0,4826685.0,5,3,Stable / mixed / disagreement,EPSG:32613
+1,44,758085.0,4826685.0,4,3,Stable / mixed / disagreement,EPSG:32613
+1,45,758115.0,4826685.0,4,3,Stable / mixed / disagreement,EPSG:32613
+1,46,758145.0,4826685.0,5,3,Stable / mixed / disagreement,EPSG:32613
+1,47,758175.0,4826685.0,4,3,Stable / mixed / disagreement,EPSG:32613
+1,48,758205.0,4826685.0,4,3,Stable / mixed / disagreement,EPSG:32613
+1,49,758235.0,4826685.0,5,3,Stable / mixed / disagreement,EPSG:32613
+1,50,758265.0,4826685.0,0,1,Recovery,EPSG:32613
+1,51,758295.0,4826685.0,1,1,Recovery,EPSG:32613
+1,52,758325.0,4826685.0,0,1,Recovery,EPSG:32613
+1,53,758355.0,4826685.0,1,1,Recovery,EPSG:32613
+1,54,758385.0,4826685.0,1,1,Recovery,EPSG:32613
+2,9,757035.0,4826655.0,3,3,Stable / mixed / disagreement,EPSG:32613
+2,10,757065.0,4826655.0,5,3,Stable / mixed / disagreement,EPSG:32613
+2,11,757095.0,4826655.0,4,3,Stable / mixed / disagreement,EPSG:32613
+2,12,757125.0,4826655.0,4,3,Stable / mixed / disagreement,EPSG:32613
+2,13,757155.0,4826655.0,5,3,Stable / mixed / disagreement,EPSG:32613
+2,14,757185.0,4826655.0,5,3,Stable / mixed / disagreement,EPSG:32613
+2,15,757215.0,4826655.0,5,3,Stable / mixed / disagreement,EPSG:32613
+2,16,757245.0,4826655.0,1,1,Recovery,EPSG:32613
+2,17,757275.0,4826655.0,5,3,Stable / mixed / disagreement,EPSG:32613
+2,18,757305.0,4826655.0,5,3,Stable / mixed / disagreement,EPSG:32613
+2,19,757335.0,4826655.0,5,3,Stable / mixed / disagreement,EPSG:32613
+2,20,757365.0,4826655.0,1,1,Recovery,EPSG:32613
+2,21,757395.0,4826655.0,1,1,Recovery,EPSG:32613
+2,22,757425.0,4826655.0,1,1,Recovery,EPSG:32613
+2,23,757455.0,4826655.0,5,3,Stable / mixed / disagreement,EPSG:32613
+2,24,757485.0,4826655.0,4,3,Stable / mixed / disagreement,EPSG:32613
+2,25,757515.0,4826655.0,4,3,Stable / mixed / disagreement,EPSG:32613
+2,26,757545.0,4826655.0,4,3,Stable / mixed / disagreement,EPSG:32613
+2,27,757575.0,4826655.0,5,3,Stable / mixed / disagreement,EPSG:32613
+2,28,757605.0,4826655.0,5,3,Stable / mixed / disagreement,EPSG:32613
+2,29,757635.0,4826655.0,1,1,Recovery,EPSG:32613
+2,30,757665.0,4826655.0,1,1,Recovery,EPSG:32613
+2,31,757695.0,4826655.0,1,1,Recovery,EPSG:32613
+2,32,757725.0,4826655.0,5,3,Stable / mixed / disagreement,EPSG:32613
+2,33,757755.0,4826655.0,4,3,Stable / mixed / disagreement,EPSG:32613
+2,34,757785.0,4826655.0,1,1,Recovery,EPSG:32613
+2,35,757815.0,4826655.0,1,1,Recovery,EPSG:32613
+2,36,757845.0,4826655.0,5,3,Stable / mixed / disagreement,EPSG:32613
+2,37,757875.0,4826655.0,3,3,Stable / mixed / disagreement,EPSG:32613
+2,38,757905.0,4826655.0,3,3,Stable / mixed / disagreement,EPSG:32613
+2,39,757935.0,4826655.0,3,3,Stable / mixed / disagreement,EPSG:32613
+2,40,757965.0,4826655.0,3,3,Stable / mixed / disagreement,EPSG:32613
+2,41,757995.0,4826655.0,3,3,Stable / mixed / disagreement,EPSG:32613
+2,42,758025.0,4826655.0,3,3,Stable / mixed / disagreement,EPSG:32613
+2,43,758055.0,4826655.0,4,3,Stable / mixed / disagreement,EPSG:32613
+2,44,758085.0,4826655.0,4,3,Stable / mixed / disagreement,EPSG:32613
+2,45,758115.0,4826655.0,3,3,Stable / mixed / disagreement,EPSG:32613
+2,46,758145.0,4826655.0,4,3,Stable / mixed / disagreement,EPSG:32613
+2,47,758175.0,4826655.0,4,3,Stable / mixed / disagreement,EPSG:32613
+2,48,758205.0,4826655.0,5,3,Stable / mixed / disagreement,EPSG:32613
+2,49,758235.0,4826655.0,0,1,Recovery,EPSG:32613
+2,50,758265.0,4826655.0,1,1,Recovery,EPSG:32613
+2,51,758295.0,4826655.0,1,1,Recovery,EPSG:32613
+2,52,758325.0,4826655.0,1,1,Recovery,EPSG:32613
+2,53,758355.0,4826655.0,1,1,Recovery,EPSG:32613
+2,54,758385.0,4826655.0,1,1,Recovery,EPSG:32613
+3,1,756795.0,4826625.0,4,3,Stable / mixed / disagreement,EPSG:32613
+3,2,756825.0,4826625.0,3,3,Stable / mixed / disagreement,EPSG:32613
+3,3,756855.0,4826625.0,3,3,Stable / mixed / disagreement,EPSG:32613
+3,4,756885.0,4826625.0,3,3,Stable / mixed / disagreement,EPSG:32613
+3,5,756915.0,4826625.0,3,3,Stable / mixed / disagreement,EPSG:32613
+3,6,756945.0,4826625.0,4,3,Stable / mixed / disagreement,EPSG:32613
+3,7,756975.0,4826625.0,4,3,Stable / mixed / disagreement,EPSG:32613
+3,8,757005.0,4826625.0,5,3,Stable / mixed / disagreement,EPSG:32613
+3,9,757035.0,4826625.0,5,3,Stable / mixed / disagreement,EPSG:32613
+3,10,757065.0,4826625.0,5,3,Stable / mixed / disagreement,EPSG:32613
+3,11,757095.0,4826625.0,4,3,Stable / mixed / disagreement,EPSG:32613
+3,12,757125.0,4826625.0,4,3,Stable / mixed / disagreement,EPSG:32613
+3,13,757155.0,4826625.0,4,3,Stable / mixed / disagreement,EPSG:32613
+3,14,757185.0,4826625.0,4,3,Stable / mixed / disagreement,EPSG:32613
+3,15,757215.0,4826625.0,4,3,Stable / mixed / disagreement,EPSG:32613
+3,16,757245.0,4826625.0,4,3,Stable / mixed / disagreement,EPSG:32613
+3,17,757275.0,4826625.0,5,3,Stable / mixed / disagreement,EPSG:32613
+3,18,757305.0,4826625.0,0,1,Recovery,EPSG:32613
+3,19,757335.0,4826625.0,3,3,Stable / mixed / disagreement,EPSG:32613
+3,20,757365.0,4826625.0,4,3,Stable / mixed / disagreement,EPSG:32613
+3,21,757395.0,4826625.0,4,3,Stable / mixed / disagreement,EPSG:32613
+3,22,757425.0,4826625.0,5,3,Stable / mixed / disagreement,EPSG:32613
+3,23,757455.0,4826625.0,3,3,Stable / mixed / disagreement,EPSG:32613
+3,24,757485.0,4826625.0,5,3,Stable / mixed / disagreement,EPSG:32613
+3,25,757515.0,4826625.0,5,3,Stable / mixed / disagreement,EPSG:32613
+3,26,757545.0,4826625.0,3,3,Stable / mixed / disagreement,EPSG:32613
+3,27,757575.0,4826625.0,5,3,Stable / mixed / disagreement,EPSG:32613
+3,28,757605.0,4826625.0,4,3,Stable / mixed / disagreement,EPSG:32613
+3,29,757635.0,4826625.0,5,3,Stable / mixed / disagreement,EPSG:32613
+3,30,757665.0,4826625.0,5,3,Stable / mixed / disagreement,EPSG:32613
+3,31,757695.0,4826625.0,1,1,Recovery,EPSG:32613
+3,32,757725.0,4826625.0,5,3,Stable / mixed / disagreement,EPSG:32613
+3,33,757755.0,4826625.0,3,3,Stable / mixed / disagreement,EPSG:32613
+3,34,757785.0,4826625.0,4,3,Stable / mixed / disagreement,EPSG:32613
+3,35,757815.0,4826625.0,5,3,Stable / mixed / disagreement,EPSG:32613
+3,36,757845.0,4826625.0,3,3,Stable / mixed / disagreement,EPSG:32613
+3,37,757875.0,4826625.0,3,3,Stable / mixed / disagreement,EPSG:32613
+3,38,757905.0,4826625.0,3,3,Stable / mixed / disagreement,EPSG:32613
+3,39,757935.0,4826625.0,3,3,Stable / mixed / disagreement,EPSG:32613
+3,40,757965.0,4826625.0,3,3,Stable / mixed / disagreement,EPSG:32613
+3,41,757995.0,4826625.0,4,3,Stable / mixed / disagreement,EPSG:32613
+3,42,758025.0,4826625.0,4,3,Stable / mixed / disagreement,EPSG:32613
+3,43,758055.0,4826625.0,4,3,Stable / mixed / disagreement,EPSG:32613
+3,44,758085.0,4826625.0,4,3,Stable / mixed / disagreement,EPSG:32613
+3,45,758115.0,4826625.0,4,3,Stable / mixed / disagreement,EPSG:32613
+3,46,758145.0,4826625.0,5,3,Stable / mixed / disagreement,EPSG:32613
+3,47,758175.0,4826625.0,5,3,Stable / mixed / disagreement,EPSG:32613
+3,48,758205.0,4826625.0,1,1,Recovery,EPSG:32613
+3,49,758235.0,4826625.0,1,1,Recovery,EPSG:32613
+3,50,758265.0,4826625.0,1,1,Recovery,EPSG:32613
+3,51,758295.0,4826625.0,1,1,Recovery,EPSG:32613
+3,52,758325.0,4826625.0,1,1,Recovery,EPSG:32613
+3,53,758355.0,4826625.0,1,1,Recovery,EPSG:32613
+3,54,758385.0,4826625.0,1,1,Recovery,EPSG:32613
+4,1,756795.0,4826595.0,5,3,Stable / mixed / disagreement,EPSG:32613
+4,2,756825.0,4826595.0,3,3,Stable / mixed / disagreement,EPSG:32613
+4,3,756855.0,4826595.0,4,3,Stable / mixed / disagreement,EPSG:32613
+4,4,756885.0,4826595.0,5,3,Stable / mixed / disagreement,EPSG:32613
+4,5,756915.0,4826595.0,5,3,Stable / mixed / disagreement,EPSG:32613
+4,6,756945.0,4826595.0,4,3,Stable / mixed / disagreement,EPSG:32613
+4,7,756975.0,4826595.0,5,3,Stable / mixed / disagreement,EPSG:32613
+4,8,757005.0,4826595.0,3,3,Stable / mixed / disagreement,EPSG:32613
+4,9,757035.0,4826595.0,5,3,Stable / mixed / disagreement,EPSG:32613
+4,10,757065.0,4826595.0,0,1,Recovery,EPSG:32613
+4,11,757095.0,4826595.0,4,3,Stable / mixed / disagreement,EPSG:32613
+4,12,757125.0,4826595.0,4,3,Stable / mixed / disagreement,EPSG:32613
+4,13,757155.0,4826595.0,4,3,Stable / mixed / disagreement,EPSG:32613
+4,14,757185.0,4826595.0,4,3,Stable / mixed / disagreement,EPSG:32613
+4,15,757215.0,4826595.0,5,3,Stable / mixed / disagreement,EPSG:32613
+4,16,757245.0,4826595.0,4,3,Stable / mixed / disagreement,EPSG:32613
+4,17,757275.0,4826595.0,5,3,Stable / mixed / disagreement,EPSG:32613
+4,18,757305.0,4826595.0,4,3,Stable / mixed / disagreement,EPSG:32613
+4,19,757335.0,4826595.0,0,1,Recovery,EPSG:32613
+4,20,757365.0,4826595.0,4,3,Stable / mixed / disagreement,EPSG:32613
+4,21,757395.0,4826595.0,3,3,Stable / mixed / disagreement,EPSG:32613
+4,22,757425.0,4826595.0,3,3,Stable / mixed / disagreement,EPSG:32613
+4,23,757455.0,4826595.0,5,3,Stable / mixed / disagreement,EPSG:32613
+4,24,757485.0,4826595.0,5,3,Stable / mixed / disagreement,EPSG:32613
+4,25,757515.0,4826595.0,5,3,Stable / mixed / disagreement,EPSG:32613
+4,26,757545.0,4826595.0,4,3,Stable / mixed / disagreement,EPSG:32613
+4,27,757575.0,4826595.0,5,3,Stable / mixed / disagreement,EPSG:32613
+4,28,757605.0,4826595.0,3,3,Stable / mixed / disagreement,EPSG:32613
+4,29,757635.0,4826595.0,3,3,Stable / mixed / disagreement,EPSG:32613
+4,30,757665.0,4826595.0,3,3,Stable / mixed / disagreement,EPSG:32613
+4,31,757695.0,4826595.0,4,3,Stable / mixed / disagreement,EPSG:32613
+4,32,757725.0,4826595.0,3,3,Stable / mixed / disagreement,EPSG:32613
+4,33,757755.0,4826595.0,3,3,Stable / mixed / disagreement,EPSG:32613
+4,34,757785.0,4826595.0,5,3,Stable / mixed / disagreement,EPSG:32613
+4,35,757815.0,4826595.0,3,3,Stable / mixed / disagreement,EPSG:32613
+4,36,757845.0,4826595.0,3,3,Stable / mixed / disagreement,EPSG:32613
+4,37,757875.0,4826595.0,3,3,Stable / mixed / disagreement,EPSG:32613
+4,38,757905.0,4826595.0,3,3,Stable / mixed / disagreement,EPSG:32613
+4,39,757935.0,4826595.0,3,3,Stable / mixed / disagreement,EPSG:32613
+4,40,757965.0,4826595.0,3,3,Stable / mixed / disagreement,EPSG:32613
+4,41,757995.0,4826595.0,3,3,Stable / mixed / disagreement,EPSG:32613
+4,42,758025.0,4826595.0,4,3,Stable / mixed / disagreement,EPSG:32613
+4,43,758055.0,4826595.0,3,3,Stable / mixed / disagreement,EPSG:32613
+4,44,758085.0,4826595.0,3,3,Stable / mixed / disagreement,EPSG:32613
+4,45,758115.0,4826595.0,5,3,Stable / mixed / disagreement,EPSG:32613
+4,46,758145.0,4826595.0,1,1,Recovery,EPSG:32613
+4,47,758175.0,4826595.0,1,1,Recovery,EPSG:32613
+4,48,758205.0,4826595.0,1,1,Recovery,EPSG:32613
+4,49,758235.0,4826595.0,1,1,Recovery,EPSG:32613
+4,50,758265.0,4826595.0,1,1,Recovery,EPSG:32613
+4,51,758295.0,4826595.0,1,1,Recovery,EPSG:32613
+4,52,758325.0,4826595.0,1,1,Recovery,EPSG:32613
+4,53,758355.0,4826595.0,1,1,Recovery,EPSG:32613
+4,54,758385.0,4826595.0,1,1,Recovery,EPSG:32613
+5,1,756795.0,4826565.0,3,3,Stable / mixed / disagreement,EPSG:32613
+5,2,756825.0,4826565.0,3,3,Stable / mixed / disagreement,EPSG:32613
+5,3,756855.0,4826565.0,4,3,Stable / mixed / disagreement,EPSG:32613
+5,4,756885.0,4826565.0,4,3,Stable / mixed / disagreement,EPSG:32613
+5,5,756915.0,4826565.0,5,3,Stable / mixed / disagreement,EPSG:32613
+5,6,756945.0,4826565.0,4,3,Stable / mixed / disagreement,EPSG:32613
+5,7,756975.0,4826565.0,4,3,Stable / mixed / disagreement,EPSG:32613
+5,8,757005.0,4826565.0,5,3,Stable / mixed / disagreement,EPSG:32613
+5,9,757035.0,4826565.0,1,1,Recovery,EPSG:32613
+5,10,757065.0,4826565.0,1,1,Recovery,EPSG:32613
+5,11,757095.0,4826565.0,4,3,Stable / mixed / disagreement,EPSG:32613
+5,12,757125.0,4826565.0,4,3,Stable / mixed / disagreement,EPSG:32613
+5,13,757155.0,4826565.0,4,3,Stable / mixed / disagreement,EPSG:32613
+5,14,757185.0,4826565.0,3,3,Stable / mixed / disagreement,EPSG:32613
+5,15,757215.0,4826565.0,3,3,Stable / mixed / disagreement,EPSG:32613
+5,16,757245.0,4826565.0,3,3,Stable / mixed / disagreement,EPSG:32613
+5,17,757275.0,4826565.0,5,3,Stable / mixed / disagreement,EPSG:32613
+5,18,757305.0,4826565.0,5,3,Stable / mixed / disagreement,EPSG:32613
+5,19,757335.0,4826565.0,5,3,Stable / mixed / disagreement,EPSG:32613
+5,20,757365.0,4826565.0,5,3,Stable / mixed / disagreement,EPSG:32613
+5,21,757395.0,4826565.0,4,3,Stable / mixed / disagreement,EPSG:32613
+5,22,757425.0,4826565.0,5,3,Stable / mixed / disagreement,EPSG:32613
+5,23,757455.0,4826565.0,5,3,Stable / mixed / disagreement,EPSG:32613
+5,24,757485.0,4826565.0,5,3,Stable / mixed / disagreement,EPSG:32613
+5,25,757515.0,4826565.0,5,3,Stable / mixed / disagreement,EPSG:32613
+5,26,757545.0,4826565.0,4,3,Stable / mixed / disagreement,EPSG:32613
+5,27,757575.0,4826565.0,5,3,Stable / mixed / disagreement,EPSG:32613
+5,28,757605.0,4826565.0,5,3,Stable / mixed / disagreement,EPSG:32613
+5,29,757635.0,4826565.0,5,3,Stable / mixed / disagreement,EPSG:32613
+5,30,757665.0,4826565.0,3,3,Stable / mixed / disagreement,EPSG:32613
+5,31,757695.0,4826565.0,3,3,Stable / mixed / disagreement,EPSG:32613
+5,32,757725.0,4826565.0,3,3,Stable / mixed / disagreement,EPSG:32613
+5,33,757755.0,4826565.0,3,3,Stable / mixed / disagreement,EPSG:32613
+5,34,757785.0,4826565.0,5,3,Stable / mixed / disagreement,EPSG:32613
+5,35,757815.0,4826565.0,5,3,Stable / mixed / disagreement,EPSG:32613
+5,36,757845.0,4826565.0,4,3,Stable / mixed / disagreement,EPSG:32613
+5,37,757875.0,4826565.0,5,3,Stable / mixed / disagreement,EPSG:32613
+5,38,757905.0,4826565.0,4,3,Stable / mixed / disagreement,EPSG:32613
+5,39,757935.0,4826565.0,3,3,Stable / mixed / disagreement,EPSG:32613
+5,40,757965.0,4826565.0,3,3,Stable / mixed / disagreement,EPSG:32613
+5,41,757995.0,4826565.0,3,3,Stable / mixed / disagreement,EPSG:32613
+5,42,758025.0,4826565.0,3,3,Stable / mixed / disagreement,EPSG:32613
+5,43,758055.0,4826565.0,4,3,Stable / mixed / disagreement,EPSG:32613
+5,44,758085.0,4826565.0,1,1,Recovery,EPSG:32613
+5,45,758115.0,4826565.0,1,1,Recovery,EPSG:32613
+5,46,758145.0,4826565.0,1,1,Recovery,EPSG:32613
+5,47,758175.0,4826565.0,1,1,Recovery,EPSG:32613
+5,48,758205.0,4826565.0,1,1,Recovery,EPSG:32613
+5,49,758235.0,4826565.0,1,1,Recovery,EPSG:32613
+5,50,758265.0,4826565.0,1,1,Recovery,EPSG:32613
+5,51,758295.0,4826565.0,1,1,Recovery,EPSG:32613
+5,52,758325.0,4826565.0,1,1,Recovery,EPSG:32613
+5,53,758355.0,4826565.0,1,1,Recovery,EPSG:32613
+5,54,758385.0,4826565.0,1,1,Recovery,EPSG:32613
+6,1,756795.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,2,756825.0,4826535.0,0,1,Recovery,EPSG:32613
+6,3,756855.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,4,756885.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,5,756915.0,4826535.0,0,1,Recovery,EPSG:32613
+6,6,756945.0,4826535.0,0,1,Recovery,EPSG:32613
+6,7,756975.0,4826535.0,0,1,Recovery,EPSG:32613
+6,8,757005.0,4826535.0,0,1,Recovery,EPSG:32613
+6,9,757035.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,10,757065.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,11,757095.0,4826535.0,4,3,Stable / mixed / disagreement,EPSG:32613
+6,12,757125.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,13,757155.0,4826535.0,3,3,Stable / mixed / disagreement,EPSG:32613
+6,14,757185.0,4826535.0,3,3,Stable / mixed / disagreement,EPSG:32613
+6,15,757215.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,16,757245.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,17,757275.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,18,757305.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,19,757335.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,20,757365.0,4826535.0,0,1,Recovery,EPSG:32613
+6,21,757395.0,4826535.0,4,3,Stable / mixed / disagreement,EPSG:32613
+6,22,757425.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,23,757455.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,24,757485.0,4826535.0,0,1,Recovery,EPSG:32613
+6,25,757515.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,26,757545.0,4826535.0,3,3,Stable / mixed / disagreement,EPSG:32613
+6,27,757575.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,28,757605.0,4826535.0,3,3,Stable / mixed / disagreement,EPSG:32613
+6,29,757635.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,30,757665.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,31,757695.0,4826535.0,3,3,Stable / mixed / disagreement,EPSG:32613
+6,32,757725.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,33,757755.0,4826535.0,4,3,Stable / mixed / disagreement,EPSG:32613
+6,34,757785.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,35,757815.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,36,757845.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,37,757875.0,4826535.0,3,3,Stable / mixed / disagreement,EPSG:32613
+6,38,757905.0,4826535.0,5,3,Stable / mixed / disagreement,EPSG:32613
+6,39,757935.0,4826535.0,4,3,Stable / mixed / disagreement,EPSG:32613
+6,40,757965.0,4826535.0,4,3,Stable / mixed / disagreement,EPSG:32613
+6,41,757995.0,4826535.0,4,3,Stable / mixed / disagreement,EPSG:32613
+6,42,758025.0,4826535.0,4,3,Stable / mixed / disagreement,EPSG:32613
+6,43,758055.0,4826535.0,1,1,Recovery,EPSG:32613
+6,44,758085.0,4826535.0,1,1,Recovery,EPSG:32613
+6,45,758115.0,4826535.0,1,1,Recovery,EPSG:32613
+6,46,758145.0,4826535.0,1,1,Recovery,EPSG:32613
+6,47,758175.0,4826535.0,1,1,Recovery,EPSG:32613
+6,48,758205.0,4826535.0,1,1,Recovery,EPSG:32613
+6,49,758235.0,4826535.0,1,1,Recovery,EPSG:32613
+6,50,758265.0,4826535.0,1,1,Recovery,EPSG:32613
+6,51,758295.0,4826535.0,1,1,Recovery,EPSG:32613
+6,52,758325.0,4826535.0,1,1,Recovery,EPSG:32613
+6,53,758355.0,4826535.0,1,1,Recovery,EPSG:32613
+6,54,758385.0,4826535.0,1,1,Recovery,EPSG:32613
+7,1,756795.0,4826505.0,3,3,Stable / mixed / disagreement,EPSG:32613
+7,2,756825.0,4826505.0,3,3,Stable / mixed / disagreement,EPSG:32613
+7,3,756855.0,4826505.0,3,3,Stable / mixed / disagreement,EPSG:32613
+7,4,756885.0,4826505.0,4,3,Stable / mixed / disagreement,EPSG:32613
+7,5,756915.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,6,756945.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,7,756975.0,4826505.0,1,1,Recovery,EPSG:32613
+7,8,757005.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,9,757035.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,10,757065.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,11,757095.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,12,757125.0,4826505.0,1,1,Recovery,EPSG:32613
+7,13,757155.0,4826505.0,1,1,Recovery,EPSG:32613
+7,14,757185.0,4826505.0,4,3,Stable / mixed / disagreement,EPSG:32613
+7,15,757215.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,16,757245.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,17,757275.0,4826505.0,4,3,Stable / mixed / disagreement,EPSG:32613
+7,18,757305.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,19,757335.0,4826505.0,1,1,Recovery,EPSG:32613
+7,20,757365.0,4826505.0,0,1,Recovery,EPSG:32613
+7,21,757395.0,4826505.0,3,3,Stable / mixed / disagreement,EPSG:32613
+7,22,757425.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,23,757455.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,24,757485.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,25,757515.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,26,757545.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,27,757575.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,28,757605.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,29,757635.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,30,757665.0,4826505.0,4,3,Stable / mixed / disagreement,EPSG:32613
+7,31,757695.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,32,757725.0,4826505.0,4,3,Stable / mixed / disagreement,EPSG:32613
+7,33,757755.0,4826505.0,4,3,Stable / mixed / disagreement,EPSG:32613
+7,34,757785.0,4826505.0,3,3,Stable / mixed / disagreement,EPSG:32613
+7,35,757815.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,36,757845.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,37,757875.0,4826505.0,4,3,Stable / mixed / disagreement,EPSG:32613
+7,38,757905.0,4826505.0,4,3,Stable / mixed / disagreement,EPSG:32613
+7,39,757935.0,4826505.0,4,3,Stable / mixed / disagreement,EPSG:32613
+7,40,757965.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,41,757995.0,4826505.0,1,1,Recovery,EPSG:32613
+7,42,758025.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,43,758055.0,4826505.0,1,1,Recovery,EPSG:32613
+7,44,758085.0,4826505.0,4,3,Stable / mixed / disagreement,EPSG:32613
+7,45,758115.0,4826505.0,5,3,Stable / mixed / disagreement,EPSG:32613
+7,46,758145.0,4826505.0,1,1,Recovery,EPSG:32613
+7,47,758175.0,4826505.0,1,1,Recovery,EPSG:32613
+7,48,758205.0,4826505.0,1,1,Recovery,EPSG:32613
+7,49,758235.0,4826505.0,1,1,Recovery,EPSG:32613
+7,50,758265.0,4826505.0,1,1,Recovery,EPSG:32613
+7,51,758295.0,4826505.0,1,1,Recovery,EPSG:32613
+7,52,758325.0,4826505.0,1,1,Recovery,EPSG:32613
+7,53,758355.0,4826505.0,1,1,Recovery,EPSG:32613
+7,54,758385.0,4826505.0,1,1,Recovery,EPSG:32613
+8,1,756795.0,4826475.0,3,3,Stable / mixed / disagreement,EPSG:32613
+8,2,756825.0,4826475.0,3,3,Stable / mixed / disagreement,EPSG:32613
+8,3,756855.0,4826475.0,5,3,Stable / mixed / disagreement,EPSG:32613
+8,4,756885.0,4826475.0,3,3,Stable / mixed / disagreement,EPSG:32613
+8,5,756915.0,4826475.0,5,3,Stable / mixed / disagreement,EPSG:32613
+8,6,756945.0,4826475.0,4,3,Stable / mixed / disagreement,EPSG:32613
+8,7,756975.0,4826475.0,1,1,Recovery,EPSG:32613
+8,8,757005.0,4826475.0,0,1,Recovery,EPSG:32613
+8,9,757035.0,4826475.0,5,3,Stable / mixed / disagreement,EPSG:32613
+8,10,757065.0,4826475.0,5,3,Stable / mixed / disagreement,EPSG:32613
+8,11,757095.0,4826475.0,5,3,Stable / mixed / disagreement,EPSG:32613
+8,12,757125.0,4826475.0,1,1,Recovery,EPSG:32613
+8,13,757155.0,4826475.0,1,1,Recovery,EPSG:32613
+8,14,757185.0,4826475.0,4,3,Stable / mixed / disagreement,EPSG:32613
+8,15,757215.0,4826475.0,3,3,Stable / mixed / disagreement,EPSG:32613
+8,16,757245.0,4826475.0,5,3,Stable / mixed / disagreement,EPSG:32613
+8,17,757275.0,4826475.0,5,3,Stable / mixed / disagreement,EPSG:32613
+8,18,757305.0,4826475.0,1,1,Recovery,EPSG:32613
+8,19,757335.0,4826475.0,1,1,Recovery,EPSG:32613
+8,20,757365.0,4826475.0,5,3,Stable / mixed / disagreement,EPSG:32613
+8,21,757395.0,4826475.0,4,3,Stable / mixed / disagreement,EPSG:32613
+8,22,757425.0,4826475.0,5,3,Stable / mixed / disagreement,EPSG:32613
+8,23,757455.0,4826475.0,4,3,Stable / mixed / disagreement,EPSG:32613
+8,24,757485.0,4826475.0,4,3,Stable / mixed / disagreement,EPSG:32613
+8,25,757515.0,4826475.0,5,3,Stable / mixed / disagreement,EPSG:32613
+8,26,757545.0,4826475.0,5,3,Stable / mixed / disagreement,EPSG:32613
+8,27,757575.0,4826475.0,5,3,Stable / mixed / disagreement,EPSG:32613
+8,28,757605.0,4826475.0,1,1,Recovery,EPSG:32613
+8,29,757635.0,4826475.0,1,1,Recovery,EPSG:32613
+8,30,757665.0,4826475.0,1,1,Recovery,EPSG:32613
+8,31,757695.0,4826475.0,5,3,Stable / mixed / disagreement,EPSG:32613
+8,32,757725.0,4826475.0,4,3,Stable / mixed / disagreement,EPSG:32613
+8,33,757755.0,4826475.0,3,3,Stable / mixed / disagreement,EPSG:32613
+8,34,757785.0,4826475.0,3,3,Stable / mixed / disagreement,EPSG:32613
+8,35,757815.0,4826475.0,4,3,Stable / mixed / disagreement,EPSG:32613
+8,36,757845.0,4826475.0,4,3,Stable / mixed / disagreement,EPSG:32613
+8,37,757875.0,4826475.0,4,3,Stable / mixed / disagreement,EPSG:32613
+8,38,757905.0,4826475.0,4,3,Stable / mixed / disagreement,EPSG:32613
+8,39,757935.0,4826475.0,4,3,Stable / mixed / disagreement,EPSG:32613
+8,40,757965.0,4826475.0,4,3,Stable / mixed / disagreement,EPSG:32613
+8,41,757995.0,4826475.0,1,1,Recovery,EPSG:32613
+8,42,758025.0,4826475.0,1,1,Recovery,EPSG:32613
+8,43,758055.0,4826475.0,1,1,Recovery,EPSG:32613
+8,44,758085.0,4826475.0,1,1,Recovery,EPSG:32613
+8,45,758115.0,4826475.0,4,3,Stable / mixed / disagreement,EPSG:32613
+8,46,758145.0,4826475.0,5,3,Stable / mixed / disagreement,EPSG:32613
+8,47,758175.0,4826475.0,5,3,Stable / mixed / disagreement,EPSG:32613
+8,48,758205.0,4826475.0,5,3,Stable / mixed / disagreement,EPSG:32613
+8,49,758235.0,4826475.0,1,1,Recovery,EPSG:32613
+8,50,758265.0,4826475.0,4,3,Stable / mixed / disagreement,EPSG:32613
+8,51,758295.0,4826475.0,5,3,Stable / mixed / disagreement,EPSG:32613
+8,52,758325.0,4826475.0,1,1,Recovery,EPSG:32613
+8,53,758355.0,4826475.0,1,1,Recovery,EPSG:32613
+8,54,758385.0,4826475.0,1,1,Recovery,EPSG:32613
+9,1,756795.0,4826445.0,3,3,Stable / mixed / disagreement,EPSG:32613
+9,2,756825.0,4826445.0,5,3,Stable / mixed / disagreement,EPSG:32613
+9,3,756855.0,4826445.0,5,3,Stable / mixed / disagreement,EPSG:32613
+9,4,756885.0,4826445.0,3,3,Stable / mixed / disagreement,EPSG:32613
+9,5,756915.0,4826445.0,3,3,Stable / mixed / disagreement,EPSG:32613
+9,6,756945.0,4826445.0,0,1,Recovery,EPSG:32613
+9,7,756975.0,4826445.0,5,3,Stable / mixed / disagreement,EPSG:32613
+9,8,757005.0,4826445.0,5,3,Stable / mixed / disagreement,EPSG:32613
+9,9,757035.0,4826445.0,0,1,Recovery,EPSG:32613
+9,10,757065.0,4826445.0,5,3,Stable / mixed / disagreement,EPSG:32613
+9,11,757095.0,4826445.0,3,3,Stable / mixed / disagreement,EPSG:32613
+9,12,757125.0,4826445.0,4,3,Stable / mixed / disagreement,EPSG:32613
+9,13,757155.0,4826445.0,1,1,Recovery,EPSG:32613
+9,14,757185.0,4826445.0,1,1,Recovery,EPSG:32613
+9,15,757215.0,4826445.0,5,3,Stable / mixed / disagreement,EPSG:32613
+9,16,757245.0,4826445.0,4,3,Stable / mixed / disagreement,EPSG:32613
+9,17,757275.0,4826445.0,5,3,Stable / mixed / disagreement,EPSG:32613
+9,18,757305.0,4826445.0,1,1,Recovery,EPSG:32613
+9,19,757335.0,4826445.0,1,1,Recovery,EPSG:32613
+9,20,757365.0,4826445.0,0,1,Recovery,EPSG:32613
+9,21,757395.0,4826445.0,1,1,Recovery,EPSG:32613
+9,22,757425.0,4826445.0,4,3,Stable / mixed / disagreement,EPSG:32613
+9,23,757455.0,4826445.0,5,3,Stable / mixed / disagreement,EPSG:32613
+9,24,757485.0,4826445.0,5,3,Stable / mixed / disagreement,EPSG:32613
+9,25,757515.0,4826445.0,4,3,Stable / mixed / disagreement,EPSG:32613
+9,26,757545.0,4826445.0,1,1,Recovery,EPSG:32613
+9,27,757575.0,4826445.0,1,1,Recovery,EPSG:32613
+9,28,757605.0,4826445.0,1,1,Recovery,EPSG:32613
+9,29,757635.0,4826445.0,1,1,Recovery,EPSG:32613
+9,30,757665.0,4826445.0,5,3,Stable / mixed / disagreement,EPSG:32613
+9,31,757695.0,4826445.0,1,1,Recovery,EPSG:32613
+9,32,757725.0,4826445.0,4,3,Stable / mixed / disagreement,EPSG:32613
+9,33,757755.0,4826445.0,4,3,Stable / mixed / disagreement,EPSG:32613
+9,34,757785.0,4826445.0,5,3,Stable / mixed / disagreement,EPSG:32613
+9,35,757815.0,4826445.0,4,3,Stable / mixed / disagreement,EPSG:32613
+9,36,757845.0,4826445.0,5,3,Stable / mixed / disagreement,EPSG:32613
+9,37,757875.0,4826445.0,5,3,Stable / mixed / disagreement,EPSG:32613
+9,38,757905.0,4826445.0,4,3,Stable / mixed / disagreement,EPSG:32613
+9,39,757935.0,4826445.0,4,3,Stable / mixed / disagreement,EPSG:32613
+9,40,757965.0,4826445.0,1,1,Recovery,EPSG:32613
+9,41,757995.0,4826445.0,1,1,Recovery,EPSG:32613
+9,42,758025.0,4826445.0,1,1,Recovery,EPSG:32613
+9,43,758055.0,4826445.0,1,1,Recovery,EPSG:32613
+9,44,758085.0,4826445.0,1,1,Recovery,EPSG:32613
+9,45,758115.0,4826445.0,1,1,Recovery,EPSG:32613
+9,46,758145.0,4826445.0,1,1,Recovery,EPSG:32613
+9,47,758175.0,4826445.0,4,3,Stable / mixed / disagreement,EPSG:32613
+9,48,758205.0,4826445.0,5,3,Stable / mixed / disagreement,EPSG:32613
+9,49,758235.0,4826445.0,5,3,Stable / mixed / disagreement,EPSG:32613
+9,50,758265.0,4826445.0,5,3,Stable / mixed / disagreement,EPSG:32613
+9,51,758295.0,4826445.0,5,3,Stable / mixed / disagreement,EPSG:32613
+9,52,758325.0,4826445.0,1,1,Recovery,EPSG:32613
+9,53,758355.0,4826445.0,1,1,Recovery,EPSG:32613
+9,54,758385.0,4826445.0,1,1,Recovery,EPSG:32613
+10,1,756795.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,2,756825.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,3,756855.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,4,756885.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,5,756915.0,4826415.0,1,1,Recovery,EPSG:32613
+10,6,756945.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,7,756975.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,8,757005.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,9,757035.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,10,757065.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,11,757095.0,4826415.0,3,3,Stable / mixed / disagreement,EPSG:32613
+10,12,757125.0,4826415.0,4,3,Stable / mixed / disagreement,EPSG:32613
+10,13,757155.0,4826415.0,1,1,Recovery,EPSG:32613
+10,14,757185.0,4826415.0,1,1,Recovery,EPSG:32613
+10,15,757215.0,4826415.0,1,1,Recovery,EPSG:32613
+10,16,757245.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,17,757275.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,18,757305.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,19,757335.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,20,757365.0,4826415.0,4,3,Stable / mixed / disagreement,EPSG:32613
+10,21,757395.0,4826415.0,1,1,Recovery,EPSG:32613
+10,22,757425.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,23,757455.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,24,757485.0,4826415.0,4,3,Stable / mixed / disagreement,EPSG:32613
+10,25,757515.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,26,757545.0,4826415.0,1,1,Recovery,EPSG:32613
+10,27,757575.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,28,757605.0,4826415.0,0,1,Recovery,EPSG:32613
+10,29,757635.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,30,757665.0,4826415.0,4,3,Stable / mixed / disagreement,EPSG:32613
+10,31,757695.0,4826415.0,1,1,Recovery,EPSG:32613
+10,32,757725.0,4826415.0,4,3,Stable / mixed / disagreement,EPSG:32613
+10,33,757755.0,4826415.0,2,2,Continued decline,EPSG:32613
+10,34,757785.0,4826415.0,2,2,Continued decline,EPSG:32613
+10,35,757815.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,36,757845.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,37,757875.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,38,757905.0,4826415.0,1,1,Recovery,EPSG:32613
+10,39,757935.0,4826415.0,1,1,Recovery,EPSG:32613
+10,40,757965.0,4826415.0,1,1,Recovery,EPSG:32613
+10,41,757995.0,4826415.0,1,1,Recovery,EPSG:32613
+10,42,758025.0,4826415.0,1,1,Recovery,EPSG:32613
+10,43,758055.0,4826415.0,1,1,Recovery,EPSG:32613
+10,44,758085.0,4826415.0,1,1,Recovery,EPSG:32613
+10,45,758115.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,46,758145.0,4826415.0,0,1,Recovery,EPSG:32613
+10,47,758175.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,48,758205.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,49,758235.0,4826415.0,1,1,Recovery,EPSG:32613
+10,50,758265.0,4826415.0,1,1,Recovery,EPSG:32613
+10,51,758295.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,52,758325.0,4826415.0,5,3,Stable / mixed / disagreement,EPSG:32613
+10,53,758355.0,4826415.0,1,1,Recovery,EPSG:32613
+10,54,758385.0,4826415.0,1,1,Recovery,EPSG:32613
+11,1,756795.0,4826385.0,4,3,Stable / mixed / disagreement,EPSG:32613
+11,2,756825.0,4826385.0,4,3,Stable / mixed / disagreement,EPSG:32613
+11,3,756855.0,4826385.0,3,3,Stable / mixed / disagreement,EPSG:32613
+11,4,756885.0,4826385.0,5,3,Stable / mixed / disagreement,EPSG:32613
+11,5,756915.0,4826385.0,1,1,Recovery,EPSG:32613
+11,6,756945.0,4826385.0,1,1,Recovery,EPSG:32613
+11,7,756975.0,4826385.0,4,3,Stable / mixed / disagreement,EPSG:32613
+11,8,757005.0,4826385.0,5,3,Stable / mixed / disagreement,EPSG:32613
+11,9,757035.0,4826385.0,5,3,Stable / mixed / disagreement,EPSG:32613
+11,10,757065.0,4826385.0,3,3,Stable / mixed / disagreement,EPSG:32613
+11,11,757095.0,4826385.0,3,3,Stable / mixed / disagreement,EPSG:32613
+11,12,757125.0,4826385.0,3,3,Stable / mixed / disagreement,EPSG:32613
+11,13,757155.0,4826385.0,5,3,Stable / mixed / disagreement,EPSG:32613
+11,14,757185.0,4826385.0,4,3,Stable / mixed / disagreement,EPSG:32613
+11,15,757215.0,4826385.0,4,3,Stable / mixed / disagreement,EPSG:32613
+11,16,757245.0,4826385.0,4,3,Stable / mixed / disagreement,EPSG:32613
+11,17,757275.0,4826385.0,4,3,Stable / mixed / disagreement,EPSG:32613
+11,18,757305.0,4826385.0,4,3,Stable / mixed / disagreement,EPSG:32613
+11,19,757335.0,4826385.0,3,3,Stable / mixed / disagreement,EPSG:32613
+11,20,757365.0,4826385.0,4,3,Stable / mixed / disagreement,EPSG:32613
+11,21,757395.0,4826385.0,1,1,Recovery,EPSG:32613
+11,22,757425.0,4826385.0,1,1,Recovery,EPSG:32613
+11,23,757455.0,4826385.0,1,1,Recovery,EPSG:32613
+11,24,757485.0,4826385.0,4,3,Stable / mixed / disagreement,EPSG:32613
+11,25,757515.0,4826385.0,5,3,Stable / mixed / disagreement,EPSG:32613
+11,26,757545.0,4826385.0,1,1,Recovery,EPSG:32613
+11,27,757575.0,4826385.0,1,1,Recovery,EPSG:32613
+11,28,757605.0,4826385.0,5,3,Stable / mixed / disagreement,EPSG:32613
+11,29,757635.0,4826385.0,5,3,Stable / mixed / disagreement,EPSG:32613
+11,30,757665.0,4826385.0,5,3,Stable / mixed / disagreement,EPSG:32613
+11,31,757695.0,4826385.0,5,3,Stable / mixed / disagreement,EPSG:32613
+11,32,757725.0,4826385.0,5,3,Stable / mixed / disagreement,EPSG:32613
+11,33,757755.0,4826385.0,4,3,Stable / mixed / disagreement,EPSG:32613
+11,34,757785.0,4826385.0,5,3,Stable / mixed / disagreement,EPSG:32613
+11,35,757815.0,4826385.0,2,2,Continued decline,EPSG:32613
+11,36,757845.0,4826385.0,2,2,Continued decline,EPSG:32613
+11,37,757875.0,4826385.0,4,3,Stable / mixed / disagreement,EPSG:32613
+11,38,757905.0,4826385.0,5,3,Stable / mixed / disagreement,EPSG:32613
+11,39,757935.0,4826385.0,1,1,Recovery,EPSG:32613
+11,40,757965.0,4826385.0,1,1,Recovery,EPSG:32613
+11,41,757995.0,4826385.0,1,1,Recovery,EPSG:32613
+11,42,758025.0,4826385.0,1,1,Recovery,EPSG:32613
+11,43,758055.0,4826385.0,1,1,Recovery,EPSG:32613
+11,44,758085.0,4826385.0,1,1,Recovery,EPSG:32613
+11,45,758115.0,4826385.0,5,3,Stable / mixed / disagreement,EPSG:32613
+11,46,758145.0,4826385.0,1,1,Recovery,EPSG:32613
+11,47,758175.0,4826385.0,1,1,Recovery,EPSG:32613
+11,48,758205.0,4826385.0,1,1,Recovery,EPSG:32613
+11,49,758235.0,4826385.0,1,1,Recovery,EPSG:32613
+11,50,758265.0,4826385.0,1,1,Recovery,EPSG:32613
+11,51,758295.0,4826385.0,1,1,Recovery,EPSG:32613
+11,52,758325.0,4826385.0,1,1,Recovery,EPSG:32613
+11,53,758355.0,4826385.0,1,1,Recovery,EPSG:32613
+11,54,758385.0,4826385.0,1,1,Recovery,EPSG:32613
+11,55,758415.0,4826385.0,1,1,Recovery,EPSG:32613
+12,1,756795.0,4826355.0,5,3,Stable / mixed / disagreement,EPSG:32613
+12,2,756825.0,4826355.0,5,3,Stable / mixed / disagreement,EPSG:32613
+12,3,756855.0,4826355.0,5,3,Stable / mixed / disagreement,EPSG:32613
+12,4,756885.0,4826355.0,1,1,Recovery,EPSG:32613
+12,5,756915.0,4826355.0,5,3,Stable / mixed / disagreement,EPSG:32613
+12,6,756945.0,4826355.0,5,3,Stable / mixed / disagreement,EPSG:32613
+12,7,756975.0,4826355.0,5,3,Stable / mixed / disagreement,EPSG:32613
+12,8,757005.0,4826355.0,5,3,Stable / mixed / disagreement,EPSG:32613
+12,9,757035.0,4826355.0,5,3,Stable / mixed / disagreement,EPSG:32613
+12,10,757065.0,4826355.0,4,3,Stable / mixed / disagreement,EPSG:32613
+12,11,757095.0,4826355.0,5,3,Stable / mixed / disagreement,EPSG:32613
+12,12,757125.0,4826355.0,3,3,Stable / mixed / disagreement,EPSG:32613
+12,13,757155.0,4826355.0,3,3,Stable / mixed / disagreement,EPSG:32613
+12,14,757185.0,4826355.0,5,3,Stable / mixed / disagreement,EPSG:32613
+12,15,757215.0,4826355.0,5,3,Stable / mixed / disagreement,EPSG:32613
+12,16,757245.0,4826355.0,5,3,Stable / mixed / disagreement,EPSG:32613
+12,17,757275.0,4826355.0,5,3,Stable / mixed / disagreement,EPSG:32613
+12,18,757305.0,4826355.0,5,3,Stable / mixed / disagreement,EPSG:32613
+12,19,757335.0,4826355.0,3,3,Stable / mixed / disagreement,EPSG:32613
+12,20,757365.0,4826355.0,3,3,Stable / mixed / disagreement,EPSG:32613
+12,21,757395.0,4826355.0,4,3,Stable / mixed / disagreement,EPSG:32613
+12,22,757425.0,4826355.0,1,1,Recovery,EPSG:32613
+12,23,757455.0,4826355.0,1,1,Recovery,EPSG:32613
+12,24,757485.0,4826355.0,0,1,Recovery,EPSG:32613
+12,25,757515.0,4826355.0,5,3,Stable / mixed / disagreement,EPSG:32613
+12,26,757545.0,4826355.0,5,3,Stable / mixed / disagreement,EPSG:32613
+12,27,757575.0,4826355.0,1,1,Recovery,EPSG:32613
+12,28,757605.0,4826355.0,1,1,Recovery,EPSG:32613
+12,29,757635.0,4826355.0,5,3,Stable / mixed / disagreement,EPSG:32613
+12,30,757665.0,4826355.0,4,3,Stable / mixed / disagreement,EPSG:32613
+12,31,757695.0,4826355.0,1,1,Recovery,EPSG:32613
+12,32,757725.0,4826355.0,1,1,Recovery,EPSG:32613
+12,33,757755.0,4826355.0,4,3,Stable / mixed / disagreement,EPSG:32613
+12,34,757785.0,4826355.0,2,2,Continued decline,EPSG:32613
+12,35,757815.0,4826355.0,4,3,Stable / mixed / disagreement,EPSG:32613
+12,36,757845.0,4826355.0,4,3,Stable / mixed / disagreement,EPSG:32613
+12,37,757875.0,4826355.0,4,3,Stable / mixed / disagreement,EPSG:32613
+12,38,757905.0,4826355.0,4,3,Stable / mixed / disagreement,EPSG:32613
+12,39,757935.0,4826355.0,1,1,Recovery,EPSG:32613
+12,40,757965.0,4826355.0,1,1,Recovery,EPSG:32613
+12,41,757995.0,4826355.0,5,3,Stable / mixed / disagreement,EPSG:32613
+12,42,758025.0,4826355.0,1,1,Recovery,EPSG:32613
+12,43,758055.0,4826355.0,1,1,Recovery,EPSG:32613
+12,44,758085.0,4826355.0,5,3,Stable / mixed / disagreement,EPSG:32613
+12,45,758115.0,4826355.0,5,3,Stable / mixed / disagreement,EPSG:32613
+12,46,758145.0,4826355.0,1,1,Recovery,EPSG:32613
+12,47,758175.0,4826355.0,1,1,Recovery,EPSG:32613
+12,48,758205.0,4826355.0,1,1,Recovery,EPSG:32613
+12,49,758235.0,4826355.0,1,1,Recovery,EPSG:32613
+12,50,758265.0,4826355.0,1,1,Recovery,EPSG:32613
+12,51,758295.0,4826355.0,1,1,Recovery,EPSG:32613
+12,52,758325.0,4826355.0,1,1,Recovery,EPSG:32613
+12,53,758355.0,4826355.0,1,1,Recovery,EPSG:32613
+12,54,758385.0,4826355.0,1,1,Recovery,EPSG:32613
+12,55,758415.0,4826355.0,1,1,Recovery,EPSG:32613
+13,1,756795.0,4826325.0,1,1,Recovery,EPSG:32613
+13,2,756825.0,4826325.0,1,1,Recovery,EPSG:32613
+13,3,756855.0,4826325.0,1,1,Recovery,EPSG:32613
+13,4,756885.0,4826325.0,1,1,Recovery,EPSG:32613
+13,5,756915.0,4826325.0,1,1,Recovery,EPSG:32613
+13,6,756945.0,4826325.0,5,3,Stable / mixed / disagreement,EPSG:32613
+13,7,756975.0,4826325.0,0,1,Recovery,EPSG:32613
+13,8,757005.0,4826325.0,5,3,Stable / mixed / disagreement,EPSG:32613
+13,9,757035.0,4826325.0,5,3,Stable / mixed / disagreement,EPSG:32613
+13,10,757065.0,4826325.0,3,3,Stable / mixed / disagreement,EPSG:32613
+13,11,757095.0,4826325.0,3,3,Stable / mixed / disagreement,EPSG:32613
+13,12,757125.0,4826325.0,5,3,Stable / mixed / disagreement,EPSG:32613
+13,13,757155.0,4826325.0,5,3,Stable / mixed / disagreement,EPSG:32613
+13,14,757185.0,4826325.0,3,3,Stable / mixed / disagreement,EPSG:32613
+13,15,757215.0,4826325.0,4,3,Stable / mixed / disagreement,EPSG:32613
+13,16,757245.0,4826325.0,3,3,Stable / mixed / disagreement,EPSG:32613
+13,17,757275.0,4826325.0,3,3,Stable / mixed / disagreement,EPSG:32613
+13,18,757305.0,4826325.0,3,3,Stable / mixed / disagreement,EPSG:32613
+13,19,757335.0,4826325.0,5,3,Stable / mixed / disagreement,EPSG:32613
+13,20,757365.0,4826325.0,5,3,Stable / mixed / disagreement,EPSG:32613
+13,21,757395.0,4826325.0,5,3,Stable / mixed / disagreement,EPSG:32613
+13,22,757425.0,4826325.0,5,3,Stable / mixed / disagreement,EPSG:32613
+13,23,757455.0,4826325.0,1,1,Recovery,EPSG:32613
+13,24,757485.0,4826325.0,1,1,Recovery,EPSG:32613
+13,25,757515.0,4826325.0,4,3,Stable / mixed / disagreement,EPSG:32613
+13,26,757545.0,4826325.0,1,1,Recovery,EPSG:32613
+13,27,757575.0,4826325.0,1,1,Recovery,EPSG:32613
+13,28,757605.0,4826325.0,1,1,Recovery,EPSG:32613
+13,29,757635.0,4826325.0,5,3,Stable / mixed / disagreement,EPSG:32613
+13,30,757665.0,4826325.0,5,3,Stable / mixed / disagreement,EPSG:32613
+13,31,757695.0,4826325.0,5,3,Stable / mixed / disagreement,EPSG:32613
+13,32,757725.0,4826325.0,4,3,Stable / mixed / disagreement,EPSG:32613
+13,33,757755.0,4826325.0,4,3,Stable / mixed / disagreement,EPSG:32613
+13,34,757785.0,4826325.0,4,3,Stable / mixed / disagreement,EPSG:32613
+13,35,757815.0,4826325.0,4,3,Stable / mixed / disagreement,EPSG:32613
+13,36,757845.0,4826325.0,4,3,Stable / mixed / disagreement,EPSG:32613
+13,37,757875.0,4826325.0,4,3,Stable / mixed / disagreement,EPSG:32613
+13,38,757905.0,4826325.0,1,1,Recovery,EPSG:32613
+13,39,757935.0,4826325.0,1,1,Recovery,EPSG:32613
+13,40,757965.0,4826325.0,1,1,Recovery,EPSG:32613
+13,41,757995.0,4826325.0,5,3,Stable / mixed / disagreement,EPSG:32613
+13,42,758025.0,4826325.0,1,1,Recovery,EPSG:32613
+13,43,758055.0,4826325.0,1,1,Recovery,EPSG:32613
+13,44,758085.0,4826325.0,1,1,Recovery,EPSG:32613
+13,45,758115.0,4826325.0,1,1,Recovery,EPSG:32613
+13,46,758145.0,4826325.0,1,1,Recovery,EPSG:32613
+13,47,758175.0,4826325.0,1,1,Recovery,EPSG:32613
+13,48,758205.0,4826325.0,1,1,Recovery,EPSG:32613
+13,49,758235.0,4826325.0,1,1,Recovery,EPSG:32613
+13,50,758265.0,4826325.0,1,1,Recovery,EPSG:32613
+13,51,758295.0,4826325.0,1,1,Recovery,EPSG:32613
+13,52,758325.0,4826325.0,1,1,Recovery,EPSG:32613
+13,53,758355.0,4826325.0,1,1,Recovery,EPSG:32613
+13,54,758385.0,4826325.0,1,1,Recovery,EPSG:32613
+13,55,758415.0,4826325.0,1,1,Recovery,EPSG:32613
+14,1,756795.0,4826295.0,1,1,Recovery,EPSG:32613
+14,2,756825.0,4826295.0,1,1,Recovery,EPSG:32613
+14,3,756855.0,4826295.0,1,1,Recovery,EPSG:32613
+14,4,756885.0,4826295.0,1,1,Recovery,EPSG:32613
+14,5,756915.0,4826295.0,1,1,Recovery,EPSG:32613
+14,6,756945.0,4826295.0,5,3,Stable / mixed / disagreement,EPSG:32613
+14,7,756975.0,4826295.0,3,3,Stable / mixed / disagreement,EPSG:32613
+14,8,757005.0,4826295.0,5,3,Stable / mixed / disagreement,EPSG:32613
+14,9,757035.0,4826295.0,3,3,Stable / mixed / disagreement,EPSG:32613
+14,10,757065.0,4826295.0,3,3,Stable / mixed / disagreement,EPSG:32613
+14,11,757095.0,4826295.0,4,3,Stable / mixed / disagreement,EPSG:32613
+14,12,757125.0,4826295.0,3,3,Stable / mixed / disagreement,EPSG:32613
+14,13,757155.0,4826295.0,3,3,Stable / mixed / disagreement,EPSG:32613
+14,14,757185.0,4826295.0,3,3,Stable / mixed / disagreement,EPSG:32613
+14,15,757215.0,4826295.0,5,3,Stable / mixed / disagreement,EPSG:32613
+14,16,757245.0,4826295.0,3,3,Stable / mixed / disagreement,EPSG:32613
+14,17,757275.0,4826295.0,3,3,Stable / mixed / disagreement,EPSG:32613
+14,18,757305.0,4826295.0,5,3,Stable / mixed / disagreement,EPSG:32613
+14,19,757335.0,4826295.0,1,1,Recovery,EPSG:32613
+14,20,757365.0,4826295.0,5,3,Stable / mixed / disagreement,EPSG:32613
+14,21,757395.0,4826295.0,4,3,Stable / mixed / disagreement,EPSG:32613
+14,22,757425.0,4826295.0,4,3,Stable / mixed / disagreement,EPSG:32613
+14,23,757455.0,4826295.0,1,1,Recovery,EPSG:32613
+14,24,757485.0,4826295.0,4,3,Stable / mixed / disagreement,EPSG:32613
+14,25,757515.0,4826295.0,4,3,Stable / mixed / disagreement,EPSG:32613
+14,26,757545.0,4826295.0,5,3,Stable / mixed / disagreement,EPSG:32613
+14,27,757575.0,4826295.0,5,3,Stable / mixed / disagreement,EPSG:32613
+14,28,757605.0,4826295.0,5,3,Stable / mixed / disagreement,EPSG:32613
+14,29,757635.0,4826295.0,5,3,Stable / mixed / disagreement,EPSG:32613
+14,30,757665.0,4826295.0,5,3,Stable / mixed / disagreement,EPSG:32613
+14,31,757695.0,4826295.0,5,3,Stable / mixed / disagreement,EPSG:32613
+14,32,757725.0,4826295.0,4,3,Stable / mixed / disagreement,EPSG:32613
+14,33,757755.0,4826295.0,5,3,Stable / mixed / disagreement,EPSG:32613
+14,34,757785.0,4826295.0,5,3,Stable / mixed / disagreement,EPSG:32613
+14,35,757815.0,4826295.0,4,3,Stable / mixed / disagreement,EPSG:32613
+14,36,757845.0,4826295.0,1,1,Recovery,EPSG:32613
+14,37,757875.0,4826295.0,1,1,Recovery,EPSG:32613
+14,38,757905.0,4826295.0,1,1,Recovery,EPSG:32613
+14,39,757935.0,4826295.0,1,1,Recovery,EPSG:32613
+14,40,757965.0,4826295.0,5,3,Stable / mixed / disagreement,EPSG:32613
+14,41,757995.0,4826295.0,5,3,Stable / mixed / disagreement,EPSG:32613
+14,42,758025.0,4826295.0,1,1,Recovery,EPSG:32613
+14,43,758055.0,4826295.0,1,1,Recovery,EPSG:32613
+14,44,758085.0,4826295.0,1,1,Recovery,EPSG:32613
+14,45,758115.0,4826295.0,1,1,Recovery,EPSG:32613
+14,46,758145.0,4826295.0,1,1,Recovery,EPSG:32613
+14,47,758175.0,4826295.0,1,1,Recovery,EPSG:32613
+14,48,758205.0,4826295.0,1,1,Recovery,EPSG:32613
+14,49,758235.0,4826295.0,1,1,Recovery,EPSG:32613
+14,50,758265.0,4826295.0,1,1,Recovery,EPSG:32613
+14,51,758295.0,4826295.0,1,1,Recovery,EPSG:32613
+14,52,758325.0,4826295.0,1,1,Recovery,EPSG:32613
+14,53,758355.0,4826295.0,1,1,Recovery,EPSG:32613
+14,54,758385.0,4826295.0,5,3,Stable / mixed / disagreement,EPSG:32613
+14,55,758415.0,4826295.0,5,3,Stable / mixed / disagreement,EPSG:32613
+15,1,756795.0,4826265.0,1,1,Recovery,EPSG:32613
+15,2,756825.0,4826265.0,1,1,Recovery,EPSG:32613
+15,3,756855.0,4826265.0,1,1,Recovery,EPSG:32613
+15,4,756885.0,4826265.0,5,3,Stable / mixed / disagreement,EPSG:32613
+15,5,756915.0,4826265.0,4,3,Stable / mixed / disagreement,EPSG:32613
+15,6,756945.0,4826265.0,5,3,Stable / mixed / disagreement,EPSG:32613
+15,7,756975.0,4826265.0,3,3,Stable / mixed / disagreement,EPSG:32613
+15,8,757005.0,4826265.0,4,3,Stable / mixed / disagreement,EPSG:32613
+15,9,757035.0,4826265.0,4,3,Stable / mixed / disagreement,EPSG:32613
+15,10,757065.0,4826265.0,5,3,Stable / mixed / disagreement,EPSG:32613
+15,11,757095.0,4826265.0,3,3,Stable / mixed / disagreement,EPSG:32613
+15,12,757125.0,4826265.0,3,3,Stable / mixed / disagreement,EPSG:32613
+15,13,757155.0,4826265.0,3,3,Stable / mixed / disagreement,EPSG:32613
+15,14,757185.0,4826265.0,4,3,Stable / mixed / disagreement,EPSG:32613
+15,15,757215.0,4826265.0,3,3,Stable / mixed / disagreement,EPSG:32613
+15,16,757245.0,4826265.0,3,3,Stable / mixed / disagreement,EPSG:32613
+15,17,757275.0,4826265.0,5,3,Stable / mixed / disagreement,EPSG:32613
+15,18,757305.0,4826265.0,1,1,Recovery,EPSG:32613
+15,19,757335.0,4826265.0,1,1,Recovery,EPSG:32613
+15,20,757365.0,4826265.0,5,3,Stable / mixed / disagreement,EPSG:32613
+15,21,757395.0,4826265.0,5,3,Stable / mixed / disagreement,EPSG:32613
+15,22,757425.0,4826265.0,5,3,Stable / mixed / disagreement,EPSG:32613
+15,23,757455.0,4826265.0,4,3,Stable / mixed / disagreement,EPSG:32613
+15,24,757485.0,4826265.0,5,3,Stable / mixed / disagreement,EPSG:32613
+15,25,757515.0,4826265.0,3,3,Stable / mixed / disagreement,EPSG:32613
+15,26,757545.0,4826265.0,5,3,Stable / mixed / disagreement,EPSG:32613
+15,27,757575.0,4826265.0,5,3,Stable / mixed / disagreement,EPSG:32613
+15,28,757605.0,4826265.0,3,3,Stable / mixed / disagreement,EPSG:32613
+15,29,757635.0,4826265.0,5,3,Stable / mixed / disagreement,EPSG:32613
+15,30,757665.0,4826265.0,4,3,Stable / mixed / disagreement,EPSG:32613
+15,31,757695.0,4826265.0,4,3,Stable / mixed / disagreement,EPSG:32613
+15,32,757725.0,4826265.0,4,3,Stable / mixed / disagreement,EPSG:32613
+15,33,757755.0,4826265.0,4,3,Stable / mixed / disagreement,EPSG:32613
+15,34,757785.0,4826265.0,5,3,Stable / mixed / disagreement,EPSG:32613
+15,35,757815.0,4826265.0,1,1,Recovery,EPSG:32613
+15,36,757845.0,4826265.0,1,1,Recovery,EPSG:32613
+15,37,757875.0,4826265.0,1,1,Recovery,EPSG:32613
+15,38,757905.0,4826265.0,1,1,Recovery,EPSG:32613
+15,39,757935.0,4826265.0,1,1,Recovery,EPSG:32613
+15,40,757965.0,4826265.0,1,1,Recovery,EPSG:32613
+15,41,757995.0,4826265.0,1,1,Recovery,EPSG:32613
+15,42,758025.0,4826265.0,1,1,Recovery,EPSG:32613
+15,43,758055.0,4826265.0,1,1,Recovery,EPSG:32613
+15,44,758085.0,4826265.0,1,1,Recovery,EPSG:32613
+15,45,758115.0,4826265.0,1,1,Recovery,EPSG:32613
+15,46,758145.0,4826265.0,1,1,Recovery,EPSG:32613
+15,47,758175.0,4826265.0,1,1,Recovery,EPSG:32613
+15,48,758205.0,4826265.0,1,1,Recovery,EPSG:32613
+15,49,758235.0,4826265.0,1,1,Recovery,EPSG:32613
+15,50,758265.0,4826265.0,1,1,Recovery,EPSG:32613
+15,51,758295.0,4826265.0,1,1,Recovery,EPSG:32613
+15,52,758325.0,4826265.0,5,3,Stable / mixed / disagreement,EPSG:32613
+15,53,758355.0,4826265.0,1,1,Recovery,EPSG:32613
+15,54,758385.0,4826265.0,1,1,Recovery,EPSG:32613
+15,55,758415.0,4826265.0,1,1,Recovery,EPSG:32613
+16,1,756795.0,4826235.0,1,1,Recovery,EPSG:32613
+16,2,756825.0,4826235.0,1,1,Recovery,EPSG:32613
+16,3,756855.0,4826235.0,1,1,Recovery,EPSG:32613
+16,4,756885.0,4826235.0,4,3,Stable / mixed / disagreement,EPSG:32613
+16,5,756915.0,4826235.0,0,1,Recovery,EPSG:32613
+16,6,756945.0,4826235.0,0,1,Recovery,EPSG:32613
+16,7,756975.0,4826235.0,3,3,Stable / mixed / disagreement,EPSG:32613
+16,8,757005.0,4826235.0,3,3,Stable / mixed / disagreement,EPSG:32613
+16,9,757035.0,4826235.0,3,3,Stable / mixed / disagreement,EPSG:32613
+16,10,757065.0,4826235.0,3,3,Stable / mixed / disagreement,EPSG:32613
+16,11,757095.0,4826235.0,3,3,Stable / mixed / disagreement,EPSG:32613
+16,12,757125.0,4826235.0,4,3,Stable / mixed / disagreement,EPSG:32613
+16,13,757155.0,4826235.0,5,3,Stable / mixed / disagreement,EPSG:32613
+16,14,757185.0,4826235.0,4,3,Stable / mixed / disagreement,EPSG:32613
+16,15,757215.0,4826235.0,3,3,Stable / mixed / disagreement,EPSG:32613
+16,16,757245.0,4826235.0,3,3,Stable / mixed / disagreement,EPSG:32613
+16,17,757275.0,4826235.0,1,1,Recovery,EPSG:32613
+16,18,757305.0,4826235.0,1,1,Recovery,EPSG:32613
+16,19,757335.0,4826235.0,1,1,Recovery,EPSG:32613
+16,20,757365.0,4826235.0,1,1,Recovery,EPSG:32613
+16,21,757395.0,4826235.0,1,1,Recovery,EPSG:32613
+16,22,757425.0,4826235.0,5,3,Stable / mixed / disagreement,EPSG:32613
+16,23,757455.0,4826235.0,4,3,Stable / mixed / disagreement,EPSG:32613
+16,24,757485.0,4826235.0,5,3,Stable / mixed / disagreement,EPSG:32613
+16,25,757515.0,4826235.0,5,3,Stable / mixed / disagreement,EPSG:32613
+16,26,757545.0,4826235.0,4,3,Stable / mixed / disagreement,EPSG:32613
+16,27,757575.0,4826235.0,3,3,Stable / mixed / disagreement,EPSG:32613
+16,28,757605.0,4826235.0,5,3,Stable / mixed / disagreement,EPSG:32613
+16,29,757635.0,4826235.0,4,3,Stable / mixed / disagreement,EPSG:32613
+16,30,757665.0,4826235.0,4,3,Stable / mixed / disagreement,EPSG:32613
+16,31,757695.0,4826235.0,4,3,Stable / mixed / disagreement,EPSG:32613
+16,32,757725.0,4826235.0,3,3,Stable / mixed / disagreement,EPSG:32613
+16,33,757755.0,4826235.0,1,1,Recovery,EPSG:32613
+16,34,757785.0,4826235.0,1,1,Recovery,EPSG:32613
+16,35,757815.0,4826235.0,1,1,Recovery,EPSG:32613
+16,36,757845.0,4826235.0,1,1,Recovery,EPSG:32613
+16,37,757875.0,4826235.0,5,3,Stable / mixed / disagreement,EPSG:32613
+16,38,757905.0,4826235.0,5,3,Stable / mixed / disagreement,EPSG:32613
+16,39,757935.0,4826235.0,5,3,Stable / mixed / disagreement,EPSG:32613
+16,40,757965.0,4826235.0,5,3,Stable / mixed / disagreement,EPSG:32613
+16,41,757995.0,4826235.0,1,1,Recovery,EPSG:32613
+16,42,758025.0,4826235.0,1,1,Recovery,EPSG:32613
+16,43,758055.0,4826235.0,5,3,Stable / mixed / disagreement,EPSG:32613
+16,44,758085.0,4826235.0,1,1,Recovery,EPSG:32613
+16,45,758115.0,4826235.0,1,1,Recovery,EPSG:32613
+16,46,758145.0,4826235.0,1,1,Recovery,EPSG:32613
+16,47,758175.0,4826235.0,1,1,Recovery,EPSG:32613
+16,48,758205.0,4826235.0,1,1,Recovery,EPSG:32613
+16,49,758235.0,4826235.0,1,1,Recovery,EPSG:32613
+16,50,758265.0,4826235.0,1,1,Recovery,EPSG:32613
+16,51,758295.0,4826235.0,0,1,Recovery,EPSG:32613
+16,52,758325.0,4826235.0,1,1,Recovery,EPSG:32613
+16,53,758355.0,4826235.0,1,1,Recovery,EPSG:32613
+16,54,758385.0,4826235.0,1,1,Recovery,EPSG:32613
+16,55,758415.0,4826235.0,1,1,Recovery,EPSG:32613
+17,2,756825.0,4826205.0,1,1,Recovery,EPSG:32613
+17,3,756855.0,4826205.0,0,1,Recovery,EPSG:32613
+17,4,756885.0,4826205.0,5,3,Stable / mixed / disagreement,EPSG:32613
+17,5,756915.0,4826205.0,5,3,Stable / mixed / disagreement,EPSG:32613
+17,6,756945.0,4826205.0,3,3,Stable / mixed / disagreement,EPSG:32613
+17,7,756975.0,4826205.0,3,3,Stable / mixed / disagreement,EPSG:32613
+17,8,757005.0,4826205.0,3,3,Stable / mixed / disagreement,EPSG:32613
+17,9,757035.0,4826205.0,5,3,Stable / mixed / disagreement,EPSG:32613
+17,10,757065.0,4826205.0,3,3,Stable / mixed / disagreement,EPSG:32613
+17,11,757095.0,4826205.0,3,3,Stable / mixed / disagreement,EPSG:32613
+17,12,757125.0,4826205.0,5,3,Stable / mixed / disagreement,EPSG:32613
+17,13,757155.0,4826205.0,5,3,Stable / mixed / disagreement,EPSG:32613
+17,14,757185.0,4826205.0,4,3,Stable / mixed / disagreement,EPSG:32613
+17,15,757215.0,4826205.0,5,3,Stable / mixed / disagreement,EPSG:32613
+17,16,757245.0,4826205.0,3,3,Stable / mixed / disagreement,EPSG:32613
+17,17,757275.0,4826205.0,1,1,Recovery,EPSG:32613
+17,18,757305.0,4826205.0,1,1,Recovery,EPSG:32613
+17,19,757335.0,4826205.0,1,1,Recovery,EPSG:32613
+17,20,757365.0,4826205.0,1,1,Recovery,EPSG:32613
+17,21,757395.0,4826205.0,1,1,Recovery,EPSG:32613
+17,22,757425.0,4826205.0,4,3,Stable / mixed / disagreement,EPSG:32613
+17,23,757455.0,4826205.0,4,3,Stable / mixed / disagreement,EPSG:32613
+17,24,757485.0,4826205.0,4,3,Stable / mixed / disagreement,EPSG:32613
+17,25,757515.0,4826205.0,1,1,Recovery,EPSG:32613
+17,26,757545.0,4826205.0,5,3,Stable / mixed / disagreement,EPSG:32613
+17,27,757575.0,4826205.0,5,3,Stable / mixed / disagreement,EPSG:32613
+17,28,757605.0,4826205.0,4,3,Stable / mixed / disagreement,EPSG:32613
+17,29,757635.0,4826205.0,4,3,Stable / mixed / disagreement,EPSG:32613
+17,30,757665.0,4826205.0,4,3,Stable / mixed / disagreement,EPSG:32613
+17,31,757695.0,4826205.0,5,3,Stable / mixed / disagreement,EPSG:32613
+17,32,757725.0,4826205.0,4,3,Stable / mixed / disagreement,EPSG:32613
+17,33,757755.0,4826205.0,1,1,Recovery,EPSG:32613
+17,34,757785.0,4826205.0,1,1,Recovery,EPSG:32613
+17,35,757815.0,4826205.0,4,3,Stable / mixed / disagreement,EPSG:32613
+17,36,757845.0,4826205.0,4,3,Stable / mixed / disagreement,EPSG:32613
+17,37,757875.0,4826205.0,3,3,Stable / mixed / disagreement,EPSG:32613
+17,38,757905.0,4826205.0,5,3,Stable / mixed / disagreement,EPSG:32613
+17,39,757935.0,4826205.0,5,3,Stable / mixed / disagreement,EPSG:32613
+17,40,757965.0,4826205.0,5,3,Stable / mixed / disagreement,EPSG:32613
+17,41,757995.0,4826205.0,4,3,Stable / mixed / disagreement,EPSG:32613
+17,42,758025.0,4826205.0,4,3,Stable / mixed / disagreement,EPSG:32613
+17,43,758055.0,4826205.0,4,3,Stable / mixed / disagreement,EPSG:32613
+17,44,758085.0,4826205.0,4,3,Stable / mixed / disagreement,EPSG:32613
+17,45,758115.0,4826205.0,5,3,Stable / mixed / disagreement,EPSG:32613
+17,46,758145.0,4826205.0,1,1,Recovery,EPSG:32613
+17,47,758175.0,4826205.0,1,1,Recovery,EPSG:32613
+17,48,758205.0,4826205.0,1,1,Recovery,EPSG:32613
+17,49,758235.0,4826205.0,1,1,Recovery,EPSG:32613
+17,50,758265.0,4826205.0,1,1,Recovery,EPSG:32613
+17,51,758295.0,4826205.0,5,3,Stable / mixed / disagreement,EPSG:32613
+17,52,758325.0,4826205.0,1,1,Recovery,EPSG:32613
+17,53,758355.0,4826205.0,1,1,Recovery,EPSG:32613
+17,54,758385.0,4826205.0,1,1,Recovery,EPSG:32613
+17,55,758415.0,4826205.0,1,1,Recovery,EPSG:32613
+18,2,756825.0,4826175.0,1,1,Recovery,EPSG:32613
+18,3,756855.0,4826175.0,1,1,Recovery,EPSG:32613
+18,4,756885.0,4826175.0,5,3,Stable / mixed / disagreement,EPSG:32613
+18,5,756915.0,4826175.0,5,3,Stable / mixed / disagreement,EPSG:32613
+18,6,756945.0,4826175.0,3,3,Stable / mixed / disagreement,EPSG:32613
+18,7,756975.0,4826175.0,5,3,Stable / mixed / disagreement,EPSG:32613
+18,8,757005.0,4826175.0,5,3,Stable / mixed / disagreement,EPSG:32613
+18,9,757035.0,4826175.0,0,1,Recovery,EPSG:32613
+18,10,757065.0,4826175.0,3,3,Stable / mixed / disagreement,EPSG:32613
+18,11,757095.0,4826175.0,3,3,Stable / mixed / disagreement,EPSG:32613
+18,12,757125.0,4826175.0,5,3,Stable / mixed / disagreement,EPSG:32613
+18,13,757155.0,4826175.0,5,3,Stable / mixed / disagreement,EPSG:32613
+18,14,757185.0,4826175.0,3,3,Stable / mixed / disagreement,EPSG:32613
+18,15,757215.0,4826175.0,5,3,Stable / mixed / disagreement,EPSG:32613
+18,16,757245.0,4826175.0,4,3,Stable / mixed / disagreement,EPSG:32613
+18,17,757275.0,4826175.0,0,1,Recovery,EPSG:32613
+18,18,757305.0,4826175.0,1,1,Recovery,EPSG:32613
+18,19,757335.0,4826175.0,5,3,Stable / mixed / disagreement,EPSG:32613
+18,20,757365.0,4826175.0,1,1,Recovery,EPSG:32613
+18,21,757395.0,4826175.0,5,3,Stable / mixed / disagreement,EPSG:32613
+18,22,757425.0,4826175.0,3,3,Stable / mixed / disagreement,EPSG:32613
+18,23,757455.0,4826175.0,3,3,Stable / mixed / disagreement,EPSG:32613
+18,24,757485.0,4826175.0,4,3,Stable / mixed / disagreement,EPSG:32613
+18,25,757515.0,4826175.0,4,3,Stable / mixed / disagreement,EPSG:32613
+18,26,757545.0,4826175.0,4,3,Stable / mixed / disagreement,EPSG:32613
+18,27,757575.0,4826175.0,3,3,Stable / mixed / disagreement,EPSG:32613
+18,28,757605.0,4826175.0,4,3,Stable / mixed / disagreement,EPSG:32613
+18,29,757635.0,4826175.0,4,3,Stable / mixed / disagreement,EPSG:32613
+18,30,757665.0,4826175.0,4,3,Stable / mixed / disagreement,EPSG:32613
+18,31,757695.0,4826175.0,4,3,Stable / mixed / disagreement,EPSG:32613
+18,32,757725.0,4826175.0,1,1,Recovery,EPSG:32613
+18,33,757755.0,4826175.0,1,1,Recovery,EPSG:32613
+18,34,757785.0,4826175.0,4,3,Stable / mixed / disagreement,EPSG:32613
+18,35,757815.0,4826175.0,5,3,Stable / mixed / disagreement,EPSG:32613
+18,36,757845.0,4826175.0,4,3,Stable / mixed / disagreement,EPSG:32613
+18,37,757875.0,4826175.0,5,3,Stable / mixed / disagreement,EPSG:32613
+18,38,757905.0,4826175.0,3,3,Stable / mixed / disagreement,EPSG:32613
+18,39,757935.0,4826175.0,3,3,Stable / mixed / disagreement,EPSG:32613
+18,40,757965.0,4826175.0,4,3,Stable / mixed / disagreement,EPSG:32613
+18,41,757995.0,4826175.0,5,3,Stable / mixed / disagreement,EPSG:32613
+18,42,758025.0,4826175.0,5,3,Stable / mixed / disagreement,EPSG:32613
+18,43,758055.0,4826175.0,4,3,Stable / mixed / disagreement,EPSG:32613
+18,44,758085.0,4826175.0,3,3,Stable / mixed / disagreement,EPSG:32613
+18,45,758115.0,4826175.0,3,3,Stable / mixed / disagreement,EPSG:32613
+18,46,758145.0,4826175.0,5,3,Stable / mixed / disagreement,EPSG:32613
+18,47,758175.0,4826175.0,5,3,Stable / mixed / disagreement,EPSG:32613
+18,48,758205.0,4826175.0,1,1,Recovery,EPSG:32613
+18,49,758235.0,4826175.0,1,1,Recovery,EPSG:32613
+18,50,758265.0,4826175.0,5,3,Stable / mixed / disagreement,EPSG:32613
+18,51,758295.0,4826175.0,5,3,Stable / mixed / disagreement,EPSG:32613
+18,52,758325.0,4826175.0,1,1,Recovery,EPSG:32613
+18,53,758355.0,4826175.0,1,1,Recovery,EPSG:32613
+18,54,758385.0,4826175.0,1,1,Recovery,EPSG:32613
+18,55,758415.0,4826175.0,1,1,Recovery,EPSG:32613
+19,2,756825.0,4826145.0,1,1,Recovery,EPSG:32613
+19,3,756855.0,4826145.0,1,1,Recovery,EPSG:32613
+19,4,756885.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,5,756915.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,6,756945.0,4826145.0,3,3,Stable / mixed / disagreement,EPSG:32613
+19,7,756975.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,8,757005.0,4826145.0,1,1,Recovery,EPSG:32613
+19,9,757035.0,4826145.0,1,1,Recovery,EPSG:32613
+19,10,757065.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,11,757095.0,4826145.0,3,3,Stable / mixed / disagreement,EPSG:32613
+19,12,757125.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,13,757155.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,14,757185.0,4826145.0,3,3,Stable / mixed / disagreement,EPSG:32613
+19,15,757215.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,16,757245.0,4826145.0,3,3,Stable / mixed / disagreement,EPSG:32613
+19,17,757275.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,18,757305.0,4826145.0,1,1,Recovery,EPSG:32613
+19,19,757335.0,4826145.0,3,3,Stable / mixed / disagreement,EPSG:32613
+19,20,757365.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,21,757395.0,4826145.0,3,3,Stable / mixed / disagreement,EPSG:32613
+19,22,757425.0,4826145.0,4,3,Stable / mixed / disagreement,EPSG:32613
+19,23,757455.0,4826145.0,4,3,Stable / mixed / disagreement,EPSG:32613
+19,24,757485.0,4826145.0,4,3,Stable / mixed / disagreement,EPSG:32613
+19,25,757515.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,26,757545.0,4826145.0,3,3,Stable / mixed / disagreement,EPSG:32613
+19,27,757575.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,28,757605.0,4826145.0,4,3,Stable / mixed / disagreement,EPSG:32613
+19,29,757635.0,4826145.0,4,3,Stable / mixed / disagreement,EPSG:32613
+19,30,757665.0,4826145.0,4,3,Stable / mixed / disagreement,EPSG:32613
+19,31,757695.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,32,757725.0,4826145.0,1,1,Recovery,EPSG:32613
+19,33,757755.0,4826145.0,4,3,Stable / mixed / disagreement,EPSG:32613
+19,34,757785.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,35,757815.0,4826145.0,3,3,Stable / mixed / disagreement,EPSG:32613
+19,36,757845.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,37,757875.0,4826145.0,3,3,Stable / mixed / disagreement,EPSG:32613
+19,38,757905.0,4826145.0,3,3,Stable / mixed / disagreement,EPSG:32613
+19,39,757935.0,4826145.0,4,3,Stable / mixed / disagreement,EPSG:32613
+19,40,757965.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,41,757995.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,42,758025.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,43,758055.0,4826145.0,3,3,Stable / mixed / disagreement,EPSG:32613
+19,44,758085.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,45,758115.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,46,758145.0,4826145.0,4,3,Stable / mixed / disagreement,EPSG:32613
+19,47,758175.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,48,758205.0,4826145.0,0,1,Recovery,EPSG:32613
+19,49,758235.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,50,758265.0,4826145.0,5,3,Stable / mixed / disagreement,EPSG:32613
+19,51,758295.0,4826145.0,0,1,Recovery,EPSG:32613
+19,52,758325.0,4826145.0,1,1,Recovery,EPSG:32613
+19,53,758355.0,4826145.0,1,1,Recovery,EPSG:32613
+19,54,758385.0,4826145.0,1,1,Recovery,EPSG:32613
+19,55,758415.0,4826145.0,1,1,Recovery,EPSG:32613
+20,2,756825.0,4826115.0,1,1,Recovery,EPSG:32613
+20,3,756855.0,4826115.0,1,1,Recovery,EPSG:32613
+20,4,756885.0,4826115.0,5,3,Stable / mixed / disagreement,EPSG:32613
+20,5,756915.0,4826115.0,3,3,Stable / mixed / disagreement,EPSG:32613
+20,6,756945.0,4826115.0,5,3,Stable / mixed / disagreement,EPSG:32613
+20,7,756975.0,4826115.0,0,1,Recovery,EPSG:32613
+20,8,757005.0,4826115.0,1,1,Recovery,EPSG:32613
+20,9,757035.0,4826115.0,1,1,Recovery,EPSG:32613
+20,10,757065.0,4826115.0,0,1,Recovery,EPSG:32613
+20,11,757095.0,4826115.0,0,1,Recovery,EPSG:32613
+20,12,757125.0,4826115.0,0,1,Recovery,EPSG:32613
+20,13,757155.0,4826115.0,0,1,Recovery,EPSG:32613
+20,14,757185.0,4826115.0,4,3,Stable / mixed / disagreement,EPSG:32613
+20,15,757215.0,4826115.0,4,3,Stable / mixed / disagreement,EPSG:32613
+20,16,757245.0,4826115.0,3,3,Stable / mixed / disagreement,EPSG:32613
+20,17,757275.0,4826115.0,3,3,Stable / mixed / disagreement,EPSG:32613
+20,18,757305.0,4826115.0,3,3,Stable / mixed / disagreement,EPSG:32613
+20,19,757335.0,4826115.0,3,3,Stable / mixed / disagreement,EPSG:32613
+20,20,757365.0,4826115.0,3,3,Stable / mixed / disagreement,EPSG:32613
+20,21,757395.0,4826115.0,5,3,Stable / mixed / disagreement,EPSG:32613
+20,22,757425.0,4826115.0,5,3,Stable / mixed / disagreement,EPSG:32613
+20,23,757455.0,4826115.0,1,1,Recovery,EPSG:32613
+20,24,757485.0,4826115.0,5,3,Stable / mixed / disagreement,EPSG:32613
+20,25,757515.0,4826115.0,5,3,Stable / mixed / disagreement,EPSG:32613
+20,26,757545.0,4826115.0,3,3,Stable / mixed / disagreement,EPSG:32613
+20,27,757575.0,4826115.0,5,3,Stable / mixed / disagreement,EPSG:32613
+20,28,757605.0,4826115.0,4,3,Stable / mixed / disagreement,EPSG:32613
+20,29,757635.0,4826115.0,4,3,Stable / mixed / disagreement,EPSG:32613
+20,30,757665.0,4826115.0,4,3,Stable / mixed / disagreement,EPSG:32613
+20,31,757695.0,4826115.0,5,3,Stable / mixed / disagreement,EPSG:32613
+20,32,757725.0,4826115.0,5,3,Stable / mixed / disagreement,EPSG:32613
+20,33,757755.0,4826115.0,5,3,Stable / mixed / disagreement,EPSG:32613
+20,34,757785.0,4826115.0,4,3,Stable / mixed / disagreement,EPSG:32613
+20,35,757815.0,4826115.0,3,3,Stable / mixed / disagreement,EPSG:32613
+20,36,757845.0,4826115.0,5,3,Stable / mixed / disagreement,EPSG:32613
+20,37,757875.0,4826115.0,4,3,Stable / mixed / disagreement,EPSG:32613
+20,38,757905.0,4826115.0,4,3,Stable / mixed / disagreement,EPSG:32613
+20,39,757935.0,4826115.0,4,3,Stable / mixed / disagreement,EPSG:32613
+20,40,757965.0,4826115.0,4,3,Stable / mixed / disagreement,EPSG:32613
+20,41,757995.0,4826115.0,5,3,Stable / mixed / disagreement,EPSG:32613
+20,42,758025.0,4826115.0,4,3,Stable / mixed / disagreement,EPSG:32613
+20,43,758055.0,4826115.0,4,3,Stable / mixed / disagreement,EPSG:32613
+20,44,758085.0,4826115.0,4,3,Stable / mixed / disagreement,EPSG:32613
+20,45,758115.0,4826115.0,5,3,Stable / mixed / disagreement,EPSG:32613
+20,46,758145.0,4826115.0,1,1,Recovery,EPSG:32613
+20,47,758175.0,4826115.0,1,1,Recovery,EPSG:32613
+20,48,758205.0,4826115.0,5,3,Stable / mixed / disagreement,EPSG:32613
+20,49,758235.0,4826115.0,0,1,Recovery,EPSG:32613
+20,50,758265.0,4826115.0,0,1,Recovery,EPSG:32613
+20,51,758295.0,4826115.0,0,1,Recovery,EPSG:32613
+20,52,758325.0,4826115.0,1,1,Recovery,EPSG:32613
+20,53,758355.0,4826115.0,1,1,Recovery,EPSG:32613
+20,54,758385.0,4826115.0,1,1,Recovery,EPSG:32613
+20,55,758415.0,4826115.0,1,1,Recovery,EPSG:32613
+21,2,756825.0,4826085.0,1,1,Recovery,EPSG:32613
+21,3,756855.0,4826085.0,1,1,Recovery,EPSG:32613
+21,4,756885.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,5,756915.0,4826085.0,3,3,Stable / mixed / disagreement,EPSG:32613
+21,6,756945.0,4826085.0,4,3,Stable / mixed / disagreement,EPSG:32613
+21,7,756975.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,8,757005.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,9,757035.0,4826085.0,1,1,Recovery,EPSG:32613
+21,10,757065.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,11,757095.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,12,757125.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,13,757155.0,4826085.0,0,1,Recovery,EPSG:32613
+21,14,757185.0,4826085.0,4,3,Stable / mixed / disagreement,EPSG:32613
+21,15,757215.0,4826085.0,4,3,Stable / mixed / disagreement,EPSG:32613
+21,16,757245.0,4826085.0,4,3,Stable / mixed / disagreement,EPSG:32613
+21,17,757275.0,4826085.0,3,3,Stable / mixed / disagreement,EPSG:32613
+21,18,757305.0,4826085.0,3,3,Stable / mixed / disagreement,EPSG:32613
+21,19,757335.0,4826085.0,3,3,Stable / mixed / disagreement,EPSG:32613
+21,20,757365.0,4826085.0,3,3,Stable / mixed / disagreement,EPSG:32613
+21,21,757395.0,4826085.0,4,3,Stable / mixed / disagreement,EPSG:32613
+21,22,757425.0,4826085.0,1,1,Recovery,EPSG:32613
+21,23,757455.0,4826085.0,1,1,Recovery,EPSG:32613
+21,24,757485.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,25,757515.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,26,757545.0,4826085.0,3,3,Stable / mixed / disagreement,EPSG:32613
+21,27,757575.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,28,757605.0,4826085.0,4,3,Stable / mixed / disagreement,EPSG:32613
+21,29,757635.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,30,757665.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,31,757695.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,32,757725.0,4826085.0,1,1,Recovery,EPSG:32613
+21,33,757755.0,4826085.0,3,3,Stable / mixed / disagreement,EPSG:32613
+21,34,757785.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,35,757815.0,4826085.0,3,3,Stable / mixed / disagreement,EPSG:32613
+21,36,757845.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,37,757875.0,4826085.0,4,3,Stable / mixed / disagreement,EPSG:32613
+21,38,757905.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,39,757935.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,40,757965.0,4826085.0,4,3,Stable / mixed / disagreement,EPSG:32613
+21,41,757995.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,42,758025.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,43,758055.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,44,758085.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,45,758115.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,46,758145.0,4826085.0,1,1,Recovery,EPSG:32613
+21,47,758175.0,4826085.0,1,1,Recovery,EPSG:32613
+21,48,758205.0,4826085.0,1,1,Recovery,EPSG:32613
+21,49,758235.0,4826085.0,0,1,Recovery,EPSG:32613
+21,50,758265.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,51,758295.0,4826085.0,5,3,Stable / mixed / disagreement,EPSG:32613
+21,52,758325.0,4826085.0,1,1,Recovery,EPSG:32613
+21,53,758355.0,4826085.0,1,1,Recovery,EPSG:32613
+21,54,758385.0,4826085.0,1,1,Recovery,EPSG:32613
+21,55,758415.0,4826085.0,1,1,Recovery,EPSG:32613
+22,2,756825.0,4826055.0,1,1,Recovery,EPSG:32613
+22,3,756855.0,4826055.0,1,1,Recovery,EPSG:32613
+22,4,756885.0,4826055.0,4,3,Stable / mixed / disagreement,EPSG:32613
+22,5,756915.0,4826055.0,3,3,Stable / mixed / disagreement,EPSG:32613
+22,6,756945.0,4826055.0,5,3,Stable / mixed / disagreement,EPSG:32613
+22,7,756975.0,4826055.0,1,1,Recovery,EPSG:32613
+22,8,757005.0,4826055.0,1,1,Recovery,EPSG:32613
+22,9,757035.0,4826055.0,1,1,Recovery,EPSG:32613
+22,10,757065.0,4826055.0,5,3,Stable / mixed / disagreement,EPSG:32613
+22,11,757095.0,4826055.0,5,3,Stable / mixed / disagreement,EPSG:32613
+22,12,757125.0,4826055.0,3,3,Stable / mixed / disagreement,EPSG:32613
+22,13,757155.0,4826055.0,5,3,Stable / mixed / disagreement,EPSG:32613
+22,14,757185.0,4826055.0,4,3,Stable / mixed / disagreement,EPSG:32613
+22,15,757215.0,4826055.0,5,3,Stable / mixed / disagreement,EPSG:32613
+22,16,757245.0,4826055.0,4,3,Stable / mixed / disagreement,EPSG:32613
+22,17,757275.0,4826055.0,4,3,Stable / mixed / disagreement,EPSG:32613
+22,18,757305.0,4826055.0,3,3,Stable / mixed / disagreement,EPSG:32613
+22,19,757335.0,4826055.0,5,3,Stable / mixed / disagreement,EPSG:32613
+22,20,757365.0,4826055.0,4,3,Stable / mixed / disagreement,EPSG:32613
+22,21,757395.0,4826055.0,4,3,Stable / mixed / disagreement,EPSG:32613
+22,22,757425.0,4826055.0,5,3,Stable / mixed / disagreement,EPSG:32613
+22,23,757455.0,4826055.0,1,1,Recovery,EPSG:32613
+22,24,757485.0,4826055.0,5,3,Stable / mixed / disagreement,EPSG:32613
+22,25,757515.0,4826055.0,3,3,Stable / mixed / disagreement,EPSG:32613
+22,26,757545.0,4826055.0,3,3,Stable / mixed / disagreement,EPSG:32613
+22,27,757575.0,4826055.0,5,3,Stable / mixed / disagreement,EPSG:32613
+22,28,757605.0,4826055.0,4,3,Stable / mixed / disagreement,EPSG:32613
+22,29,757635.0,4826055.0,3,3,Stable / mixed / disagreement,EPSG:32613
+22,30,757665.0,4826055.0,1,1,Recovery,EPSG:32613
+22,31,757695.0,4826055.0,1,1,Recovery,EPSG:32613
+22,32,757725.0,4826055.0,1,1,Recovery,EPSG:32613
+22,33,757755.0,4826055.0,3,3,Stable / mixed / disagreement,EPSG:32613
+22,34,757785.0,4826055.0,3,3,Stable / mixed / disagreement,EPSG:32613
+22,35,757815.0,4826055.0,3,3,Stable / mixed / disagreement,EPSG:32613
+22,36,757845.0,4826055.0,5,3,Stable / mixed / disagreement,EPSG:32613
+22,37,757875.0,4826055.0,1,1,Recovery,EPSG:32613
+22,38,757905.0,4826055.0,1,1,Recovery,EPSG:32613
+22,39,757935.0,4826055.0,1,1,Recovery,EPSG:32613
+22,40,757965.0,4826055.0,4,3,Stable / mixed / disagreement,EPSG:32613
+22,41,757995.0,4826055.0,3,3,Stable / mixed / disagreement,EPSG:32613
+22,42,758025.0,4826055.0,3,3,Stable / mixed / disagreement,EPSG:32613
+22,43,758055.0,4826055.0,5,3,Stable / mixed / disagreement,EPSG:32613
+22,44,758085.0,4826055.0,5,3,Stable / mixed / disagreement,EPSG:32613
+22,45,758115.0,4826055.0,3,3,Stable / mixed / disagreement,EPSG:32613
+22,46,758145.0,4826055.0,4,3,Stable / mixed / disagreement,EPSG:32613
+22,47,758175.0,4826055.0,5,3,Stable / mixed / disagreement,EPSG:32613
+22,48,758205.0,4826055.0,5,3,Stable / mixed / disagreement,EPSG:32613
+22,49,758235.0,4826055.0,3,3,Stable / mixed / disagreement,EPSG:32613
+22,50,758265.0,4826055.0,3,3,Stable / mixed / disagreement,EPSG:32613
+22,51,758295.0,4826055.0,5,3,Stable / mixed / disagreement,EPSG:32613
+22,52,758325.0,4826055.0,1,1,Recovery,EPSG:32613
+22,53,758355.0,4826055.0,1,1,Recovery,EPSG:32613
+22,54,758385.0,4826055.0,1,1,Recovery,EPSG:32613
+22,55,758415.0,4826055.0,1,1,Recovery,EPSG:32613
+23,2,756825.0,4826025.0,4,3,Stable / mixed / disagreement,EPSG:32613
+23,3,756855.0,4826025.0,5,3,Stable / mixed / disagreement,EPSG:32613
+23,4,756885.0,4826025.0,3,3,Stable / mixed / disagreement,EPSG:32613
+23,5,756915.0,4826025.0,5,3,Stable / mixed / disagreement,EPSG:32613
+23,6,756945.0,4826025.0,0,1,Recovery,EPSG:32613
+23,7,756975.0,4826025.0,5,3,Stable / mixed / disagreement,EPSG:32613
+23,8,757005.0,4826025.0,1,1,Recovery,EPSG:32613
+23,9,757035.0,4826025.0,1,1,Recovery,EPSG:32613
+23,10,757065.0,4826025.0,1,1,Recovery,EPSG:32613
+23,11,757095.0,4826025.0,4,3,Stable / mixed / disagreement,EPSG:32613
+23,12,757125.0,4826025.0,5,3,Stable / mixed / disagreement,EPSG:32613
+23,13,757155.0,4826025.0,0,1,Recovery,EPSG:32613
+23,14,757185.0,4826025.0,5,3,Stable / mixed / disagreement,EPSG:32613
+23,15,757215.0,4826025.0,4,3,Stable / mixed / disagreement,EPSG:32613
+23,16,757245.0,4826025.0,5,3,Stable / mixed / disagreement,EPSG:32613
+23,17,757275.0,4826025.0,4,3,Stable / mixed / disagreement,EPSG:32613
+23,18,757305.0,4826025.0,3,3,Stable / mixed / disagreement,EPSG:32613
+23,19,757335.0,4826025.0,3,3,Stable / mixed / disagreement,EPSG:32613
+23,20,757365.0,4826025.0,4,3,Stable / mixed / disagreement,EPSG:32613
+23,21,757395.0,4826025.0,4,3,Stable / mixed / disagreement,EPSG:32613
+23,22,757425.0,4826025.0,3,3,Stable / mixed / disagreement,EPSG:32613
+23,23,757455.0,4826025.0,5,3,Stable / mixed / disagreement,EPSG:32613
+23,24,757485.0,4826025.0,3,3,Stable / mixed / disagreement,EPSG:32613
+23,25,757515.0,4826025.0,3,3,Stable / mixed / disagreement,EPSG:32613
+23,26,757545.0,4826025.0,3,3,Stable / mixed / disagreement,EPSG:32613
+23,27,757575.0,4826025.0,4,3,Stable / mixed / disagreement,EPSG:32613
+23,28,757605.0,4826025.0,5,3,Stable / mixed / disagreement,EPSG:32613
+23,29,757635.0,4826025.0,5,3,Stable / mixed / disagreement,EPSG:32613
+23,30,757665.0,4826025.0,1,1,Recovery,EPSG:32613
+23,31,757695.0,4826025.0,1,1,Recovery,EPSG:32613
+23,32,757725.0,4826025.0,1,1,Recovery,EPSG:32613
+23,33,757755.0,4826025.0,5,3,Stable / mixed / disagreement,EPSG:32613
+23,34,757785.0,4826025.0,4,3,Stable / mixed / disagreement,EPSG:32613
+23,35,757815.0,4826025.0,5,3,Stable / mixed / disagreement,EPSG:32613
+23,36,757845.0,4826025.0,1,1,Recovery,EPSG:32613
+23,37,757875.0,4826025.0,1,1,Recovery,EPSG:32613
+23,38,757905.0,4826025.0,1,1,Recovery,EPSG:32613
+23,39,757935.0,4826025.0,1,1,Recovery,EPSG:32613
+23,40,757965.0,4826025.0,4,3,Stable / mixed / disagreement,EPSG:32613
+23,41,757995.0,4826025.0,4,3,Stable / mixed / disagreement,EPSG:32613
+23,42,758025.0,4826025.0,5,3,Stable / mixed / disagreement,EPSG:32613
+23,43,758055.0,4826025.0,3,3,Stable / mixed / disagreement,EPSG:32613
+23,44,758085.0,4826025.0,3,3,Stable / mixed / disagreement,EPSG:32613
+23,45,758115.0,4826025.0,3,3,Stable / mixed / disagreement,EPSG:32613
+23,46,758145.0,4826025.0,3,3,Stable / mixed / disagreement,EPSG:32613
+23,47,758175.0,4826025.0,3,3,Stable / mixed / disagreement,EPSG:32613
+23,48,758205.0,4826025.0,4,3,Stable / mixed / disagreement,EPSG:32613
+23,49,758235.0,4826025.0,5,3,Stable / mixed / disagreement,EPSG:32613
+23,50,758265.0,4826025.0,5,3,Stable / mixed / disagreement,EPSG:32613
+23,51,758295.0,4826025.0,4,3,Stable / mixed / disagreement,EPSG:32613
+23,52,758325.0,4826025.0,5,3,Stable / mixed / disagreement,EPSG:32613
+23,53,758355.0,4826025.0,1,1,Recovery,EPSG:32613
+23,54,758385.0,4826025.0,1,1,Recovery,EPSG:32613
+23,55,758415.0,4826025.0,1,1,Recovery,EPSG:32613
+24,2,756825.0,4825995.0,5,3,Stable / mixed / disagreement,EPSG:32613
+24,3,756855.0,4825995.0,3,3,Stable / mixed / disagreement,EPSG:32613
+24,4,756885.0,4825995.0,3,3,Stable / mixed / disagreement,EPSG:32613
+24,5,756915.0,4825995.0,0,1,Recovery,EPSG:32613
+24,6,756945.0,4825995.0,5,3,Stable / mixed / disagreement,EPSG:32613
+24,7,756975.0,4825995.0,1,1,Recovery,EPSG:32613
+24,8,757005.0,4825995.0,1,1,Recovery,EPSG:32613
+24,9,757035.0,4825995.0,1,1,Recovery,EPSG:32613
+24,10,757065.0,4825995.0,1,1,Recovery,EPSG:32613
+24,11,757095.0,4825995.0,5,3,Stable / mixed / disagreement,EPSG:32613
+24,12,757125.0,4825995.0,4,3,Stable / mixed / disagreement,EPSG:32613
+24,13,757155.0,4825995.0,5,3,Stable / mixed / disagreement,EPSG:32613
+24,14,757185.0,4825995.0,5,3,Stable / mixed / disagreement,EPSG:32613
+24,15,757215.0,4825995.0,5,3,Stable / mixed / disagreement,EPSG:32613
+24,16,757245.0,4825995.0,5,3,Stable / mixed / disagreement,EPSG:32613
+24,17,757275.0,4825995.0,3,3,Stable / mixed / disagreement,EPSG:32613
+24,18,757305.0,4825995.0,4,3,Stable / mixed / disagreement,EPSG:32613
+24,19,757335.0,4825995.0,4,3,Stable / mixed / disagreement,EPSG:32613
+24,20,757365.0,4825995.0,5,3,Stable / mixed / disagreement,EPSG:32613
+24,21,757395.0,4825995.0,5,3,Stable / mixed / disagreement,EPSG:32613
+24,22,757425.0,4825995.0,5,3,Stable / mixed / disagreement,EPSG:32613
+24,23,757455.0,4825995.0,3,3,Stable / mixed / disagreement,EPSG:32613
+24,24,757485.0,4825995.0,4,3,Stable / mixed / disagreement,EPSG:32613
+24,25,757515.0,4825995.0,3,3,Stable / mixed / disagreement,EPSG:32613
+24,26,757545.0,4825995.0,4,3,Stable / mixed / disagreement,EPSG:32613
+24,27,757575.0,4825995.0,4,3,Stable / mixed / disagreement,EPSG:32613
+24,28,757605.0,4825995.0,3,3,Stable / mixed / disagreement,EPSG:32613
+24,29,757635.0,4825995.0,4,3,Stable / mixed / disagreement,EPSG:32613
+24,30,757665.0,4825995.0,1,1,Recovery,EPSG:32613
+24,31,757695.0,4825995.0,1,1,Recovery,EPSG:32613
+24,32,757725.0,4825995.0,1,1,Recovery,EPSG:32613
+24,33,757755.0,4825995.0,4,3,Stable / mixed / disagreement,EPSG:32613
+24,34,757785.0,4825995.0,3,3,Stable / mixed / disagreement,EPSG:32613
+24,35,757815.0,4825995.0,4,3,Stable / mixed / disagreement,EPSG:32613
+24,36,757845.0,4825995.0,1,1,Recovery,EPSG:32613
+24,37,757875.0,4825995.0,1,1,Recovery,EPSG:32613
+24,38,757905.0,4825995.0,1,1,Recovery,EPSG:32613
+24,39,757935.0,4825995.0,1,1,Recovery,EPSG:32613
+24,40,757965.0,4825995.0,5,3,Stable / mixed / disagreement,EPSG:32613
+24,41,757995.0,4825995.0,5,3,Stable / mixed / disagreement,EPSG:32613
+24,42,758025.0,4825995.0,3,3,Stable / mixed / disagreement,EPSG:32613
+24,43,758055.0,4825995.0,3,3,Stable / mixed / disagreement,EPSG:32613
+24,44,758085.0,4825995.0,5,3,Stable / mixed / disagreement,EPSG:32613
+24,45,758115.0,4825995.0,3,3,Stable / mixed / disagreement,EPSG:32613
+24,46,758145.0,4825995.0,5,3,Stable / mixed / disagreement,EPSG:32613
+24,47,758175.0,4825995.0,5,3,Stable / mixed / disagreement,EPSG:32613
+24,48,758205.0,4825995.0,5,3,Stable / mixed / disagreement,EPSG:32613
+24,49,758235.0,4825995.0,4,3,Stable / mixed / disagreement,EPSG:32613
+24,50,758265.0,4825995.0,4,3,Stable / mixed / disagreement,EPSG:32613
+24,51,758295.0,4825995.0,3,3,Stable / mixed / disagreement,EPSG:32613
+24,52,758325.0,4825995.0,5,3,Stable / mixed / disagreement,EPSG:32613
+24,53,758355.0,4825995.0,1,1,Recovery,EPSG:32613
+24,54,758385.0,4825995.0,1,1,Recovery,EPSG:32613
+24,55,758415.0,4825995.0,1,1,Recovery,EPSG:32613
+25,2,756825.0,4825965.0,0,1,Recovery,EPSG:32613
+25,3,756855.0,4825965.0,0,1,Recovery,EPSG:32613
+25,4,756885.0,4825965.0,3,3,Stable / mixed / disagreement,EPSG:32613
+25,5,756915.0,4825965.0,5,3,Stable / mixed / disagreement,EPSG:32613
+25,6,756945.0,4825965.0,5,3,Stable / mixed / disagreement,EPSG:32613
+25,7,756975.0,4825965.0,1,1,Recovery,EPSG:32613
+25,8,757005.0,4825965.0,1,1,Recovery,EPSG:32613
+25,9,757035.0,4825965.0,1,1,Recovery,EPSG:32613
+25,10,757065.0,4825965.0,1,1,Recovery,EPSG:32613
+25,11,757095.0,4825965.0,1,1,Recovery,EPSG:32613
+25,12,757125.0,4825965.0,1,1,Recovery,EPSG:32613
+25,13,757155.0,4825965.0,5,3,Stable / mixed / disagreement,EPSG:32613
+25,14,757185.0,4825965.0,0,1,Recovery,EPSG:32613
+25,15,757215.0,4825965.0,5,3,Stable / mixed / disagreement,EPSG:32613
+25,16,757245.0,4825965.0,4,3,Stable / mixed / disagreement,EPSG:32613
+25,17,757275.0,4825965.0,4,3,Stable / mixed / disagreement,EPSG:32613
+25,18,757305.0,4825965.0,5,3,Stable / mixed / disagreement,EPSG:32613
+25,19,757335.0,4825965.0,5,3,Stable / mixed / disagreement,EPSG:32613
+25,20,757365.0,4825965.0,5,3,Stable / mixed / disagreement,EPSG:32613
+25,21,757395.0,4825965.0,5,3,Stable / mixed / disagreement,EPSG:32613
+25,22,757425.0,4825965.0,4,3,Stable / mixed / disagreement,EPSG:32613
+25,23,757455.0,4825965.0,4,3,Stable / mixed / disagreement,EPSG:32613
+25,24,757485.0,4825965.0,5,3,Stable / mixed / disagreement,EPSG:32613
+25,25,757515.0,4825965.0,5,3,Stable / mixed / disagreement,EPSG:32613
+25,26,757545.0,4825965.0,4,3,Stable / mixed / disagreement,EPSG:32613
+25,27,757575.0,4825965.0,4,3,Stable / mixed / disagreement,EPSG:32613
+25,28,757605.0,4825965.0,4,3,Stable / mixed / disagreement,EPSG:32613
+25,29,757635.0,4825965.0,4,3,Stable / mixed / disagreement,EPSG:32613
+25,30,757665.0,4825965.0,5,3,Stable / mixed / disagreement,EPSG:32613
+25,31,757695.0,4825965.0,1,1,Recovery,EPSG:32613
+25,32,757725.0,4825965.0,1,1,Recovery,EPSG:32613
+25,33,757755.0,4825965.0,5,3,Stable / mixed / disagreement,EPSG:32613
+25,34,757785.0,4825965.0,5,3,Stable / mixed / disagreement,EPSG:32613
+25,35,757815.0,4825965.0,3,3,Stable / mixed / disagreement,EPSG:32613
+25,36,757845.0,4825965.0,5,3,Stable / mixed / disagreement,EPSG:32613
+25,37,757875.0,4825965.0,1,1,Recovery,EPSG:32613
+25,38,757905.0,4825965.0,1,1,Recovery,EPSG:32613
+25,39,757935.0,4825965.0,5,3,Stable / mixed / disagreement,EPSG:32613
+25,40,757965.0,4825965.0,1,1,Recovery,EPSG:32613
+25,41,757995.0,4825965.0,1,1,Recovery,EPSG:32613
+25,42,758025.0,4825965.0,4,3,Stable / mixed / disagreement,EPSG:32613
+25,43,758055.0,4825965.0,5,3,Stable / mixed / disagreement,EPSG:32613
+25,44,758085.0,4825965.0,3,3,Stable / mixed / disagreement,EPSG:32613
+25,45,758115.0,4825965.0,3,3,Stable / mixed / disagreement,EPSG:32613
+25,46,758145.0,4825965.0,3,3,Stable / mixed / disagreement,EPSG:32613
+25,47,758175.0,4825965.0,3,3,Stable / mixed / disagreement,EPSG:32613
+25,48,758205.0,4825965.0,3,3,Stable / mixed / disagreement,EPSG:32613
+25,49,758235.0,4825965.0,5,3,Stable / mixed / disagreement,EPSG:32613
+25,50,758265.0,4825965.0,3,3,Stable / mixed / disagreement,EPSG:32613
+25,51,758295.0,4825965.0,3,3,Stable / mixed / disagreement,EPSG:32613
+25,52,758325.0,4825965.0,3,3,Stable / mixed / disagreement,EPSG:32613
+25,53,758355.0,4825965.0,5,3,Stable / mixed / disagreement,EPSG:32613
+25,54,758385.0,4825965.0,1,1,Recovery,EPSG:32613
+25,55,758415.0,4825965.0,1,1,Recovery,EPSG:32613
+26,2,756825.0,4825935.0,0,1,Recovery,EPSG:32613
+26,3,756855.0,4825935.0,0,1,Recovery,EPSG:32613
+26,4,756885.0,4825935.0,0,1,Recovery,EPSG:32613
+26,5,756915.0,4825935.0,5,3,Stable / mixed / disagreement,EPSG:32613
+26,6,756945.0,4825935.0,5,3,Stable / mixed / disagreement,EPSG:32613
+26,7,756975.0,4825935.0,5,3,Stable / mixed / disagreement,EPSG:32613
+26,8,757005.0,4825935.0,5,3,Stable / mixed / disagreement,EPSG:32613
+26,9,757035.0,4825935.0,1,1,Recovery,EPSG:32613
+26,10,757065.0,4825935.0,1,1,Recovery,EPSG:32613
+26,11,757095.0,4825935.0,1,1,Recovery,EPSG:32613
+26,12,757125.0,4825935.0,1,1,Recovery,EPSG:32613
+26,13,757155.0,4825935.0,1,1,Recovery,EPSG:32613
+26,14,757185.0,4825935.0,0,1,Recovery,EPSG:32613
+26,15,757215.0,4825935.0,0,1,Recovery,EPSG:32613
+26,16,757245.0,4825935.0,1,1,Recovery,EPSG:32613
+26,17,757275.0,4825935.0,1,1,Recovery,EPSG:32613
+26,18,757305.0,4825935.0,1,1,Recovery,EPSG:32613
+26,19,757335.0,4825935.0,4,3,Stable / mixed / disagreement,EPSG:32613
+26,20,757365.0,4825935.0,3,3,Stable / mixed / disagreement,EPSG:32613
+26,21,757395.0,4825935.0,5,3,Stable / mixed / disagreement,EPSG:32613
+26,22,757425.0,4825935.0,3,3,Stable / mixed / disagreement,EPSG:32613
+26,23,757455.0,4825935.0,3,3,Stable / mixed / disagreement,EPSG:32613
+26,24,757485.0,4825935.0,3,3,Stable / mixed / disagreement,EPSG:32613
+26,25,757515.0,4825935.0,4,3,Stable / mixed / disagreement,EPSG:32613
+26,26,757545.0,4825935.0,3,3,Stable / mixed / disagreement,EPSG:32613
+26,27,757575.0,4825935.0,4,3,Stable / mixed / disagreement,EPSG:32613
+26,28,757605.0,4825935.0,4,3,Stable / mixed / disagreement,EPSG:32613
+26,29,757635.0,4825935.0,4,3,Stable / mixed / disagreement,EPSG:32613
+26,30,757665.0,4825935.0,4,3,Stable / mixed / disagreement,EPSG:32613
+26,31,757695.0,4825935.0,1,1,Recovery,EPSG:32613
+26,32,757725.0,4825935.0,5,3,Stable / mixed / disagreement,EPSG:32613
+26,33,757755.0,4825935.0,4,3,Stable / mixed / disagreement,EPSG:32613
+26,34,757785.0,4825935.0,5,3,Stable / mixed / disagreement,EPSG:32613
+26,35,757815.0,4825935.0,3,3,Stable / mixed / disagreement,EPSG:32613
+26,36,757845.0,4825935.0,5,3,Stable / mixed / disagreement,EPSG:32613
+26,37,757875.0,4825935.0,1,1,Recovery,EPSG:32613
+26,38,757905.0,4825935.0,4,3,Stable / mixed / disagreement,EPSG:32613
+26,39,757935.0,4825935.0,5,3,Stable / mixed / disagreement,EPSG:32613
+26,40,757965.0,4825935.0,1,1,Recovery,EPSG:32613
+26,41,757995.0,4825935.0,1,1,Recovery,EPSG:32613
+26,42,758025.0,4825935.0,1,1,Recovery,EPSG:32613
+26,43,758055.0,4825935.0,4,3,Stable / mixed / disagreement,EPSG:32613
+26,44,758085.0,4825935.0,5,3,Stable / mixed / disagreement,EPSG:32613
+26,45,758115.0,4825935.0,4,3,Stable / mixed / disagreement,EPSG:32613
+26,46,758145.0,4825935.0,5,3,Stable / mixed / disagreement,EPSG:32613
+26,47,758175.0,4825935.0,4,3,Stable / mixed / disagreement,EPSG:32613
+26,48,758205.0,4825935.0,4,3,Stable / mixed / disagreement,EPSG:32613
+26,49,758235.0,4825935.0,5,3,Stable / mixed / disagreement,EPSG:32613
+26,50,758265.0,4825935.0,4,3,Stable / mixed / disagreement,EPSG:32613
+26,51,758295.0,4825935.0,3,3,Stable / mixed / disagreement,EPSG:32613
+26,52,758325.0,4825935.0,3,3,Stable / mixed / disagreement,EPSG:32613
+26,53,758355.0,4825935.0,5,3,Stable / mixed / disagreement,EPSG:32613
+26,54,758385.0,4825935.0,1,1,Recovery,EPSG:32613
+26,55,758415.0,4825935.0,1,1,Recovery,EPSG:32613
+27,2,756825.0,4825905.0,1,1,Recovery,EPSG:32613
+27,3,756855.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,4,756885.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,5,756915.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,6,756945.0,4825905.0,1,1,Recovery,EPSG:32613
+27,7,756975.0,4825905.0,1,1,Recovery,EPSG:32613
+27,8,757005.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,9,757035.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,10,757065.0,4825905.0,1,1,Recovery,EPSG:32613
+27,11,757095.0,4825905.0,1,1,Recovery,EPSG:32613
+27,12,757125.0,4825905.0,1,1,Recovery,EPSG:32613
+27,13,757155.0,4825905.0,0,1,Recovery,EPSG:32613
+27,14,757185.0,4825905.0,0,1,Recovery,EPSG:32613
+27,15,757215.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,16,757245.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,17,757275.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,18,757305.0,4825905.0,4,3,Stable / mixed / disagreement,EPSG:32613
+27,19,757335.0,4825905.0,3,3,Stable / mixed / disagreement,EPSG:32613
+27,20,757365.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,21,757395.0,4825905.0,4,3,Stable / mixed / disagreement,EPSG:32613
+27,22,757425.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,23,757455.0,4825905.0,4,3,Stable / mixed / disagreement,EPSG:32613
+27,24,757485.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,25,757515.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,26,757545.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,27,757575.0,4825905.0,3,3,Stable / mixed / disagreement,EPSG:32613
+27,28,757605.0,4825905.0,4,3,Stable / mixed / disagreement,EPSG:32613
+27,29,757635.0,4825905.0,3,3,Stable / mixed / disagreement,EPSG:32613
+27,30,757665.0,4825905.0,3,3,Stable / mixed / disagreement,EPSG:32613
+27,31,757695.0,4825905.0,3,3,Stable / mixed / disagreement,EPSG:32613
+27,32,757725.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,33,757755.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,34,757785.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,35,757815.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,36,757845.0,4825905.0,3,3,Stable / mixed / disagreement,EPSG:32613
+27,37,757875.0,4825905.0,4,3,Stable / mixed / disagreement,EPSG:32613
+27,38,757905.0,4825905.0,4,3,Stable / mixed / disagreement,EPSG:32613
+27,39,757935.0,4825905.0,4,3,Stable / mixed / disagreement,EPSG:32613
+27,40,757965.0,4825905.0,1,1,Recovery,EPSG:32613
+27,41,757995.0,4825905.0,1,1,Recovery,EPSG:32613
+27,42,758025.0,4825905.0,1,1,Recovery,EPSG:32613
+27,43,758055.0,4825905.0,1,1,Recovery,EPSG:32613
+27,44,758085.0,4825905.0,4,3,Stable / mixed / disagreement,EPSG:32613
+27,45,758115.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,46,758145.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,47,758175.0,4825905.0,1,1,Recovery,EPSG:32613
+27,48,758205.0,4825905.0,4,3,Stable / mixed / disagreement,EPSG:32613
+27,49,758235.0,4825905.0,3,3,Stable / mixed / disagreement,EPSG:32613
+27,50,758265.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,51,758295.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,52,758325.0,4825905.0,5,3,Stable / mixed / disagreement,EPSG:32613
+27,53,758355.0,4825905.0,4,3,Stable / mixed / disagreement,EPSG:32613
+27,54,758385.0,4825905.0,1,1,Recovery,EPSG:32613
+27,55,758415.0,4825905.0,1,1,Recovery,EPSG:32613
+28,2,756825.0,4825875.0,1,1,Recovery,EPSG:32613
+28,3,756855.0,4825875.0,4,3,Stable / mixed / disagreement,EPSG:32613
+28,4,756885.0,4825875.0,3,3,Stable / mixed / disagreement,EPSG:32613
+28,5,756915.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,6,756945.0,4825875.0,1,1,Recovery,EPSG:32613
+28,7,756975.0,4825875.0,1,1,Recovery,EPSG:32613
+28,8,757005.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,9,757035.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,10,757065.0,4825875.0,1,1,Recovery,EPSG:32613
+28,11,757095.0,4825875.0,1,1,Recovery,EPSG:32613
+28,12,757125.0,4825875.0,1,1,Recovery,EPSG:32613
+28,13,757155.0,4825875.0,0,1,Recovery,EPSG:32613
+28,14,757185.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,15,757215.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,16,757245.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,17,757275.0,4825875.0,4,3,Stable / mixed / disagreement,EPSG:32613
+28,18,757305.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,19,757335.0,4825875.0,4,3,Stable / mixed / disagreement,EPSG:32613
+28,20,757365.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,21,757395.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,22,757425.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,23,757455.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,24,757485.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,25,757515.0,4825875.0,3,3,Stable / mixed / disagreement,EPSG:32613
+28,26,757545.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,27,757575.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,28,757605.0,4825875.0,4,3,Stable / mixed / disagreement,EPSG:32613
+28,29,757635.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,30,757665.0,4825875.0,3,3,Stable / mixed / disagreement,EPSG:32613
+28,31,757695.0,4825875.0,3,3,Stable / mixed / disagreement,EPSG:32613
+28,32,757725.0,4825875.0,3,3,Stable / mixed / disagreement,EPSG:32613
+28,33,757755.0,4825875.0,4,3,Stable / mixed / disagreement,EPSG:32613
+28,34,757785.0,4825875.0,4,3,Stable / mixed / disagreement,EPSG:32613
+28,35,757815.0,4825875.0,4,3,Stable / mixed / disagreement,EPSG:32613
+28,36,757845.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,37,757875.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,38,757905.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,39,757935.0,4825875.0,1,1,Recovery,EPSG:32613
+28,40,757965.0,4825875.0,1,1,Recovery,EPSG:32613
+28,41,757995.0,4825875.0,1,1,Recovery,EPSG:32613
+28,42,758025.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,43,758055.0,4825875.0,1,1,Recovery,EPSG:32613
+28,44,758085.0,4825875.0,1,1,Recovery,EPSG:32613
+28,45,758115.0,4825875.0,1,1,Recovery,EPSG:32613
+28,46,758145.0,4825875.0,1,1,Recovery,EPSG:32613
+28,47,758175.0,4825875.0,1,1,Recovery,EPSG:32613
+28,48,758205.0,4825875.0,1,1,Recovery,EPSG:32613
+28,49,758235.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,50,758265.0,4825875.0,4,3,Stable / mixed / disagreement,EPSG:32613
+28,51,758295.0,4825875.0,5,3,Stable / mixed / disagreement,EPSG:32613
+28,52,758325.0,4825875.0,3,3,Stable / mixed / disagreement,EPSG:32613
+28,53,758355.0,4825875.0,4,3,Stable / mixed / disagreement,EPSG:32613
+28,54,758385.0,4825875.0,4,3,Stable / mixed / disagreement,EPSG:32613
+28,55,758415.0,4825875.0,1,1,Recovery,EPSG:32613
+29,2,756825.0,4825845.0,5,3,Stable / mixed / disagreement,EPSG:32613
+29,3,756855.0,4825845.0,5,3,Stable / mixed / disagreement,EPSG:32613
+29,4,756885.0,4825845.0,5,3,Stable / mixed / disagreement,EPSG:32613
+29,5,756915.0,4825845.0,5,3,Stable / mixed / disagreement,EPSG:32613
+29,6,756945.0,4825845.0,1,1,Recovery,EPSG:32613
+29,7,756975.0,4825845.0,1,1,Recovery,EPSG:32613
+29,8,757005.0,4825845.0,1,1,Recovery,EPSG:32613
+29,9,757035.0,4825845.0,1,1,Recovery,EPSG:32613
+29,10,757065.0,4825845.0,1,1,Recovery,EPSG:32613
+29,11,757095.0,4825845.0,1,1,Recovery,EPSG:32613
+29,12,757125.0,4825845.0,5,3,Stable / mixed / disagreement,EPSG:32613
+29,13,757155.0,4825845.0,5,3,Stable / mixed / disagreement,EPSG:32613
+29,14,757185.0,4825845.0,3,3,Stable / mixed / disagreement,EPSG:32613
+29,15,757215.0,4825845.0,5,3,Stable / mixed / disagreement,EPSG:32613
+29,16,757245.0,4825845.0,4,3,Stable / mixed / disagreement,EPSG:32613
+29,17,757275.0,4825845.0,4,3,Stable / mixed / disagreement,EPSG:32613
+29,18,757305.0,4825845.0,5,3,Stable / mixed / disagreement,EPSG:32613
+29,19,757335.0,4825845.0,0,1,Recovery,EPSG:32613
+29,20,757365.0,4825845.0,1,1,Recovery,EPSG:32613
+29,21,757395.0,4825845.0,5,3,Stable / mixed / disagreement,EPSG:32613
+29,22,757425.0,4825845.0,3,3,Stable / mixed / disagreement,EPSG:32613
+29,23,757455.0,4825845.0,0,1,Recovery,EPSG:32613
+29,24,757485.0,4825845.0,5,3,Stable / mixed / disagreement,EPSG:32613
+29,25,757515.0,4825845.0,3,3,Stable / mixed / disagreement,EPSG:32613
+29,26,757545.0,4825845.0,5,3,Stable / mixed / disagreement,EPSG:32613
+29,27,757575.0,4825845.0,5,3,Stable / mixed / disagreement,EPSG:32613
+29,28,757605.0,4825845.0,4,3,Stable / mixed / disagreement,EPSG:32613
+29,29,757635.0,4825845.0,2,2,Continued decline,EPSG:32613
+29,30,757665.0,4825845.0,4,3,Stable / mixed / disagreement,EPSG:32613
+29,31,757695.0,4825845.0,5,3,Stable / mixed / disagreement,EPSG:32613
+29,32,757725.0,4825845.0,3,3,Stable / mixed / disagreement,EPSG:32613
+29,33,757755.0,4825845.0,4,3,Stable / mixed / disagreement,EPSG:32613
+29,34,757785.0,4825845.0,4,3,Stable / mixed / disagreement,EPSG:32613
+29,35,757815.0,4825845.0,4,3,Stable / mixed / disagreement,EPSG:32613
+29,36,757845.0,4825845.0,4,3,Stable / mixed / disagreement,EPSG:32613
+29,37,757875.0,4825845.0,5,3,Stable / mixed / disagreement,EPSG:32613
+29,38,757905.0,4825845.0,1,1,Recovery,EPSG:32613
+29,39,757935.0,4825845.0,1,1,Recovery,EPSG:32613
+29,40,757965.0,4825845.0,1,1,Recovery,EPSG:32613
+29,41,757995.0,4825845.0,1,1,Recovery,EPSG:32613
+29,42,758025.0,4825845.0,1,1,Recovery,EPSG:32613
+29,43,758055.0,4825845.0,1,1,Recovery,EPSG:32613
+29,44,758085.0,4825845.0,1,1,Recovery,EPSG:32613
+29,45,758115.0,4825845.0,1,1,Recovery,EPSG:32613
+29,46,758145.0,4825845.0,1,1,Recovery,EPSG:32613
+29,47,758175.0,4825845.0,1,1,Recovery,EPSG:32613
+29,48,758205.0,4825845.0,1,1,Recovery,EPSG:32613
+29,49,758235.0,4825845.0,1,1,Recovery,EPSG:32613
+29,50,758265.0,4825845.0,1,1,Recovery,EPSG:32613
+29,51,758295.0,4825845.0,4,3,Stable / mixed / disagreement,EPSG:32613
+29,52,758325.0,4825845.0,5,3,Stable / mixed / disagreement,EPSG:32613
+29,53,758355.0,4825845.0,4,3,Stable / mixed / disagreement,EPSG:32613
+29,54,758385.0,4825845.0,4,3,Stable / mixed / disagreement,EPSG:32613
+29,55,758415.0,4825845.0,5,3,Stable / mixed / disagreement,EPSG:32613
+30,2,756825.0,4825815.0,5,3,Stable / mixed / disagreement,EPSG:32613
+30,3,756855.0,4825815.0,0,1,Recovery,EPSG:32613
+30,4,756885.0,4825815.0,5,3,Stable / mixed / disagreement,EPSG:32613
+30,5,756915.0,4825815.0,5,3,Stable / mixed / disagreement,EPSG:32613
+30,6,756945.0,4825815.0,5,3,Stable / mixed / disagreement,EPSG:32613
+30,7,756975.0,4825815.0,1,1,Recovery,EPSG:32613
+30,8,757005.0,4825815.0,1,1,Recovery,EPSG:32613
+30,9,757035.0,4825815.0,1,1,Recovery,EPSG:32613
+30,10,757065.0,4825815.0,1,1,Recovery,EPSG:32613
+30,11,757095.0,4825815.0,1,1,Recovery,EPSG:32613
+30,12,757125.0,4825815.0,4,3,Stable / mixed / disagreement,EPSG:32613
+30,13,757155.0,4825815.0,5,3,Stable / mixed / disagreement,EPSG:32613
+30,14,757185.0,4825815.0,3,3,Stable / mixed / disagreement,EPSG:32613
+30,15,757215.0,4825815.0,3,3,Stable / mixed / disagreement,EPSG:32613
+30,16,757245.0,4825815.0,1,1,Recovery,EPSG:32613
+30,17,757275.0,4825815.0,5,3,Stable / mixed / disagreement,EPSG:32613
+30,18,757305.0,4825815.0,4,3,Stable / mixed / disagreement,EPSG:32613
+30,19,757335.0,4825815.0,5,3,Stable / mixed / disagreement,EPSG:32613
+30,20,757365.0,4825815.0,3,3,Stable / mixed / disagreement,EPSG:32613
+30,21,757395.0,4825815.0,3,3,Stable / mixed / disagreement,EPSG:32613
+30,22,757425.0,4825815.0,5,3,Stable / mixed / disagreement,EPSG:32613
+30,23,757455.0,4825815.0,5,3,Stable / mixed / disagreement,EPSG:32613
+30,24,757485.0,4825815.0,5,3,Stable / mixed / disagreement,EPSG:32613
+30,25,757515.0,4825815.0,5,3,Stable / mixed / disagreement,EPSG:32613
+30,26,757545.0,4825815.0,5,3,Stable / mixed / disagreement,EPSG:32613
+30,27,757575.0,4825815.0,3,3,Stable / mixed / disagreement,EPSG:32613
+30,28,757605.0,4825815.0,4,3,Stable / mixed / disagreement,EPSG:32613
+30,29,757635.0,4825815.0,4,3,Stable / mixed / disagreement,EPSG:32613
+30,30,757665.0,4825815.0,5,3,Stable / mixed / disagreement,EPSG:32613
+30,31,757695.0,4825815.0,4,3,Stable / mixed / disagreement,EPSG:32613
+30,32,757725.0,4825815.0,3,3,Stable / mixed / disagreement,EPSG:32613
+30,33,757755.0,4825815.0,3,3,Stable / mixed / disagreement,EPSG:32613
+30,34,757785.0,4825815.0,3,3,Stable / mixed / disagreement,EPSG:32613
+30,35,757815.0,4825815.0,3,3,Stable / mixed / disagreement,EPSG:32613
+30,36,757845.0,4825815.0,4,3,Stable / mixed / disagreement,EPSG:32613
+30,37,757875.0,4825815.0,5,3,Stable / mixed / disagreement,EPSG:32613
+30,38,757905.0,4825815.0,4,3,Stable / mixed / disagreement,EPSG:32613
+30,39,757935.0,4825815.0,4,3,Stable / mixed / disagreement,EPSG:32613
+30,40,757965.0,4825815.0,5,3,Stable / mixed / disagreement,EPSG:32613
+30,41,757995.0,4825815.0,1,1,Recovery,EPSG:32613
+30,42,758025.0,4825815.0,1,1,Recovery,EPSG:32613
+30,43,758055.0,4825815.0,1,1,Recovery,EPSG:32613
+30,44,758085.0,4825815.0,1,1,Recovery,EPSG:32613
+30,45,758115.0,4825815.0,1,1,Recovery,EPSG:32613
+30,46,758145.0,4825815.0,1,1,Recovery,EPSG:32613
+30,47,758175.0,4825815.0,1,1,Recovery,EPSG:32613
+30,48,758205.0,4825815.0,1,1,Recovery,EPSG:32613
+30,49,758235.0,4825815.0,1,1,Recovery,EPSG:32613
+30,50,758265.0,4825815.0,1,1,Recovery,EPSG:32613
+30,51,758295.0,4825815.0,1,1,Recovery,EPSG:32613
+30,52,758325.0,4825815.0,4,3,Stable / mixed / disagreement,EPSG:32613
+30,53,758355.0,4825815.0,4,3,Stable / mixed / disagreement,EPSG:32613
+30,54,758385.0,4825815.0,4,3,Stable / mixed / disagreement,EPSG:32613
+30,55,758415.0,4825815.0,1,1,Recovery,EPSG:32613
+31,2,756825.0,4825785.0,5,3,Stable / mixed / disagreement,EPSG:32613
+31,3,756855.0,4825785.0,0,1,Recovery,EPSG:32613
+31,4,756885.0,4825785.0,5,3,Stable / mixed / disagreement,EPSG:32613
+31,5,756915.0,4825785.0,0,1,Recovery,EPSG:32613
+31,6,756945.0,4825785.0,5,3,Stable / mixed / disagreement,EPSG:32613
+31,7,756975.0,4825785.0,1,1,Recovery,EPSG:32613
+31,8,757005.0,4825785.0,1,1,Recovery,EPSG:32613
+31,9,757035.0,4825785.0,1,1,Recovery,EPSG:32613
+31,10,757065.0,4825785.0,1,1,Recovery,EPSG:32613
+31,11,757095.0,4825785.0,1,1,Recovery,EPSG:32613
+31,12,757125.0,4825785.0,5,3,Stable / mixed / disagreement,EPSG:32613
+31,13,757155.0,4825785.0,5,3,Stable / mixed / disagreement,EPSG:32613
+31,14,757185.0,4825785.0,3,3,Stable / mixed / disagreement,EPSG:32613
+31,15,757215.0,4825785.0,3,3,Stable / mixed / disagreement,EPSG:32613
+31,16,757245.0,4825785.0,4,3,Stable / mixed / disagreement,EPSG:32613
+31,17,757275.0,4825785.0,5,3,Stable / mixed / disagreement,EPSG:32613
+31,18,757305.0,4825785.0,5,3,Stable / mixed / disagreement,EPSG:32613
+31,19,757335.0,4825785.0,5,3,Stable / mixed / disagreement,EPSG:32613
+31,20,757365.0,4825785.0,5,3,Stable / mixed / disagreement,EPSG:32613
+31,21,757395.0,4825785.0,5,3,Stable / mixed / disagreement,EPSG:32613
+31,22,757425.0,4825785.0,3,3,Stable / mixed / disagreement,EPSG:32613
+31,23,757455.0,4825785.0,3,3,Stable / mixed / disagreement,EPSG:32613
+31,24,757485.0,4825785.0,5,3,Stable / mixed / disagreement,EPSG:32613
+31,25,757515.0,4825785.0,5,3,Stable / mixed / disagreement,EPSG:32613
+31,26,757545.0,4825785.0,4,3,Stable / mixed / disagreement,EPSG:32613
+31,27,757575.0,4825785.0,4,3,Stable / mixed / disagreement,EPSG:32613
+31,28,757605.0,4825785.0,4,3,Stable / mixed / disagreement,EPSG:32613
+31,29,757635.0,4825785.0,4,3,Stable / mixed / disagreement,EPSG:32613
+31,30,757665.0,4825785.0,4,3,Stable / mixed / disagreement,EPSG:32613
+31,31,757695.0,4825785.0,4,3,Stable / mixed / disagreement,EPSG:32613
+31,32,757725.0,4825785.0,3,3,Stable / mixed / disagreement,EPSG:32613
+31,33,757755.0,4825785.0,5,3,Stable / mixed / disagreement,EPSG:32613
+31,34,757785.0,4825785.0,0,1,Recovery,EPSG:32613
+31,35,757815.0,4825785.0,1,1,Recovery,EPSG:32613
+31,36,757845.0,4825785.0,1,1,Recovery,EPSG:32613
+31,37,757875.0,4825785.0,1,1,Recovery,EPSG:32613
+31,38,757905.0,4825785.0,5,3,Stable / mixed / disagreement,EPSG:32613
+31,39,757935.0,4825785.0,0,1,Recovery,EPSG:32613
+31,40,757965.0,4825785.0,0,1,Recovery,EPSG:32613
+31,41,757995.0,4825785.0,1,1,Recovery,EPSG:32613
+31,42,758025.0,4825785.0,1,1,Recovery,EPSG:32613
+31,43,758055.0,4825785.0,1,1,Recovery,EPSG:32613
+31,44,758085.0,4825785.0,1,1,Recovery,EPSG:32613
+31,45,758115.0,4825785.0,1,1,Recovery,EPSG:32613
+31,46,758145.0,4825785.0,1,1,Recovery,EPSG:32613
+31,47,758175.0,4825785.0,1,1,Recovery,EPSG:32613
+31,48,758205.0,4825785.0,1,1,Recovery,EPSG:32613
+31,49,758235.0,4825785.0,1,1,Recovery,EPSG:32613
+31,50,758265.0,4825785.0,1,1,Recovery,EPSG:32613
+31,51,758295.0,4825785.0,5,3,Stable / mixed / disagreement,EPSG:32613
+31,52,758325.0,4825785.0,3,3,Stable / mixed / disagreement,EPSG:32613
+31,53,758355.0,4825785.0,4,3,Stable / mixed / disagreement,EPSG:32613
+31,54,758385.0,4825785.0,4,3,Stable / mixed / disagreement,EPSG:32613
+31,55,758415.0,4825785.0,1,1,Recovery,EPSG:32613
+32,2,756825.0,4825755.0,0,1,Recovery,EPSG:32613
+32,3,756855.0,4825755.0,5,3,Stable / mixed / disagreement,EPSG:32613
+32,4,756885.0,4825755.0,5,3,Stable / mixed / disagreement,EPSG:32613
+32,5,756915.0,4825755.0,5,3,Stable / mixed / disagreement,EPSG:32613
+32,6,756945.0,4825755.0,1,1,Recovery,EPSG:32613
+32,7,756975.0,4825755.0,1,1,Recovery,EPSG:32613
+32,8,757005.0,4825755.0,1,1,Recovery,EPSG:32613
+32,9,757035.0,4825755.0,1,1,Recovery,EPSG:32613
+32,10,757065.0,4825755.0,1,1,Recovery,EPSG:32613
+32,11,757095.0,4825755.0,1,1,Recovery,EPSG:32613
+32,12,757125.0,4825755.0,5,3,Stable / mixed / disagreement,EPSG:32613
+32,13,757155.0,4825755.0,4,3,Stable / mixed / disagreement,EPSG:32613
+32,14,757185.0,4825755.0,3,3,Stable / mixed / disagreement,EPSG:32613
+32,15,757215.0,4825755.0,5,3,Stable / mixed / disagreement,EPSG:32613
+32,16,757245.0,4825755.0,4,3,Stable / mixed / disagreement,EPSG:32613
+32,17,757275.0,4825755.0,5,3,Stable / mixed / disagreement,EPSG:32613
+32,18,757305.0,4825755.0,5,3,Stable / mixed / disagreement,EPSG:32613
+32,19,757335.0,4825755.0,5,3,Stable / mixed / disagreement,EPSG:32613
+32,20,757365.0,4825755.0,0,1,Recovery,EPSG:32613
+32,21,757395.0,4825755.0,5,3,Stable / mixed / disagreement,EPSG:32613
+32,22,757425.0,4825755.0,5,3,Stable / mixed / disagreement,EPSG:32613
+32,23,757455.0,4825755.0,3,3,Stable / mixed / disagreement,EPSG:32613
+32,24,757485.0,4825755.0,4,3,Stable / mixed / disagreement,EPSG:32613
+32,25,757515.0,4825755.0,5,3,Stable / mixed / disagreement,EPSG:32613
+32,26,757545.0,4825755.0,1,1,Recovery,EPSG:32613
+32,27,757575.0,4825755.0,5,3,Stable / mixed / disagreement,EPSG:32613
+32,28,757605.0,4825755.0,5,3,Stable / mixed / disagreement,EPSG:32613
+32,29,757635.0,4825755.0,5,3,Stable / mixed / disagreement,EPSG:32613
+32,30,757665.0,4825755.0,4,3,Stable / mixed / disagreement,EPSG:32613
+32,31,757695.0,4825755.0,5,3,Stable / mixed / disagreement,EPSG:32613
+32,32,757725.0,4825755.0,5,3,Stable / mixed / disagreement,EPSG:32613
+32,33,757755.0,4825755.0,0,1,Recovery,EPSG:32613
+32,34,757785.0,4825755.0,0,1,Recovery,EPSG:32613
+32,35,757815.0,4825755.0,1,1,Recovery,EPSG:32613
+32,36,757845.0,4825755.0,1,1,Recovery,EPSG:32613
+32,37,757875.0,4825755.0,1,1,Recovery,EPSG:32613
+32,38,757905.0,4825755.0,5,3,Stable / mixed / disagreement,EPSG:32613
+32,39,757935.0,4825755.0,5,3,Stable / mixed / disagreement,EPSG:32613
+32,40,757965.0,4825755.0,4,3,Stable / mixed / disagreement,EPSG:32613
+32,41,757995.0,4825755.0,1,1,Recovery,EPSG:32613
+32,42,758025.0,4825755.0,1,1,Recovery,EPSG:32613
+32,43,758055.0,4825755.0,1,1,Recovery,EPSG:32613
+32,44,758085.0,4825755.0,1,1,Recovery,EPSG:32613
+32,45,758115.0,4825755.0,1,1,Recovery,EPSG:32613
+32,46,758145.0,4825755.0,1,1,Recovery,EPSG:32613
+32,47,758175.0,4825755.0,1,1,Recovery,EPSG:32613
+32,48,758205.0,4825755.0,1,1,Recovery,EPSG:32613
+32,49,758235.0,4825755.0,1,1,Recovery,EPSG:32613
+32,50,758265.0,4825755.0,1,1,Recovery,EPSG:32613
+32,51,758295.0,4825755.0,4,3,Stable / mixed / disagreement,EPSG:32613
+32,52,758325.0,4825755.0,4,3,Stable / mixed / disagreement,EPSG:32613
+32,53,758355.0,4825755.0,4,3,Stable / mixed / disagreement,EPSG:32613
+32,54,758385.0,4825755.0,4,3,Stable / mixed / disagreement,EPSG:32613
+32,55,758415.0,4825755.0,5,3,Stable / mixed / disagreement,EPSG:32613
+33,2,756825.0,4825725.0,4,3,Stable / mixed / disagreement,EPSG:32613
+33,3,756855.0,4825725.0,4,3,Stable / mixed / disagreement,EPSG:32613
+33,4,756885.0,4825725.0,5,3,Stable / mixed / disagreement,EPSG:32613
+33,5,756915.0,4825725.0,0,1,Recovery,EPSG:32613
+33,6,756945.0,4825725.0,1,1,Recovery,EPSG:32613
+33,7,756975.0,4825725.0,5,3,Stable / mixed / disagreement,EPSG:32613
+33,8,757005.0,4825725.0,1,1,Recovery,EPSG:32613
+33,9,757035.0,4825725.0,1,1,Recovery,EPSG:32613
+33,10,757065.0,4825725.0,1,1,Recovery,EPSG:32613
+33,11,757095.0,4825725.0,1,1,Recovery,EPSG:32613
+33,12,757125.0,4825725.0,0,1,Recovery,EPSG:32613
+33,13,757155.0,4825725.0,4,3,Stable / mixed / disagreement,EPSG:32613
+33,14,757185.0,4825725.0,5,3,Stable / mixed / disagreement,EPSG:32613
+33,15,757215.0,4825725.0,1,1,Recovery,EPSG:32613
+33,16,757245.0,4825725.0,4,3,Stable / mixed / disagreement,EPSG:32613
+33,17,757275.0,4825725.0,1,1,Recovery,EPSG:32613
+33,18,757305.0,4825725.0,1,1,Recovery,EPSG:32613
+33,19,757335.0,4825725.0,5,3,Stable / mixed / disagreement,EPSG:32613
+33,20,757365.0,4825725.0,0,1,Recovery,EPSG:32613
+33,21,757395.0,4825725.0,1,1,Recovery,EPSG:32613
+33,22,757425.0,4825725.0,0,1,Recovery,EPSG:32613
+33,23,757455.0,4825725.0,5,3,Stable / mixed / disagreement,EPSG:32613
+33,24,757485.0,4825725.0,4,3,Stable / mixed / disagreement,EPSG:32613
+33,25,757515.0,4825725.0,5,3,Stable / mixed / disagreement,EPSG:32613
+33,26,757545.0,4825725.0,5,3,Stable / mixed / disagreement,EPSG:32613
+33,27,757575.0,4825725.0,5,3,Stable / mixed / disagreement,EPSG:32613
+33,28,757605.0,4825725.0,5,3,Stable / mixed / disagreement,EPSG:32613
+33,29,757635.0,4825725.0,3,3,Stable / mixed / disagreement,EPSG:32613
+33,30,757665.0,4825725.0,3,3,Stable / mixed / disagreement,EPSG:32613
+33,31,757695.0,4825725.0,5,3,Stable / mixed / disagreement,EPSG:32613
+33,32,757725.0,4825725.0,5,3,Stable / mixed / disagreement,EPSG:32613
+33,33,757755.0,4825725.0,5,3,Stable / mixed / disagreement,EPSG:32613
+33,34,757785.0,4825725.0,5,3,Stable / mixed / disagreement,EPSG:32613
+33,35,757815.0,4825725.0,4,3,Stable / mixed / disagreement,EPSG:32613
+33,36,757845.0,4825725.0,0,1,Recovery,EPSG:32613
+33,37,757875.0,4825725.0,5,3,Stable / mixed / disagreement,EPSG:32613
+33,38,757905.0,4825725.0,1,1,Recovery,EPSG:32613
+33,39,757935.0,4825725.0,5,3,Stable / mixed / disagreement,EPSG:32613
+33,40,757965.0,4825725.0,0,1,Recovery,EPSG:32613
+33,41,757995.0,4825725.0,1,1,Recovery,EPSG:32613
+33,42,758025.0,4825725.0,1,1,Recovery,EPSG:32613
+33,43,758055.0,4825725.0,1,1,Recovery,EPSG:32613
+33,44,758085.0,4825725.0,1,1,Recovery,EPSG:32613
+33,45,758115.0,4825725.0,1,1,Recovery,EPSG:32613
+33,46,758145.0,4825725.0,1,1,Recovery,EPSG:32613
+33,47,758175.0,4825725.0,1,1,Recovery,EPSG:32613
+33,48,758205.0,4825725.0,1,1,Recovery,EPSG:32613
+33,49,758235.0,4825725.0,1,1,Recovery,EPSG:32613
+33,50,758265.0,4825725.0,4,3,Stable / mixed / disagreement,EPSG:32613
+33,51,758295.0,4825725.0,4,3,Stable / mixed / disagreement,EPSG:32613
+33,52,758325.0,4825725.0,4,3,Stable / mixed / disagreement,EPSG:32613
+33,53,758355.0,4825725.0,4,3,Stable / mixed / disagreement,EPSG:32613
+33,54,758385.0,4825725.0,4,3,Stable / mixed / disagreement,EPSG:32613
+33,55,758415.0,4825725.0,4,3,Stable / mixed / disagreement,EPSG:32613
+34,2,756825.0,4825695.0,5,3,Stable / mixed / disagreement,EPSG:32613
+34,3,756855.0,4825695.0,4,3,Stable / mixed / disagreement,EPSG:32613
+34,4,756885.0,4825695.0,4,3,Stable / mixed / disagreement,EPSG:32613
+34,5,756915.0,4825695.0,5,3,Stable / mixed / disagreement,EPSG:32613
+34,6,756945.0,4825695.0,1,1,Recovery,EPSG:32613
+34,7,756975.0,4825695.0,1,1,Recovery,EPSG:32613
+34,8,757005.0,4825695.0,1,1,Recovery,EPSG:32613
+34,9,757035.0,4825695.0,1,1,Recovery,EPSG:32613
+34,10,757065.0,4825695.0,1,1,Recovery,EPSG:32613
+34,11,757095.0,4825695.0,1,1,Recovery,EPSG:32613
+34,12,757125.0,4825695.0,5,3,Stable / mixed / disagreement,EPSG:32613
+34,13,757155.0,4825695.0,5,3,Stable / mixed / disagreement,EPSG:32613
+34,14,757185.0,4825695.0,1,1,Recovery,EPSG:32613
+34,15,757215.0,4825695.0,1,1,Recovery,EPSG:32613
+34,16,757245.0,4825695.0,1,1,Recovery,EPSG:32613
+34,17,757275.0,4825695.0,1,1,Recovery,EPSG:32613
+34,18,757305.0,4825695.0,1,1,Recovery,EPSG:32613
+34,19,757335.0,4825695.0,1,1,Recovery,EPSG:32613
+34,20,757365.0,4825695.0,1,1,Recovery,EPSG:32613
+34,21,757395.0,4825695.0,1,1,Recovery,EPSG:32613
+34,22,757425.0,4825695.0,1,1,Recovery,EPSG:32613
+34,23,757455.0,4825695.0,1,1,Recovery,EPSG:32613
+34,24,757485.0,4825695.0,5,3,Stable / mixed / disagreement,EPSG:32613
+34,25,757515.0,4825695.0,5,3,Stable / mixed / disagreement,EPSG:32613
+34,26,757545.0,4825695.0,4,3,Stable / mixed / disagreement,EPSG:32613
+34,27,757575.0,4825695.0,3,3,Stable / mixed / disagreement,EPSG:32613
+34,28,757605.0,4825695.0,5,3,Stable / mixed / disagreement,EPSG:32613
+34,29,757635.0,4825695.0,5,3,Stable / mixed / disagreement,EPSG:32613
+34,30,757665.0,4825695.0,3,3,Stable / mixed / disagreement,EPSG:32613
+34,31,757695.0,4825695.0,3,3,Stable / mixed / disagreement,EPSG:32613
+34,32,757725.0,4825695.0,3,3,Stable / mixed / disagreement,EPSG:32613
+34,33,757755.0,4825695.0,3,3,Stable / mixed / disagreement,EPSG:32613
+34,34,757785.0,4825695.0,5,3,Stable / mixed / disagreement,EPSG:32613
+34,35,757815.0,4825695.0,5,3,Stable / mixed / disagreement,EPSG:32613
+34,36,757845.0,4825695.0,1,1,Recovery,EPSG:32613
+34,37,757875.0,4825695.0,5,3,Stable / mixed / disagreement,EPSG:32613
+34,38,757905.0,4825695.0,5,3,Stable / mixed / disagreement,EPSG:32613
+34,39,757935.0,4825695.0,5,3,Stable / mixed / disagreement,EPSG:32613
+34,40,757965.0,4825695.0,5,3,Stable / mixed / disagreement,EPSG:32613
+34,41,757995.0,4825695.0,0,1,Recovery,EPSG:32613
+34,42,758025.0,4825695.0,5,3,Stable / mixed / disagreement,EPSG:32613
+34,43,758055.0,4825695.0,1,1,Recovery,EPSG:32613
+34,44,758085.0,4825695.0,1,1,Recovery,EPSG:32613
+34,45,758115.0,4825695.0,1,1,Recovery,EPSG:32613
+34,46,758145.0,4825695.0,1,1,Recovery,EPSG:32613
+34,47,758175.0,4825695.0,1,1,Recovery,EPSG:32613
+34,48,758205.0,4825695.0,1,1,Recovery,EPSG:32613
+34,49,758235.0,4825695.0,4,3,Stable / mixed / disagreement,EPSG:32613
+34,50,758265.0,4825695.0,4,3,Stable / mixed / disagreement,EPSG:32613
+34,51,758295.0,4825695.0,4,3,Stable / mixed / disagreement,EPSG:32613
+34,52,758325.0,4825695.0,4,3,Stable / mixed / disagreement,EPSG:32613
+34,53,758355.0,4825695.0,5,3,Stable / mixed / disagreement,EPSG:32613
+34,54,758385.0,4825695.0,5,3,Stable / mixed / disagreement,EPSG:32613
+34,55,758415.0,4825695.0,1,1,Recovery,EPSG:32613
+35,2,756825.0,4825665.0,5,3,Stable / mixed / disagreement,EPSG:32613
+35,3,756855.0,4825665.0,5,3,Stable / mixed / disagreement,EPSG:32613
+35,4,756885.0,4825665.0,4,3,Stable / mixed / disagreement,EPSG:32613
+35,5,756915.0,4825665.0,5,3,Stable / mixed / disagreement,EPSG:32613
+35,6,756945.0,4825665.0,1,1,Recovery,EPSG:32613
+35,7,756975.0,4825665.0,1,1,Recovery,EPSG:32613
+35,8,757005.0,4825665.0,1,1,Recovery,EPSG:32613
+35,9,757035.0,4825665.0,1,1,Recovery,EPSG:32613
+35,10,757065.0,4825665.0,1,1,Recovery,EPSG:32613
+35,11,757095.0,4825665.0,1,1,Recovery,EPSG:32613
+35,12,757125.0,4825665.0,1,1,Recovery,EPSG:32613
+35,13,757155.0,4825665.0,5,3,Stable / mixed / disagreement,EPSG:32613
+35,14,757185.0,4825665.0,1,1,Recovery,EPSG:32613
+35,15,757215.0,4825665.0,1,1,Recovery,EPSG:32613
+35,16,757245.0,4825665.0,1,1,Recovery,EPSG:32613
+35,17,757275.0,4825665.0,1,1,Recovery,EPSG:32613
+35,18,757305.0,4825665.0,1,1,Recovery,EPSG:32613
+35,19,757335.0,4825665.0,1,1,Recovery,EPSG:32613
+35,20,757365.0,4825665.0,1,1,Recovery,EPSG:32613
+35,21,757395.0,4825665.0,1,1,Recovery,EPSG:32613
+35,22,757425.0,4825665.0,1,1,Recovery,EPSG:32613
+35,23,757455.0,4825665.0,1,1,Recovery,EPSG:32613
+35,24,757485.0,4825665.0,1,1,Recovery,EPSG:32613
+35,25,757515.0,4825665.0,1,1,Recovery,EPSG:32613
+35,26,757545.0,4825665.0,5,3,Stable / mixed / disagreement,EPSG:32613
+35,27,757575.0,4825665.0,5,3,Stable / mixed / disagreement,EPSG:32613
+35,28,757605.0,4825665.0,5,3,Stable / mixed / disagreement,EPSG:32613
+35,29,757635.0,4825665.0,5,3,Stable / mixed / disagreement,EPSG:32613
+35,30,757665.0,4825665.0,3,3,Stable / mixed / disagreement,EPSG:32613
+35,31,757695.0,4825665.0,3,3,Stable / mixed / disagreement,EPSG:32613
+35,32,757725.0,4825665.0,3,3,Stable / mixed / disagreement,EPSG:32613
+35,33,757755.0,4825665.0,5,3,Stable / mixed / disagreement,EPSG:32613
+35,34,757785.0,4825665.0,4,3,Stable / mixed / disagreement,EPSG:32613
+35,35,757815.0,4825665.0,1,1,Recovery,EPSG:32613
+35,36,757845.0,4825665.0,5,3,Stable / mixed / disagreement,EPSG:32613
+35,37,757875.0,4825665.0,5,3,Stable / mixed / disagreement,EPSG:32613
+35,38,757905.0,4825665.0,0,1,Recovery,EPSG:32613
+35,39,757935.0,4825665.0,4,3,Stable / mixed / disagreement,EPSG:32613
+35,40,757965.0,4825665.0,4,3,Stable / mixed / disagreement,EPSG:32613
+35,41,757995.0,4825665.0,5,3,Stable / mixed / disagreement,EPSG:32613
+35,42,758025.0,4825665.0,3,3,Stable / mixed / disagreement,EPSG:32613
+35,43,758055.0,4825665.0,5,3,Stable / mixed / disagreement,EPSG:32613
+35,44,758085.0,4825665.0,1,1,Recovery,EPSG:32613
+35,45,758115.0,4825665.0,1,1,Recovery,EPSG:32613
+35,46,758145.0,4825665.0,1,1,Recovery,EPSG:32613
+35,47,758175.0,4825665.0,4,3,Stable / mixed / disagreement,EPSG:32613
+35,48,758205.0,4825665.0,4,3,Stable / mixed / disagreement,EPSG:32613
+35,49,758235.0,4825665.0,4,3,Stable / mixed / disagreement,EPSG:32613
+35,50,758265.0,4825665.0,4,3,Stable / mixed / disagreement,EPSG:32613
+35,51,758295.0,4825665.0,5,3,Stable / mixed / disagreement,EPSG:32613
+35,52,758325.0,4825665.0,5,3,Stable / mixed / disagreement,EPSG:32613
+35,53,758355.0,4825665.0,1,1,Recovery,EPSG:32613
+35,54,758385.0,4825665.0,1,1,Recovery,EPSG:32613
+35,55,758415.0,4825665.0,1,1,Recovery,EPSG:32613
+35,56,758445.0,4825665.0,1,1,Recovery,EPSG:32613
+36,2,756825.0,4825635.0,5,3,Stable / mixed / disagreement,EPSG:32613
+36,3,756855.0,4825635.0,0,1,Recovery,EPSG:32613
+36,4,756885.0,4825635.0,5,3,Stable / mixed / disagreement,EPSG:32613
+36,5,756915.0,4825635.0,5,3,Stable / mixed / disagreement,EPSG:32613
+36,6,756945.0,4825635.0,1,1,Recovery,EPSG:32613
+36,7,756975.0,4825635.0,1,1,Recovery,EPSG:32613
+36,8,757005.0,4825635.0,1,1,Recovery,EPSG:32613
+36,9,757035.0,4825635.0,1,1,Recovery,EPSG:32613
+36,10,757065.0,4825635.0,1,1,Recovery,EPSG:32613
+36,11,757095.0,4825635.0,1,1,Recovery,EPSG:32613
+36,12,757125.0,4825635.0,1,1,Recovery,EPSG:32613
+36,13,757155.0,4825635.0,1,1,Recovery,EPSG:32613
+36,14,757185.0,4825635.0,1,1,Recovery,EPSG:32613
+36,15,757215.0,4825635.0,1,1,Recovery,EPSG:32613
+36,16,757245.0,4825635.0,1,1,Recovery,EPSG:32613
+36,17,757275.0,4825635.0,1,1,Recovery,EPSG:32613
+36,18,757305.0,4825635.0,1,1,Recovery,EPSG:32613
+36,19,757335.0,4825635.0,1,1,Recovery,EPSG:32613
+36,20,757365.0,4825635.0,1,1,Recovery,EPSG:32613
+36,21,757395.0,4825635.0,1,1,Recovery,EPSG:32613
+36,22,757425.0,4825635.0,1,1,Recovery,EPSG:32613
+36,23,757455.0,4825635.0,1,1,Recovery,EPSG:32613
+36,24,757485.0,4825635.0,1,1,Recovery,EPSG:32613
+36,25,757515.0,4825635.0,1,1,Recovery,EPSG:32613
+36,26,757545.0,4825635.0,5,3,Stable / mixed / disagreement,EPSG:32613
+36,27,757575.0,4825635.0,5,3,Stable / mixed / disagreement,EPSG:32613
+36,28,757605.0,4825635.0,1,1,Recovery,EPSG:32613
+36,29,757635.0,4825635.0,5,3,Stable / mixed / disagreement,EPSG:32613
+36,30,757665.0,4825635.0,3,3,Stable / mixed / disagreement,EPSG:32613
+36,31,757695.0,4825635.0,3,3,Stable / mixed / disagreement,EPSG:32613
+36,32,757725.0,4825635.0,5,3,Stable / mixed / disagreement,EPSG:32613
+36,33,757755.0,4825635.0,5,3,Stable / mixed / disagreement,EPSG:32613
+36,34,757785.0,4825635.0,1,1,Recovery,EPSG:32613
+36,35,757815.0,4825635.0,5,3,Stable / mixed / disagreement,EPSG:32613
+36,36,757845.0,4825635.0,1,1,Recovery,EPSG:32613
+36,37,757875.0,4825635.0,1,1,Recovery,EPSG:32613
+36,38,757905.0,4825635.0,1,1,Recovery,EPSG:32613
+36,39,757935.0,4825635.0,5,3,Stable / mixed / disagreement,EPSG:32613
+36,40,757965.0,4825635.0,3,3,Stable / mixed / disagreement,EPSG:32613
+36,41,757995.0,4825635.0,3,3,Stable / mixed / disagreement,EPSG:32613
+36,42,758025.0,4825635.0,4,3,Stable / mixed / disagreement,EPSG:32613
+36,43,758055.0,4825635.0,4,3,Stable / mixed / disagreement,EPSG:32613
+36,44,758085.0,4825635.0,1,1,Recovery,EPSG:32613
+36,45,758115.0,4825635.0,1,1,Recovery,EPSG:32613
+36,46,758145.0,4825635.0,1,1,Recovery,EPSG:32613
+36,47,758175.0,4825635.0,4,3,Stable / mixed / disagreement,EPSG:32613
+36,48,758205.0,4825635.0,4,3,Stable / mixed / disagreement,EPSG:32613
+36,49,758235.0,4825635.0,4,3,Stable / mixed / disagreement,EPSG:32613
+36,50,758265.0,4825635.0,4,3,Stable / mixed / disagreement,EPSG:32613
+36,51,758295.0,4825635.0,5,3,Stable / mixed / disagreement,EPSG:32613
+36,52,758325.0,4825635.0,5,3,Stable / mixed / disagreement,EPSG:32613
+36,53,758355.0,4825635.0,1,1,Recovery,EPSG:32613
+36,54,758385.0,4825635.0,1,1,Recovery,EPSG:32613
+36,55,758415.0,4825635.0,1,1,Recovery,EPSG:32613
+36,56,758445.0,4825635.0,1,1,Recovery,EPSG:32613
+37,2,756825.0,4825605.0,1,1,Recovery,EPSG:32613
+37,3,756855.0,4825605.0,0,1,Recovery,EPSG:32613
+37,4,756885.0,4825605.0,5,3,Stable / mixed / disagreement,EPSG:32613
+37,5,756915.0,4825605.0,0,1,Recovery,EPSG:32613
+37,6,756945.0,4825605.0,1,1,Recovery,EPSG:32613
+37,7,756975.0,4825605.0,1,1,Recovery,EPSG:32613
+37,8,757005.0,4825605.0,1,1,Recovery,EPSG:32613
+37,9,757035.0,4825605.0,1,1,Recovery,EPSG:32613
+37,10,757065.0,4825605.0,1,1,Recovery,EPSG:32613
+37,11,757095.0,4825605.0,1,1,Recovery,EPSG:32613
+37,12,757125.0,4825605.0,1,1,Recovery,EPSG:32613
+37,13,757155.0,4825605.0,1,1,Recovery,EPSG:32613
+37,14,757185.0,4825605.0,1,1,Recovery,EPSG:32613
+37,15,757215.0,4825605.0,1,1,Recovery,EPSG:32613
+37,16,757245.0,4825605.0,1,1,Recovery,EPSG:32613
+37,17,757275.0,4825605.0,1,1,Recovery,EPSG:32613
+37,18,757305.0,4825605.0,1,1,Recovery,EPSG:32613
+37,19,757335.0,4825605.0,1,1,Recovery,EPSG:32613
+37,20,757365.0,4825605.0,1,1,Recovery,EPSG:32613
+37,21,757395.0,4825605.0,1,1,Recovery,EPSG:32613
+37,22,757425.0,4825605.0,1,1,Recovery,EPSG:32613
+37,23,757455.0,4825605.0,1,1,Recovery,EPSG:32613
+37,24,757485.0,4825605.0,1,1,Recovery,EPSG:32613
+37,25,757515.0,4825605.0,1,1,Recovery,EPSG:32613
+37,26,757545.0,4825605.0,1,1,Recovery,EPSG:32613
+37,27,757575.0,4825605.0,1,1,Recovery,EPSG:32613
+37,28,757605.0,4825605.0,1,1,Recovery,EPSG:32613
+37,29,757635.0,4825605.0,1,1,Recovery,EPSG:32613
+37,30,757665.0,4825605.0,5,3,Stable / mixed / disagreement,EPSG:32613
+37,31,757695.0,4825605.0,3,3,Stable / mixed / disagreement,EPSG:32613
+37,32,757725.0,4825605.0,4,3,Stable / mixed / disagreement,EPSG:32613
+37,33,757755.0,4825605.0,5,3,Stable / mixed / disagreement,EPSG:32613
+37,34,757785.0,4825605.0,1,1,Recovery,EPSG:32613
+37,35,757815.0,4825605.0,1,1,Recovery,EPSG:32613
+37,36,757845.0,4825605.0,1,1,Recovery,EPSG:32613
+37,37,757875.0,4825605.0,1,1,Recovery,EPSG:32613
+37,38,757905.0,4825605.0,1,1,Recovery,EPSG:32613
+37,39,757935.0,4825605.0,0,1,Recovery,EPSG:32613
+37,40,757965.0,4825605.0,5,3,Stable / mixed / disagreement,EPSG:32613
+37,41,757995.0,4825605.0,5,3,Stable / mixed / disagreement,EPSG:32613
+37,42,758025.0,4825605.0,4,3,Stable / mixed / disagreement,EPSG:32613
+37,43,758055.0,4825605.0,5,3,Stable / mixed / disagreement,EPSG:32613
+37,44,758085.0,4825605.0,4,3,Stable / mixed / disagreement,EPSG:32613
+37,45,758115.0,4825605.0,5,3,Stable / mixed / disagreement,EPSG:32613
+37,46,758145.0,4825605.0,4,3,Stable / mixed / disagreement,EPSG:32613
+37,47,758175.0,4825605.0,4,3,Stable / mixed / disagreement,EPSG:32613
+37,48,758205.0,4825605.0,4,3,Stable / mixed / disagreement,EPSG:32613
+37,49,758235.0,4825605.0,4,3,Stable / mixed / disagreement,EPSG:32613
+37,50,758265.0,4825605.0,5,3,Stable / mixed / disagreement,EPSG:32613
+37,51,758295.0,4825605.0,5,3,Stable / mixed / disagreement,EPSG:32613
+37,52,758325.0,4825605.0,4,3,Stable / mixed / disagreement,EPSG:32613
+37,53,758355.0,4825605.0,5,3,Stable / mixed / disagreement,EPSG:32613
+37,54,758385.0,4825605.0,4,3,Stable / mixed / disagreement,EPSG:32613
+37,55,758415.0,4825605.0,4,3,Stable / mixed / disagreement,EPSG:32613
+37,56,758445.0,4825605.0,0,1,Recovery,EPSG:32613
+38,2,756825.0,4825575.0,1,1,Recovery,EPSG:32613
+38,3,756855.0,4825575.0,0,1,Recovery,EPSG:32613
+38,4,756885.0,4825575.0,5,3,Stable / mixed / disagreement,EPSG:32613
+38,5,756915.0,4825575.0,5,3,Stable / mixed / disagreement,EPSG:32613
+38,6,756945.0,4825575.0,5,3,Stable / mixed / disagreement,EPSG:32613
+38,7,756975.0,4825575.0,1,1,Recovery,EPSG:32613
+38,8,757005.0,4825575.0,1,1,Recovery,EPSG:32613
+38,9,757035.0,4825575.0,1,1,Recovery,EPSG:32613
+38,10,757065.0,4825575.0,1,1,Recovery,EPSG:32613
+38,11,757095.0,4825575.0,1,1,Recovery,EPSG:32613
+38,12,757125.0,4825575.0,1,1,Recovery,EPSG:32613
+38,13,757155.0,4825575.0,1,1,Recovery,EPSG:32613
+38,14,757185.0,4825575.0,1,1,Recovery,EPSG:32613
+38,15,757215.0,4825575.0,1,1,Recovery,EPSG:32613
+38,16,757245.0,4825575.0,1,1,Recovery,EPSG:32613
+38,17,757275.0,4825575.0,1,1,Recovery,EPSG:32613
+38,18,757305.0,4825575.0,1,1,Recovery,EPSG:32613
+38,19,757335.0,4825575.0,1,1,Recovery,EPSG:32613
+38,20,757365.0,4825575.0,1,1,Recovery,EPSG:32613
+38,21,757395.0,4825575.0,1,1,Recovery,EPSG:32613
+38,22,757425.0,4825575.0,1,1,Recovery,EPSG:32613
+38,23,757455.0,4825575.0,1,1,Recovery,EPSG:32613
+38,24,757485.0,4825575.0,1,1,Recovery,EPSG:32613
+38,25,757515.0,4825575.0,1,1,Recovery,EPSG:32613
+38,26,757545.0,4825575.0,1,1,Recovery,EPSG:32613
+38,27,757575.0,4825575.0,1,1,Recovery,EPSG:32613
+38,28,757605.0,4825575.0,1,1,Recovery,EPSG:32613
+38,29,757635.0,4825575.0,1,1,Recovery,EPSG:32613
+38,30,757665.0,4825575.0,5,3,Stable / mixed / disagreement,EPSG:32613
+38,31,757695.0,4825575.0,3,3,Stable / mixed / disagreement,EPSG:32613
+38,32,757725.0,4825575.0,5,3,Stable / mixed / disagreement,EPSG:32613
+38,33,757755.0,4825575.0,5,3,Stable / mixed / disagreement,EPSG:32613
+38,34,757785.0,4825575.0,1,1,Recovery,EPSG:32613
+38,35,757815.0,4825575.0,1,1,Recovery,EPSG:32613
+38,36,757845.0,4825575.0,1,1,Recovery,EPSG:32613
+38,37,757875.0,4825575.0,1,1,Recovery,EPSG:32613
+38,38,757905.0,4825575.0,1,1,Recovery,EPSG:32613
+38,39,757935.0,4825575.0,1,1,Recovery,EPSG:32613
+38,40,757965.0,4825575.0,5,3,Stable / mixed / disagreement,EPSG:32613
+38,41,757995.0,4825575.0,5,3,Stable / mixed / disagreement,EPSG:32613
+38,42,758025.0,4825575.0,4,3,Stable / mixed / disagreement,EPSG:32613
+38,43,758055.0,4825575.0,4,3,Stable / mixed / disagreement,EPSG:32613
+38,44,758085.0,4825575.0,5,3,Stable / mixed / disagreement,EPSG:32613
+38,45,758115.0,4825575.0,1,1,Recovery,EPSG:32613
+38,46,758145.0,4825575.0,5,3,Stable / mixed / disagreement,EPSG:32613
+38,47,758175.0,4825575.0,5,3,Stable / mixed / disagreement,EPSG:32613
+38,48,758205.0,4825575.0,3,3,Stable / mixed / disagreement,EPSG:32613
+38,49,758235.0,4825575.0,4,3,Stable / mixed / disagreement,EPSG:32613
+38,50,758265.0,4825575.0,5,3,Stable / mixed / disagreement,EPSG:32613
+38,51,758295.0,4825575.0,5,3,Stable / mixed / disagreement,EPSG:32613
+38,52,758325.0,4825575.0,1,1,Recovery,EPSG:32613
+38,53,758355.0,4825575.0,4,3,Stable / mixed / disagreement,EPSG:32613
+38,54,758385.0,4825575.0,3,3,Stable / mixed / disagreement,EPSG:32613
+38,55,758415.0,4825575.0,3,3,Stable / mixed / disagreement,EPSG:32613
+38,56,758445.0,4825575.0,3,3,Stable / mixed / disagreement,EPSG:32613
+39,3,756855.0,4825545.0,1,1,Recovery,EPSG:32613
+39,4,756885.0,4825545.0,0,1,Recovery,EPSG:32613
+39,5,756915.0,4825545.0,5,3,Stable / mixed / disagreement,EPSG:32613
+39,6,756945.0,4825545.0,5,3,Stable / mixed / disagreement,EPSG:32613
+39,7,756975.0,4825545.0,1,1,Recovery,EPSG:32613
+39,8,757005.0,4825545.0,1,1,Recovery,EPSG:32613
+39,9,757035.0,4825545.0,1,1,Recovery,EPSG:32613
+39,10,757065.0,4825545.0,1,1,Recovery,EPSG:32613
+39,11,757095.0,4825545.0,1,1,Recovery,EPSG:32613
+39,12,757125.0,4825545.0,1,1,Recovery,EPSG:32613
+39,13,757155.0,4825545.0,1,1,Recovery,EPSG:32613
+39,14,757185.0,4825545.0,1,1,Recovery,EPSG:32613
+39,15,757215.0,4825545.0,1,1,Recovery,EPSG:32613
+39,16,757245.0,4825545.0,1,1,Recovery,EPSG:32613
+39,17,757275.0,4825545.0,1,1,Recovery,EPSG:32613
+39,18,757305.0,4825545.0,1,1,Recovery,EPSG:32613
+39,19,757335.0,4825545.0,1,1,Recovery,EPSG:32613
+39,20,757365.0,4825545.0,1,1,Recovery,EPSG:32613
+39,21,757395.0,4825545.0,1,1,Recovery,EPSG:32613
+39,22,757425.0,4825545.0,1,1,Recovery,EPSG:32613
+39,23,757455.0,4825545.0,1,1,Recovery,EPSG:32613
+39,24,757485.0,4825545.0,1,1,Recovery,EPSG:32613
+39,25,757515.0,4825545.0,1,1,Recovery,EPSG:32613
+39,26,757545.0,4825545.0,1,1,Recovery,EPSG:32613
+39,27,757575.0,4825545.0,5,3,Stable / mixed / disagreement,EPSG:32613
+39,28,757605.0,4825545.0,1,1,Recovery,EPSG:32613
+39,29,757635.0,4825545.0,1,1,Recovery,EPSG:32613
+39,30,757665.0,4825545.0,5,3,Stable / mixed / disagreement,EPSG:32613
+39,31,757695.0,4825545.0,5,3,Stable / mixed / disagreement,EPSG:32613
+39,32,757725.0,4825545.0,5,3,Stable / mixed / disagreement,EPSG:32613
+39,33,757755.0,4825545.0,3,3,Stable / mixed / disagreement,EPSG:32613
+39,34,757785.0,4825545.0,3,3,Stable / mixed / disagreement,EPSG:32613
+39,35,757815.0,4825545.0,4,3,Stable / mixed / disagreement,EPSG:32613
+39,36,757845.0,4825545.0,1,1,Recovery,EPSG:32613
+39,37,757875.0,4825545.0,1,1,Recovery,EPSG:32613
+39,38,757905.0,4825545.0,1,1,Recovery,EPSG:32613
+39,39,757935.0,4825545.0,1,1,Recovery,EPSG:32613
+39,40,757965.0,4825545.0,1,1,Recovery,EPSG:32613
+39,41,757995.0,4825545.0,1,1,Recovery,EPSG:32613
+39,42,758025.0,4825545.0,5,3,Stable / mixed / disagreement,EPSG:32613
+39,43,758055.0,4825545.0,5,3,Stable / mixed / disagreement,EPSG:32613
+39,44,758085.0,4825545.0,4,3,Stable / mixed / disagreement,EPSG:32613
+39,45,758115.0,4825545.0,1,1,Recovery,EPSG:32613
+39,46,758145.0,4825545.0,1,1,Recovery,EPSG:32613
+39,47,758175.0,4825545.0,5,3,Stable / mixed / disagreement,EPSG:32613
+39,48,758205.0,4825545.0,5,3,Stable / mixed / disagreement,EPSG:32613
+39,49,758235.0,4825545.0,3,3,Stable / mixed / disagreement,EPSG:32613
+39,50,758265.0,4825545.0,5,3,Stable / mixed / disagreement,EPSG:32613
+39,51,758295.0,4825545.0,4,3,Stable / mixed / disagreement,EPSG:32613
+39,52,758325.0,4825545.0,4,3,Stable / mixed / disagreement,EPSG:32613
+39,53,758355.0,4825545.0,4,3,Stable / mixed / disagreement,EPSG:32613
+39,54,758385.0,4825545.0,4,3,Stable / mixed / disagreement,EPSG:32613
+39,55,758415.0,4825545.0,5,3,Stable / mixed / disagreement,EPSG:32613
+39,56,758445.0,4825545.0,5,3,Stable / mixed / disagreement,EPSG:32613
+40,3,756855.0,4825515.0,1,1,Recovery,EPSG:32613
+40,4,756885.0,4825515.0,1,1,Recovery,EPSG:32613
+40,5,756915.0,4825515.0,1,1,Recovery,EPSG:32613
+40,6,756945.0,4825515.0,5,3,Stable / mixed / disagreement,EPSG:32613
+40,7,756975.0,4825515.0,1,1,Recovery,EPSG:32613
+40,8,757005.0,4825515.0,1,1,Recovery,EPSG:32613
+40,9,757035.0,4825515.0,1,1,Recovery,EPSG:32613
+40,10,757065.0,4825515.0,1,1,Recovery,EPSG:32613
+40,11,757095.0,4825515.0,1,1,Recovery,EPSG:32613
+40,12,757125.0,4825515.0,1,1,Recovery,EPSG:32613
+40,13,757155.0,4825515.0,1,1,Recovery,EPSG:32613
+40,14,757185.0,4825515.0,1,1,Recovery,EPSG:32613
+40,15,757215.0,4825515.0,1,1,Recovery,EPSG:32613
+40,16,757245.0,4825515.0,1,1,Recovery,EPSG:32613
+40,17,757275.0,4825515.0,1,1,Recovery,EPSG:32613
+40,18,757305.0,4825515.0,1,1,Recovery,EPSG:32613
+40,19,757335.0,4825515.0,1,1,Recovery,EPSG:32613
+40,20,757365.0,4825515.0,1,1,Recovery,EPSG:32613
+40,21,757395.0,4825515.0,1,1,Recovery,EPSG:32613
+40,22,757425.0,4825515.0,1,1,Recovery,EPSG:32613
+40,23,757455.0,4825515.0,1,1,Recovery,EPSG:32613
+40,24,757485.0,4825515.0,1,1,Recovery,EPSG:32613
+40,25,757515.0,4825515.0,1,1,Recovery,EPSG:32613
+40,26,757545.0,4825515.0,1,1,Recovery,EPSG:32613
+40,27,757575.0,4825515.0,1,1,Recovery,EPSG:32613
+40,28,757605.0,4825515.0,1,1,Recovery,EPSG:32613
+40,29,757635.0,4825515.0,5,3,Stable / mixed / disagreement,EPSG:32613
+40,30,757665.0,4825515.0,5,3,Stable / mixed / disagreement,EPSG:32613
+40,31,757695.0,4825515.0,5,3,Stable / mixed / disagreement,EPSG:32613
+40,32,757725.0,4825515.0,5,3,Stable / mixed / disagreement,EPSG:32613
+40,33,757755.0,4825515.0,3,3,Stable / mixed / disagreement,EPSG:32613
+40,34,757785.0,4825515.0,3,3,Stable / mixed / disagreement,EPSG:32613
+40,35,757815.0,4825515.0,5,3,Stable / mixed / disagreement,EPSG:32613
+40,36,757845.0,4825515.0,1,1,Recovery,EPSG:32613
+40,37,757875.0,4825515.0,1,1,Recovery,EPSG:32613
+40,38,757905.0,4825515.0,1,1,Recovery,EPSG:32613
+40,39,757935.0,4825515.0,1,1,Recovery,EPSG:32613
+40,40,757965.0,4825515.0,1,1,Recovery,EPSG:32613
+40,41,757995.0,4825515.0,1,1,Recovery,EPSG:32613
+40,42,758025.0,4825515.0,5,3,Stable / mixed / disagreement,EPSG:32613
+40,43,758055.0,4825515.0,3,3,Stable / mixed / disagreement,EPSG:32613
+40,44,758085.0,4825515.0,1,1,Recovery,EPSG:32613
+40,45,758115.0,4825515.0,1,1,Recovery,EPSG:32613
+40,46,758145.0,4825515.0,1,1,Recovery,EPSG:32613
+40,47,758175.0,4825515.0,4,3,Stable / mixed / disagreement,EPSG:32613
+40,48,758205.0,4825515.0,5,3,Stable / mixed / disagreement,EPSG:32613
+40,49,758235.0,4825515.0,3,3,Stable / mixed / disagreement,EPSG:32613
+40,50,758265.0,4825515.0,5,3,Stable / mixed / disagreement,EPSG:32613
+40,51,758295.0,4825515.0,4,3,Stable / mixed / disagreement,EPSG:32613
+40,52,758325.0,4825515.0,4,3,Stable / mixed / disagreement,EPSG:32613
+40,53,758355.0,4825515.0,4,3,Stable / mixed / disagreement,EPSG:32613
+40,54,758385.0,4825515.0,4,3,Stable / mixed / disagreement,EPSG:32613
+40,55,758415.0,4825515.0,5,3,Stable / mixed / disagreement,EPSG:32613
+40,56,758445.0,4825515.0,5,3,Stable / mixed / disagreement,EPSG:32613
+41,3,756855.0,4825485.0,1,1,Recovery,EPSG:32613
+41,4,756885.0,4825485.0,1,1,Recovery,EPSG:32613
+41,5,756915.0,4825485.0,1,1,Recovery,EPSG:32613
+41,6,756945.0,4825485.0,1,1,Recovery,EPSG:32613
+41,7,756975.0,4825485.0,1,1,Recovery,EPSG:32613
+41,8,757005.0,4825485.0,1,1,Recovery,EPSG:32613
+41,9,757035.0,4825485.0,1,1,Recovery,EPSG:32613
+41,10,757065.0,4825485.0,5,3,Stable / mixed / disagreement,EPSG:32613
+41,11,757095.0,4825485.0,1,1,Recovery,EPSG:32613
+41,12,757125.0,4825485.0,1,1,Recovery,EPSG:32613
+41,13,757155.0,4825485.0,1,1,Recovery,EPSG:32613
+41,14,757185.0,4825485.0,1,1,Recovery,EPSG:32613
+41,15,757215.0,4825485.0,1,1,Recovery,EPSG:32613
+41,16,757245.0,4825485.0,1,1,Recovery,EPSG:32613
+41,17,757275.0,4825485.0,1,1,Recovery,EPSG:32613
+41,18,757305.0,4825485.0,1,1,Recovery,EPSG:32613
+41,19,757335.0,4825485.0,1,1,Recovery,EPSG:32613
+41,20,757365.0,4825485.0,5,3,Stable / mixed / disagreement,EPSG:32613
+41,21,757395.0,4825485.0,5,3,Stable / mixed / disagreement,EPSG:32613
+41,22,757425.0,4825485.0,1,1,Recovery,EPSG:32613
+41,23,757455.0,4825485.0,1,1,Recovery,EPSG:32613
+41,24,757485.0,4825485.0,1,1,Recovery,EPSG:32613
+41,25,757515.0,4825485.0,1,1,Recovery,EPSG:32613
+41,26,757545.0,4825485.0,1,1,Recovery,EPSG:32613
+41,27,757575.0,4825485.0,1,1,Recovery,EPSG:32613
+41,28,757605.0,4825485.0,5,3,Stable / mixed / disagreement,EPSG:32613
+41,29,757635.0,4825485.0,1,1,Recovery,EPSG:32613
+41,30,757665.0,4825485.0,5,3,Stable / mixed / disagreement,EPSG:32613
+41,31,757695.0,4825485.0,5,3,Stable / mixed / disagreement,EPSG:32613
+41,32,757725.0,4825485.0,3,3,Stable / mixed / disagreement,EPSG:32613
+41,33,757755.0,4825485.0,5,3,Stable / mixed / disagreement,EPSG:32613
+41,34,757785.0,4825485.0,4,3,Stable / mixed / disagreement,EPSG:32613
+41,35,757815.0,4825485.0,5,3,Stable / mixed / disagreement,EPSG:32613
+41,36,757845.0,4825485.0,5,3,Stable / mixed / disagreement,EPSG:32613
+41,37,757875.0,4825485.0,1,1,Recovery,EPSG:32613
+41,38,757905.0,4825485.0,1,1,Recovery,EPSG:32613
+41,39,757935.0,4825485.0,1,1,Recovery,EPSG:32613
+41,40,757965.0,4825485.0,1,1,Recovery,EPSG:32613
+41,41,757995.0,4825485.0,5,3,Stable / mixed / disagreement,EPSG:32613
+41,42,758025.0,4825485.0,5,3,Stable / mixed / disagreement,EPSG:32613
+41,43,758055.0,4825485.0,4,3,Stable / mixed / disagreement,EPSG:32613
+41,44,758085.0,4825485.0,1,1,Recovery,EPSG:32613
+41,45,758115.0,4825485.0,1,1,Recovery,EPSG:32613
+41,46,758145.0,4825485.0,1,1,Recovery,EPSG:32613
+41,47,758175.0,4825485.0,5,3,Stable / mixed / disagreement,EPSG:32613
+41,48,758205.0,4825485.0,4,3,Stable / mixed / disagreement,EPSG:32613
+41,49,758235.0,4825485.0,3,3,Stable / mixed / disagreement,EPSG:32613
+41,50,758265.0,4825485.0,4,3,Stable / mixed / disagreement,EPSG:32613
+41,51,758295.0,4825485.0,4,3,Stable / mixed / disagreement,EPSG:32613
+41,52,758325.0,4825485.0,4,3,Stable / mixed / disagreement,EPSG:32613
+41,53,758355.0,4825485.0,4,3,Stable / mixed / disagreement,EPSG:32613
+41,54,758385.0,4825485.0,4,3,Stable / mixed / disagreement,EPSG:32613
+41,55,758415.0,4825485.0,3,3,Stable / mixed / disagreement,EPSG:32613
+41,56,758445.0,4825485.0,5,3,Stable / mixed / disagreement,EPSG:32613
+42,3,756855.0,4825455.0,5,3,Stable / mixed / disagreement,EPSG:32613
+42,4,756885.0,4825455.0,1,1,Recovery,EPSG:32613
+42,5,756915.0,4825455.0,1,1,Recovery,EPSG:32613
+42,6,756945.0,4825455.0,1,1,Recovery,EPSG:32613
+42,7,756975.0,4825455.0,1,1,Recovery,EPSG:32613
+42,8,757005.0,4825455.0,1,1,Recovery,EPSG:32613
+42,9,757035.0,4825455.0,1,1,Recovery,EPSG:32613
+42,10,757065.0,4825455.0,1,1,Recovery,EPSG:32613
+42,11,757095.0,4825455.0,1,1,Recovery,EPSG:32613
+42,12,757125.0,4825455.0,1,1,Recovery,EPSG:32613
+42,13,757155.0,4825455.0,4,3,Stable / mixed / disagreement,EPSG:32613
+42,14,757185.0,4825455.0,1,1,Recovery,EPSG:32613
+42,15,757215.0,4825455.0,1,1,Recovery,EPSG:32613
+42,16,757245.0,4825455.0,1,1,Recovery,EPSG:32613
+42,17,757275.0,4825455.0,1,1,Recovery,EPSG:32613
+42,18,757305.0,4825455.0,1,1,Recovery,EPSG:32613
+42,19,757335.0,4825455.0,1,1,Recovery,EPSG:32613
+42,20,757365.0,4825455.0,1,1,Recovery,EPSG:32613
+42,21,757395.0,4825455.0,4,3,Stable / mixed / disagreement,EPSG:32613
+42,22,757425.0,4825455.0,5,3,Stable / mixed / disagreement,EPSG:32613
+42,23,757455.0,4825455.0,5,3,Stable / mixed / disagreement,EPSG:32613
+42,24,757485.0,4825455.0,1,1,Recovery,EPSG:32613
+42,25,757515.0,4825455.0,1,1,Recovery,EPSG:32613
+42,26,757545.0,4825455.0,5,3,Stable / mixed / disagreement,EPSG:32613
+42,27,757575.0,4825455.0,1,1,Recovery,EPSG:32613
+42,28,757605.0,4825455.0,1,1,Recovery,EPSG:32613
+42,29,757635.0,4825455.0,5,3,Stable / mixed / disagreement,EPSG:32613
+42,30,757665.0,4825455.0,5,3,Stable / mixed / disagreement,EPSG:32613
+42,31,757695.0,4825455.0,4,3,Stable / mixed / disagreement,EPSG:32613
+42,32,757725.0,4825455.0,5,3,Stable / mixed / disagreement,EPSG:32613
+42,33,757755.0,4825455.0,5,3,Stable / mixed / disagreement,EPSG:32613
+42,34,757785.0,4825455.0,4,3,Stable / mixed / disagreement,EPSG:32613
+42,35,757815.0,4825455.0,5,3,Stable / mixed / disagreement,EPSG:32613
+42,36,757845.0,4825455.0,4,3,Stable / mixed / disagreement,EPSG:32613
+42,37,757875.0,4825455.0,1,1,Recovery,EPSG:32613
+42,38,757905.0,4825455.0,5,3,Stable / mixed / disagreement,EPSG:32613
+42,39,757935.0,4825455.0,5,3,Stable / mixed / disagreement,EPSG:32613
+42,40,757965.0,4825455.0,5,3,Stable / mixed / disagreement,EPSG:32613
+42,41,757995.0,4825455.0,3,3,Stable / mixed / disagreement,EPSG:32613
+42,42,758025.0,4825455.0,5,3,Stable / mixed / disagreement,EPSG:32613
+42,43,758055.0,4825455.0,1,1,Recovery,EPSG:32613
+42,44,758085.0,4825455.0,1,1,Recovery,EPSG:32613
+42,45,758115.0,4825455.0,1,1,Recovery,EPSG:32613
+42,46,758145.0,4825455.0,1,1,Recovery,EPSG:32613
+42,47,758175.0,4825455.0,1,1,Recovery,EPSG:32613
+42,48,758205.0,4825455.0,4,3,Stable / mixed / disagreement,EPSG:32613
+42,49,758235.0,4825455.0,5,3,Stable / mixed / disagreement,EPSG:32613
+42,50,758265.0,4825455.0,5,3,Stable / mixed / disagreement,EPSG:32613
+42,51,758295.0,4825455.0,4,3,Stable / mixed / disagreement,EPSG:32613
+42,52,758325.0,4825455.0,4,3,Stable / mixed / disagreement,EPSG:32613
+42,53,758355.0,4825455.0,4,3,Stable / mixed / disagreement,EPSG:32613
+42,54,758385.0,4825455.0,4,3,Stable / mixed / disagreement,EPSG:32613
+42,55,758415.0,4825455.0,5,3,Stable / mixed / disagreement,EPSG:32613
+42,56,758445.0,4825455.0,4,3,Stable / mixed / disagreement,EPSG:32613
+43,3,756855.0,4825425.0,5,3,Stable / mixed / disagreement,EPSG:32613
+43,4,756885.0,4825425.0,1,1,Recovery,EPSG:32613
+43,5,756915.0,4825425.0,1,1,Recovery,EPSG:32613
+43,6,756945.0,4825425.0,1,1,Recovery,EPSG:32613
+43,7,756975.0,4825425.0,1,1,Recovery,EPSG:32613
+43,8,757005.0,4825425.0,1,1,Recovery,EPSG:32613
+43,9,757035.0,4825425.0,1,1,Recovery,EPSG:32613
+43,10,757065.0,4825425.0,1,1,Recovery,EPSG:32613
+43,11,757095.0,4825425.0,1,1,Recovery,EPSG:32613
+43,12,757125.0,4825425.0,1,1,Recovery,EPSG:32613
+43,13,757155.0,4825425.0,5,3,Stable / mixed / disagreement,EPSG:32613
+43,14,757185.0,4825425.0,1,1,Recovery,EPSG:32613
+43,15,757215.0,4825425.0,1,1,Recovery,EPSG:32613
+43,16,757245.0,4825425.0,1,1,Recovery,EPSG:32613
+43,17,757275.0,4825425.0,1,1,Recovery,EPSG:32613
+43,18,757305.0,4825425.0,1,1,Recovery,EPSG:32613
+43,19,757335.0,4825425.0,1,1,Recovery,EPSG:32613
+43,20,757365.0,4825425.0,1,1,Recovery,EPSG:32613
+43,21,757395.0,4825425.0,5,3,Stable / mixed / disagreement,EPSG:32613
+43,22,757425.0,4825425.0,1,1,Recovery,EPSG:32613
+43,23,757455.0,4825425.0,5,3,Stable / mixed / disagreement,EPSG:32613
+43,24,757485.0,4825425.0,5,3,Stable / mixed / disagreement,EPSG:32613
+43,25,757515.0,4825425.0,1,1,Recovery,EPSG:32613
+43,26,757545.0,4825425.0,1,1,Recovery,EPSG:32613
+43,27,757575.0,4825425.0,5,3,Stable / mixed / disagreement,EPSG:32613
+43,28,757605.0,4825425.0,0,1,Recovery,EPSG:32613
+43,29,757635.0,4825425.0,5,3,Stable / mixed / disagreement,EPSG:32613
+43,30,757665.0,4825425.0,3,3,Stable / mixed / disagreement,EPSG:32613
+43,31,757695.0,4825425.0,4,3,Stable / mixed / disagreement,EPSG:32613
+43,32,757725.0,4825425.0,5,3,Stable / mixed / disagreement,EPSG:32613
+43,33,757755.0,4825425.0,4,3,Stable / mixed / disagreement,EPSG:32613
+43,34,757785.0,4825425.0,4,3,Stable / mixed / disagreement,EPSG:32613
+43,35,757815.0,4825425.0,4,3,Stable / mixed / disagreement,EPSG:32613
+43,36,757845.0,4825425.0,5,3,Stable / mixed / disagreement,EPSG:32613
+43,37,757875.0,4825425.0,5,3,Stable / mixed / disagreement,EPSG:32613
+43,38,757905.0,4825425.0,3,3,Stable / mixed / disagreement,EPSG:32613
+43,39,757935.0,4825425.0,4,3,Stable / mixed / disagreement,EPSG:32613
+43,40,757965.0,4825425.0,3,3,Stable / mixed / disagreement,EPSG:32613
+43,41,757995.0,4825425.0,5,3,Stable / mixed / disagreement,EPSG:32613
+43,42,758025.0,4825425.0,5,3,Stable / mixed / disagreement,EPSG:32613
+43,43,758055.0,4825425.0,1,1,Recovery,EPSG:32613
+43,44,758085.0,4825425.0,1,1,Recovery,EPSG:32613
+43,45,758115.0,4825425.0,1,1,Recovery,EPSG:32613
+43,46,758145.0,4825425.0,1,1,Recovery,EPSG:32613
+43,47,758175.0,4825425.0,1,1,Recovery,EPSG:32613
+43,48,758205.0,4825425.0,1,1,Recovery,EPSG:32613
+43,49,758235.0,4825425.0,4,3,Stable / mixed / disagreement,EPSG:32613
+43,50,758265.0,4825425.0,5,3,Stable / mixed / disagreement,EPSG:32613
+43,51,758295.0,4825425.0,4,3,Stable / mixed / disagreement,EPSG:32613
+43,52,758325.0,4825425.0,4,3,Stable / mixed / disagreement,EPSG:32613
+43,53,758355.0,4825425.0,4,3,Stable / mixed / disagreement,EPSG:32613
+43,54,758385.0,4825425.0,4,3,Stable / mixed / disagreement,EPSG:32613
+43,55,758415.0,4825425.0,5,3,Stable / mixed / disagreement,EPSG:32613
+43,56,758445.0,4825425.0,5,3,Stable / mixed / disagreement,EPSG:32613
+44,3,756855.0,4825395.0,1,1,Recovery,EPSG:32613
+44,4,756885.0,4825395.0,1,1,Recovery,EPSG:32613
+44,5,756915.0,4825395.0,1,1,Recovery,EPSG:32613
+44,6,756945.0,4825395.0,1,1,Recovery,EPSG:32613
+44,7,756975.0,4825395.0,1,1,Recovery,EPSG:32613
+44,8,757005.0,4825395.0,1,1,Recovery,EPSG:32613
+44,9,757035.0,4825395.0,1,1,Recovery,EPSG:32613
+44,10,757065.0,4825395.0,1,1,Recovery,EPSG:32613
+44,11,757095.0,4825395.0,1,1,Recovery,EPSG:32613
+44,12,757125.0,4825395.0,1,1,Recovery,EPSG:32613
+44,13,757155.0,4825395.0,1,1,Recovery,EPSG:32613
+44,14,757185.0,4825395.0,1,1,Recovery,EPSG:32613
+44,15,757215.0,4825395.0,1,1,Recovery,EPSG:32613
+44,16,757245.0,4825395.0,1,1,Recovery,EPSG:32613
+44,17,757275.0,4825395.0,1,1,Recovery,EPSG:32613
+44,18,757305.0,4825395.0,1,1,Recovery,EPSG:32613
+44,19,757335.0,4825395.0,1,1,Recovery,EPSG:32613
+44,20,757365.0,4825395.0,1,1,Recovery,EPSG:32613
+44,21,757395.0,4825395.0,5,3,Stable / mixed / disagreement,EPSG:32613
+44,22,757425.0,4825395.0,4,3,Stable / mixed / disagreement,EPSG:32613
+44,23,757455.0,4825395.0,5,3,Stable / mixed / disagreement,EPSG:32613
+44,24,757485.0,4825395.0,5,3,Stable / mixed / disagreement,EPSG:32613
+44,25,757515.0,4825395.0,5,3,Stable / mixed / disagreement,EPSG:32613
+44,26,757545.0,4825395.0,5,3,Stable / mixed / disagreement,EPSG:32613
+44,27,757575.0,4825395.0,5,3,Stable / mixed / disagreement,EPSG:32613
+44,28,757605.0,4825395.0,5,3,Stable / mixed / disagreement,EPSG:32613
+44,29,757635.0,4825395.0,5,3,Stable / mixed / disagreement,EPSG:32613
+44,30,757665.0,4825395.0,3,3,Stable / mixed / disagreement,EPSG:32613
+44,31,757695.0,4825395.0,3,3,Stable / mixed / disagreement,EPSG:32613
+44,32,757725.0,4825395.0,5,3,Stable / mixed / disagreement,EPSG:32613
+44,33,757755.0,4825395.0,5,3,Stable / mixed / disagreement,EPSG:32613
+44,34,757785.0,4825395.0,3,3,Stable / mixed / disagreement,EPSG:32613
+44,35,757815.0,4825395.0,4,3,Stable / mixed / disagreement,EPSG:32613
+44,36,757845.0,4825395.0,4,3,Stable / mixed / disagreement,EPSG:32613
+44,37,757875.0,4825395.0,5,3,Stable / mixed / disagreement,EPSG:32613
+44,38,757905.0,4825395.0,5,3,Stable / mixed / disagreement,EPSG:32613
+44,39,757935.0,4825395.0,0,1,Recovery,EPSG:32613
+44,40,757965.0,4825395.0,5,3,Stable / mixed / disagreement,EPSG:32613
+44,41,757995.0,4825395.0,5,3,Stable / mixed / disagreement,EPSG:32613
+44,42,758025.0,4825395.0,1,1,Recovery,EPSG:32613
+44,43,758055.0,4825395.0,1,1,Recovery,EPSG:32613
+44,44,758085.0,4825395.0,1,1,Recovery,EPSG:32613
+44,45,758115.0,4825395.0,1,1,Recovery,EPSG:32613
+44,46,758145.0,4825395.0,1,1,Recovery,EPSG:32613
+44,47,758175.0,4825395.0,1,1,Recovery,EPSG:32613
+44,48,758205.0,4825395.0,1,1,Recovery,EPSG:32613
+44,49,758235.0,4825395.0,4,3,Stable / mixed / disagreement,EPSG:32613
+44,50,758265.0,4825395.0,4,3,Stable / mixed / disagreement,EPSG:32613
+44,51,758295.0,4825395.0,4,3,Stable / mixed / disagreement,EPSG:32613
+44,52,758325.0,4825395.0,4,3,Stable / mixed / disagreement,EPSG:32613
+44,53,758355.0,4825395.0,4,3,Stable / mixed / disagreement,EPSG:32613
+44,54,758385.0,4825395.0,4,3,Stable / mixed / disagreement,EPSG:32613
+44,55,758415.0,4825395.0,5,3,Stable / mixed / disagreement,EPSG:32613
+44,56,758445.0,4825395.0,5,3,Stable / mixed / disagreement,EPSG:32613
+45,3,756855.0,4825365.0,1,1,Recovery,EPSG:32613
+45,4,756885.0,4825365.0,1,1,Recovery,EPSG:32613
+45,5,756915.0,4825365.0,1,1,Recovery,EPSG:32613
+45,6,756945.0,4825365.0,1,1,Recovery,EPSG:32613
+45,7,756975.0,4825365.0,5,3,Stable / mixed / disagreement,EPSG:32613
+45,8,757005.0,4825365.0,1,1,Recovery,EPSG:32613
+45,9,757035.0,4825365.0,5,3,Stable / mixed / disagreement,EPSG:32613
+45,10,757065.0,4825365.0,1,1,Recovery,EPSG:32613
+45,11,757095.0,4825365.0,1,1,Recovery,EPSG:32613
+45,12,757125.0,4825365.0,1,1,Recovery,EPSG:32613
+45,13,757155.0,4825365.0,1,1,Recovery,EPSG:32613
+45,14,757185.0,4825365.0,1,1,Recovery,EPSG:32613
+45,15,757215.0,4825365.0,1,1,Recovery,EPSG:32613
+45,16,757245.0,4825365.0,1,1,Recovery,EPSG:32613
+45,17,757275.0,4825365.0,1,1,Recovery,EPSG:32613
+45,18,757305.0,4825365.0,1,1,Recovery,EPSG:32613
+45,19,757335.0,4825365.0,1,1,Recovery,EPSG:32613
+45,20,757365.0,4825365.0,1,1,Recovery,EPSG:32613
+45,21,757395.0,4825365.0,1,1,Recovery,EPSG:32613
+45,22,757425.0,4825365.0,1,1,Recovery,EPSG:32613
+45,23,757455.0,4825365.0,5,3,Stable / mixed / disagreement,EPSG:32613
+45,24,757485.0,4825365.0,1,1,Recovery,EPSG:32613
+45,25,757515.0,4825365.0,1,1,Recovery,EPSG:32613
+45,26,757545.0,4825365.0,4,3,Stable / mixed / disagreement,EPSG:32613
+45,27,757575.0,4825365.0,5,3,Stable / mixed / disagreement,EPSG:32613
+45,28,757605.0,4825365.0,1,1,Recovery,EPSG:32613
+45,29,757635.0,4825365.0,5,3,Stable / mixed / disagreement,EPSG:32613
+45,30,757665.0,4825365.0,5,3,Stable / mixed / disagreement,EPSG:32613
+45,31,757695.0,4825365.0,5,3,Stable / mixed / disagreement,EPSG:32613
+45,32,757725.0,4825365.0,5,3,Stable / mixed / disagreement,EPSG:32613
+45,33,757755.0,4825365.0,5,3,Stable / mixed / disagreement,EPSG:32613
+45,34,757785.0,4825365.0,5,3,Stable / mixed / disagreement,EPSG:32613
+45,35,757815.0,4825365.0,4,3,Stable / mixed / disagreement,EPSG:32613
+45,36,757845.0,4825365.0,5,3,Stable / mixed / disagreement,EPSG:32613
+45,37,757875.0,4825365.0,5,3,Stable / mixed / disagreement,EPSG:32613
+45,38,757905.0,4825365.0,0,1,Recovery,EPSG:32613
+45,39,757935.0,4825365.0,1,1,Recovery,EPSG:32613
+45,40,757965.0,4825365.0,1,1,Recovery,EPSG:32613
+45,41,757995.0,4825365.0,1,1,Recovery,EPSG:32613
+45,42,758025.0,4825365.0,1,1,Recovery,EPSG:32613
+45,43,758055.0,4825365.0,1,1,Recovery,EPSG:32613
+45,44,758085.0,4825365.0,1,1,Recovery,EPSG:32613
+45,45,758115.0,4825365.0,1,1,Recovery,EPSG:32613
+45,46,758145.0,4825365.0,1,1,Recovery,EPSG:32613
+45,47,758175.0,4825365.0,1,1,Recovery,EPSG:32613
+45,48,758205.0,4825365.0,1,1,Recovery,EPSG:32613
+45,49,758235.0,4825365.0,1,1,Recovery,EPSG:32613
+45,50,758265.0,4825365.0,1,1,Recovery,EPSG:32613
+45,51,758295.0,4825365.0,1,1,Recovery,EPSG:32613
+45,52,758325.0,4825365.0,4,3,Stable / mixed / disagreement,EPSG:32613
+45,53,758355.0,4825365.0,5,3,Stable / mixed / disagreement,EPSG:32613
+45,54,758385.0,4825365.0,5,3,Stable / mixed / disagreement,EPSG:32613
+45,55,758415.0,4825365.0,4,3,Stable / mixed / disagreement,EPSG:32613
+45,56,758445.0,4825365.0,4,3,Stable / mixed / disagreement,EPSG:32613
+46,3,756855.0,4825335.0,1,1,Recovery,EPSG:32613
+46,4,756885.0,4825335.0,1,1,Recovery,EPSG:32613
+46,5,756915.0,4825335.0,1,1,Recovery,EPSG:32613
+46,6,756945.0,4825335.0,1,1,Recovery,EPSG:32613
+46,7,756975.0,4825335.0,1,1,Recovery,EPSG:32613
+46,8,757005.0,4825335.0,1,1,Recovery,EPSG:32613
+46,9,757035.0,4825335.0,1,1,Recovery,EPSG:32613
+46,10,757065.0,4825335.0,1,1,Recovery,EPSG:32613
+46,11,757095.0,4825335.0,1,1,Recovery,EPSG:32613
+46,12,757125.0,4825335.0,1,1,Recovery,EPSG:32613
+46,13,757155.0,4825335.0,1,1,Recovery,EPSG:32613
+46,14,757185.0,4825335.0,5,3,Stable / mixed / disagreement,EPSG:32613
+46,15,757215.0,4825335.0,1,1,Recovery,EPSG:32613
+46,16,757245.0,4825335.0,1,1,Recovery,EPSG:32613
+46,17,757275.0,4825335.0,1,1,Recovery,EPSG:32613
+46,18,757305.0,4825335.0,1,1,Recovery,EPSG:32613
+46,19,757335.0,4825335.0,1,1,Recovery,EPSG:32613
+46,20,757365.0,4825335.0,1,1,Recovery,EPSG:32613
+46,21,757395.0,4825335.0,1,1,Recovery,EPSG:32613
+46,22,757425.0,4825335.0,5,3,Stable / mixed / disagreement,EPSG:32613
+46,23,757455.0,4825335.0,1,1,Recovery,EPSG:32613
+46,24,757485.0,4825335.0,5,3,Stable / mixed / disagreement,EPSG:32613
+46,25,757515.0,4825335.0,1,1,Recovery,EPSG:32613
+46,26,757545.0,4825335.0,5,3,Stable / mixed / disagreement,EPSG:32613
+46,27,757575.0,4825335.0,5,3,Stable / mixed / disagreement,EPSG:32613
+46,28,757605.0,4825335.0,5,3,Stable / mixed / disagreement,EPSG:32613
+46,29,757635.0,4825335.0,1,1,Recovery,EPSG:32613
+46,30,757665.0,4825335.0,1,1,Recovery,EPSG:32613
+46,31,757695.0,4825335.0,5,3,Stable / mixed / disagreement,EPSG:32613
+46,32,757725.0,4825335.0,5,3,Stable / mixed / disagreement,EPSG:32613
+46,33,757755.0,4825335.0,4,3,Stable / mixed / disagreement,EPSG:32613
+46,34,757785.0,4825335.0,5,3,Stable / mixed / disagreement,EPSG:32613
+46,35,757815.0,4825335.0,1,1,Recovery,EPSG:32613
+46,36,757845.0,4825335.0,1,1,Recovery,EPSG:32613
+46,37,757875.0,4825335.0,1,1,Recovery,EPSG:32613
+46,38,757905.0,4825335.0,0,1,Recovery,EPSG:32613
+46,39,757935.0,4825335.0,1,1,Recovery,EPSG:32613
+46,40,757965.0,4825335.0,1,1,Recovery,EPSG:32613
+46,41,757995.0,4825335.0,1,1,Recovery,EPSG:32613
+46,42,758025.0,4825335.0,1,1,Recovery,EPSG:32613
+46,43,758055.0,4825335.0,1,1,Recovery,EPSG:32613
+46,44,758085.0,4825335.0,1,1,Recovery,EPSG:32613
+46,45,758115.0,4825335.0,1,1,Recovery,EPSG:32613
+46,46,758145.0,4825335.0,1,1,Recovery,EPSG:32613
+46,47,758175.0,4825335.0,1,1,Recovery,EPSG:32613
+46,48,758205.0,4825335.0,1,1,Recovery,EPSG:32613
+46,49,758235.0,4825335.0,1,1,Recovery,EPSG:32613
+46,50,758265.0,4825335.0,1,1,Recovery,EPSG:32613
+46,51,758295.0,4825335.0,1,1,Recovery,EPSG:32613
+46,52,758325.0,4825335.0,1,1,Recovery,EPSG:32613
+46,53,758355.0,4825335.0,5,3,Stable / mixed / disagreement,EPSG:32613
+46,54,758385.0,4825335.0,4,3,Stable / mixed / disagreement,EPSG:32613
+46,55,758415.0,4825335.0,5,3,Stable / mixed / disagreement,EPSG:32613
+46,56,758445.0,4825335.0,5,3,Stable / mixed / disagreement,EPSG:32613
+47,3,756855.0,4825305.0,1,1,Recovery,EPSG:32613
+47,4,756885.0,4825305.0,1,1,Recovery,EPSG:32613
+47,5,756915.0,4825305.0,1,1,Recovery,EPSG:32613
+47,6,756945.0,4825305.0,1,1,Recovery,EPSG:32613
+47,7,756975.0,4825305.0,1,1,Recovery,EPSG:32613
+47,8,757005.0,4825305.0,1,1,Recovery,EPSG:32613
+47,9,757035.0,4825305.0,1,1,Recovery,EPSG:32613
+47,10,757065.0,4825305.0,5,3,Stable / mixed / disagreement,EPSG:32613
+47,11,757095.0,4825305.0,5,3,Stable / mixed / disagreement,EPSG:32613
+47,12,757125.0,4825305.0,1,1,Recovery,EPSG:32613
+47,13,757155.0,4825305.0,1,1,Recovery,EPSG:32613
+47,14,757185.0,4825305.0,5,3,Stable / mixed / disagreement,EPSG:32613
+47,15,757215.0,4825305.0,1,1,Recovery,EPSG:32613
+47,16,757245.0,4825305.0,1,1,Recovery,EPSG:32613
+47,17,757275.0,4825305.0,1,1,Recovery,EPSG:32613
+47,18,757305.0,4825305.0,1,1,Recovery,EPSG:32613
+47,19,757335.0,4825305.0,1,1,Recovery,EPSG:32613
+47,20,757365.0,4825305.0,1,1,Recovery,EPSG:32613
+47,21,757395.0,4825305.0,1,1,Recovery,EPSG:32613
+47,22,757425.0,4825305.0,5,3,Stable / mixed / disagreement,EPSG:32613
+47,23,757455.0,4825305.0,5,3,Stable / mixed / disagreement,EPSG:32613
+47,24,757485.0,4825305.0,5,3,Stable / mixed / disagreement,EPSG:32613
+47,25,757515.0,4825305.0,5,3,Stable / mixed / disagreement,EPSG:32613
+47,26,757545.0,4825305.0,5,3,Stable / mixed / disagreement,EPSG:32613
+47,27,757575.0,4825305.0,5,3,Stable / mixed / disagreement,EPSG:32613
+47,28,757605.0,4825305.0,1,1,Recovery,EPSG:32613
+47,29,757635.0,4825305.0,1,1,Recovery,EPSG:32613
+47,30,757665.0,4825305.0,1,1,Recovery,EPSG:32613
+47,31,757695.0,4825305.0,1,1,Recovery,EPSG:32613
+47,32,757725.0,4825305.0,4,3,Stable / mixed / disagreement,EPSG:32613
+47,33,757755.0,4825305.0,4,3,Stable / mixed / disagreement,EPSG:32613
+47,34,757785.0,4825305.0,5,3,Stable / mixed / disagreement,EPSG:32613
+47,35,757815.0,4825305.0,1,1,Recovery,EPSG:32613
+47,36,757845.0,4825305.0,1,1,Recovery,EPSG:32613
+47,37,757875.0,4825305.0,1,1,Recovery,EPSG:32613
+47,38,757905.0,4825305.0,5,3,Stable / mixed / disagreement,EPSG:32613
+47,39,757935.0,4825305.0,1,1,Recovery,EPSG:32613
+47,40,757965.0,4825305.0,1,1,Recovery,EPSG:32613
+47,41,757995.0,4825305.0,1,1,Recovery,EPSG:32613
+47,42,758025.0,4825305.0,1,1,Recovery,EPSG:32613
+47,43,758055.0,4825305.0,1,1,Recovery,EPSG:32613
+47,44,758085.0,4825305.0,1,1,Recovery,EPSG:32613
+47,45,758115.0,4825305.0,1,1,Recovery,EPSG:32613
+47,46,758145.0,4825305.0,1,1,Recovery,EPSG:32613
+47,47,758175.0,4825305.0,1,1,Recovery,EPSG:32613
+47,48,758205.0,4825305.0,1,1,Recovery,EPSG:32613
+47,49,758235.0,4825305.0,1,1,Recovery,EPSG:32613
+47,50,758265.0,4825305.0,1,1,Recovery,EPSG:32613
+47,51,758295.0,4825305.0,1,1,Recovery,EPSG:32613
+47,52,758325.0,4825305.0,1,1,Recovery,EPSG:32613
+47,53,758355.0,4825305.0,1,1,Recovery,EPSG:32613
+47,54,758385.0,4825305.0,1,1,Recovery,EPSG:32613
+47,55,758415.0,4825305.0,4,3,Stable / mixed / disagreement,EPSG:32613
+47,56,758445.0,4825305.0,4,3,Stable / mixed / disagreement,EPSG:32613
+48,3,756855.0,4825275.0,1,1,Recovery,EPSG:32613
+48,4,756885.0,4825275.0,1,1,Recovery,EPSG:32613
+48,5,756915.0,4825275.0,1,1,Recovery,EPSG:32613
+48,6,756945.0,4825275.0,1,1,Recovery,EPSG:32613
+48,7,756975.0,4825275.0,1,1,Recovery,EPSG:32613
+48,8,757005.0,4825275.0,1,1,Recovery,EPSG:32613
+48,9,757035.0,4825275.0,1,1,Recovery,EPSG:32613
+48,10,757065.0,4825275.0,1,1,Recovery,EPSG:32613
+48,11,757095.0,4825275.0,1,1,Recovery,EPSG:32613
+48,12,757125.0,4825275.0,1,1,Recovery,EPSG:32613
+48,13,757155.0,4825275.0,1,1,Recovery,EPSG:32613
+48,14,757185.0,4825275.0,5,3,Stable / mixed / disagreement,EPSG:32613
+48,15,757215.0,4825275.0,5,3,Stable / mixed / disagreement,EPSG:32613
+48,16,757245.0,4825275.0,1,1,Recovery,EPSG:32613
+48,17,757275.0,4825275.0,1,1,Recovery,EPSG:32613
+48,18,757305.0,4825275.0,1,1,Recovery,EPSG:32613
+48,19,757335.0,4825275.0,1,1,Recovery,EPSG:32613
+48,20,757365.0,4825275.0,1,1,Recovery,EPSG:32613
+48,21,757395.0,4825275.0,1,1,Recovery,EPSG:32613
+48,22,757425.0,4825275.0,1,1,Recovery,EPSG:32613
+48,23,757455.0,4825275.0,1,1,Recovery,EPSG:32613
+48,24,757485.0,4825275.0,5,3,Stable / mixed / disagreement,EPSG:32613
+48,25,757515.0,4825275.0,5,3,Stable / mixed / disagreement,EPSG:32613
+48,26,757545.0,4825275.0,4,3,Stable / mixed / disagreement,EPSG:32613
+48,27,757575.0,4825275.0,1,1,Recovery,EPSG:32613
+48,28,757605.0,4825275.0,1,1,Recovery,EPSG:32613
+48,29,757635.0,4825275.0,1,1,Recovery,EPSG:32613
+48,30,757665.0,4825275.0,1,1,Recovery,EPSG:32613
+48,31,757695.0,4825275.0,4,3,Stable / mixed / disagreement,EPSG:32613
+48,32,757725.0,4825275.0,4,3,Stable / mixed / disagreement,EPSG:32613
+48,33,757755.0,4825275.0,4,3,Stable / mixed / disagreement,EPSG:32613
+48,34,757785.0,4825275.0,1,1,Recovery,EPSG:32613
+48,35,757815.0,4825275.0,1,1,Recovery,EPSG:32613
+48,36,757845.0,4825275.0,5,3,Stable / mixed / disagreement,EPSG:32613
+48,37,757875.0,4825275.0,1,1,Recovery,EPSG:32613
+48,38,757905.0,4825275.0,1,1,Recovery,EPSG:32613
+48,39,757935.0,4825275.0,1,1,Recovery,EPSG:32613
+48,40,757965.0,4825275.0,1,1,Recovery,EPSG:32613
+48,41,757995.0,4825275.0,1,1,Recovery,EPSG:32613
+48,42,758025.0,4825275.0,1,1,Recovery,EPSG:32613
+48,43,758055.0,4825275.0,1,1,Recovery,EPSG:32613
+48,44,758085.0,4825275.0,1,1,Recovery,EPSG:32613
+48,45,758115.0,4825275.0,1,1,Recovery,EPSG:32613
+48,46,758145.0,4825275.0,1,1,Recovery,EPSG:32613
+48,47,758175.0,4825275.0,1,1,Recovery,EPSG:32613
+48,48,758205.0,4825275.0,1,1,Recovery,EPSG:32613
+48,49,758235.0,4825275.0,1,1,Recovery,EPSG:32613
+48,50,758265.0,4825275.0,1,1,Recovery,EPSG:32613
+48,51,758295.0,4825275.0,1,1,Recovery,EPSG:32613
+48,52,758325.0,4825275.0,1,1,Recovery,EPSG:32613
+48,53,758355.0,4825275.0,1,1,Recovery,EPSG:32613
+48,54,758385.0,4825275.0,1,1,Recovery,EPSG:32613
+48,55,758415.0,4825275.0,4,3,Stable / mixed / disagreement,EPSG:32613
+48,56,758445.0,4825275.0,4,3,Stable / mixed / disagreement,EPSG:32613
+49,3,756855.0,4825245.0,1,1,Recovery,EPSG:32613
+49,4,756885.0,4825245.0,1,1,Recovery,EPSG:32613
+49,5,756915.0,4825245.0,1,1,Recovery,EPSG:32613
+49,6,756945.0,4825245.0,1,1,Recovery,EPSG:32613
+49,7,756975.0,4825245.0,1,1,Recovery,EPSG:32613
+49,8,757005.0,4825245.0,1,1,Recovery,EPSG:32613
+49,9,757035.0,4825245.0,1,1,Recovery,EPSG:32613
+49,10,757065.0,4825245.0,1,1,Recovery,EPSG:32613
+49,11,757095.0,4825245.0,1,1,Recovery,EPSG:32613
+49,12,757125.0,4825245.0,1,1,Recovery,EPSG:32613
+49,13,757155.0,4825245.0,5,3,Stable / mixed / disagreement,EPSG:32613
+49,14,757185.0,4825245.0,1,1,Recovery,EPSG:32613
+49,15,757215.0,4825245.0,1,1,Recovery,EPSG:32613
+49,16,757245.0,4825245.0,1,1,Recovery,EPSG:32613
+49,17,757275.0,4825245.0,1,1,Recovery,EPSG:32613
+49,18,757305.0,4825245.0,1,1,Recovery,EPSG:32613
+49,19,757335.0,4825245.0,1,1,Recovery,EPSG:32613
+49,20,757365.0,4825245.0,4,3,Stable / mixed / disagreement,EPSG:32613
+49,21,757395.0,4825245.0,1,1,Recovery,EPSG:32613
+49,22,757425.0,4825245.0,1,1,Recovery,EPSG:32613
+49,23,757455.0,4825245.0,1,1,Recovery,EPSG:32613
+49,24,757485.0,4825245.0,1,1,Recovery,EPSG:32613
+49,25,757515.0,4825245.0,1,1,Recovery,EPSG:32613
+49,26,757545.0,4825245.0,1,1,Recovery,EPSG:32613
+49,27,757575.0,4825245.0,1,1,Recovery,EPSG:32613
+49,28,757605.0,4825245.0,5,3,Stable / mixed / disagreement,EPSG:32613
+49,29,757635.0,4825245.0,5,3,Stable / mixed / disagreement,EPSG:32613
+49,30,757665.0,4825245.0,5,3,Stable / mixed / disagreement,EPSG:32613
+49,31,757695.0,4825245.0,4,3,Stable / mixed / disagreement,EPSG:32613
+49,32,757725.0,4825245.0,5,3,Stable / mixed / disagreement,EPSG:32613
+49,33,757755.0,4825245.0,4,3,Stable / mixed / disagreement,EPSG:32613
+49,34,757785.0,4825245.0,5,3,Stable / mixed / disagreement,EPSG:32613
+49,35,757815.0,4825245.0,1,1,Recovery,EPSG:32613
+49,36,757845.0,4825245.0,4,3,Stable / mixed / disagreement,EPSG:32613
+49,37,757875.0,4825245.0,1,1,Recovery,EPSG:32613
+49,38,757905.0,4825245.0,1,1,Recovery,EPSG:32613
+49,39,757935.0,4825245.0,1,1,Recovery,EPSG:32613
+49,40,757965.0,4825245.0,1,1,Recovery,EPSG:32613
+49,41,757995.0,4825245.0,1,1,Recovery,EPSG:32613
+49,42,758025.0,4825245.0,1,1,Recovery,EPSG:32613
+49,43,758055.0,4825245.0,1,1,Recovery,EPSG:32613
+49,44,758085.0,4825245.0,1,1,Recovery,EPSG:32613
+49,45,758115.0,4825245.0,1,1,Recovery,EPSG:32613
+49,46,758145.0,4825245.0,1,1,Recovery,EPSG:32613
+49,47,758175.0,4825245.0,1,1,Recovery,EPSG:32613
+49,48,758205.0,4825245.0,1,1,Recovery,EPSG:32613
+49,49,758235.0,4825245.0,1,1,Recovery,EPSG:32613
+49,50,758265.0,4825245.0,1,1,Recovery,EPSG:32613
+49,51,758295.0,4825245.0,1,1,Recovery,EPSG:32613
+49,52,758325.0,4825245.0,5,3,Stable / mixed / disagreement,EPSG:32613
+49,53,758355.0,4825245.0,5,3,Stable / mixed / disagreement,EPSG:32613
+49,54,758385.0,4825245.0,4,3,Stable / mixed / disagreement,EPSG:32613
+49,55,758415.0,4825245.0,4,3,Stable / mixed / disagreement,EPSG:32613
+49,56,758445.0,4825245.0,1,1,Recovery,EPSG:32613
+50,3,756855.0,4825215.0,1,1,Recovery,EPSG:32613
+50,4,756885.0,4825215.0,1,1,Recovery,EPSG:32613
+50,5,756915.0,4825215.0,1,1,Recovery,EPSG:32613
+50,6,756945.0,4825215.0,1,1,Recovery,EPSG:32613
+50,7,756975.0,4825215.0,1,1,Recovery,EPSG:32613
+50,8,757005.0,4825215.0,5,3,Stable / mixed / disagreement,EPSG:32613
+50,9,757035.0,4825215.0,1,1,Recovery,EPSG:32613
+50,10,757065.0,4825215.0,5,3,Stable / mixed / disagreement,EPSG:32613
+50,11,757095.0,4825215.0,1,1,Recovery,EPSG:32613
+50,12,757125.0,4825215.0,1,1,Recovery,EPSG:32613
+50,13,757155.0,4825215.0,5,3,Stable / mixed / disagreement,EPSG:32613
+50,14,757185.0,4825215.0,1,1,Recovery,EPSG:32613
+50,15,757215.0,4825215.0,1,1,Recovery,EPSG:32613
+50,16,757245.0,4825215.0,1,1,Recovery,EPSG:32613
+50,17,757275.0,4825215.0,1,1,Recovery,EPSG:32613
+50,18,757305.0,4825215.0,1,1,Recovery,EPSG:32613
+50,19,757335.0,4825215.0,4,3,Stable / mixed / disagreement,EPSG:32613
+50,20,757365.0,4825215.0,5,3,Stable / mixed / disagreement,EPSG:32613
+50,21,757395.0,4825215.0,1,1,Recovery,EPSG:32613
+50,22,757425.0,4825215.0,1,1,Recovery,EPSG:32613
+50,23,757455.0,4825215.0,5,3,Stable / mixed / disagreement,EPSG:32613
+50,24,757485.0,4825215.0,4,3,Stable / mixed / disagreement,EPSG:32613
+50,25,757515.0,4825215.0,1,1,Recovery,EPSG:32613
+50,26,757545.0,4825215.0,1,1,Recovery,EPSG:32613
+50,27,757575.0,4825215.0,1,1,Recovery,EPSG:32613
+50,28,757605.0,4825215.0,1,1,Recovery,EPSG:32613
+50,29,757635.0,4825215.0,5,3,Stable / mixed / disagreement,EPSG:32613
+50,30,757665.0,4825215.0,4,3,Stable / mixed / disagreement,EPSG:32613
+50,31,757695.0,4825215.0,1,1,Recovery,EPSG:32613
+50,32,757725.0,4825215.0,4,3,Stable / mixed / disagreement,EPSG:32613
+50,33,757755.0,4825215.0,4,3,Stable / mixed / disagreement,EPSG:32613
+50,34,757785.0,4825215.0,4,3,Stable / mixed / disagreement,EPSG:32613
+50,35,757815.0,4825215.0,1,1,Recovery,EPSG:32613
+50,36,757845.0,4825215.0,1,1,Recovery,EPSG:32613
+50,37,757875.0,4825215.0,5,3,Stable / mixed / disagreement,EPSG:32613
+50,38,757905.0,4825215.0,1,1,Recovery,EPSG:32613
+50,39,757935.0,4825215.0,1,1,Recovery,EPSG:32613
+50,40,757965.0,4825215.0,1,1,Recovery,EPSG:32613
+50,41,757995.0,4825215.0,1,1,Recovery,EPSG:32613
+50,42,758025.0,4825215.0,1,1,Recovery,EPSG:32613
+50,43,758055.0,4825215.0,1,1,Recovery,EPSG:32613
+50,44,758085.0,4825215.0,1,1,Recovery,EPSG:32613
+50,45,758115.0,4825215.0,1,1,Recovery,EPSG:32613
+50,46,758145.0,4825215.0,1,1,Recovery,EPSG:32613
+50,47,758175.0,4825215.0,1,1,Recovery,EPSG:32613
+50,48,758205.0,4825215.0,1,1,Recovery,EPSG:32613
+50,49,758235.0,4825215.0,1,1,Recovery,EPSG:32613
+50,50,758265.0,4825215.0,1,1,Recovery,EPSG:32613
+50,51,758295.0,4825215.0,5,3,Stable / mixed / disagreement,EPSG:32613
+50,52,758325.0,4825215.0,4,3,Stable / mixed / disagreement,EPSG:32613
+50,53,758355.0,4825215.0,4,3,Stable / mixed / disagreement,EPSG:32613
+50,54,758385.0,4825215.0,1,1,Recovery,EPSG:32613
+50,55,758415.0,4825215.0,1,1,Recovery,EPSG:32613
+50,56,758445.0,4825215.0,1,1,Recovery,EPSG:32613
+51,3,756855.0,4825185.0,1,1,Recovery,EPSG:32613
+51,4,756885.0,4825185.0,1,1,Recovery,EPSG:32613
+51,5,756915.0,4825185.0,1,1,Recovery,EPSG:32613
+51,6,756945.0,4825185.0,1,1,Recovery,EPSG:32613
+51,7,756975.0,4825185.0,1,1,Recovery,EPSG:32613
+51,8,757005.0,4825185.0,1,1,Recovery,EPSG:32613
+51,9,757035.0,4825185.0,1,1,Recovery,EPSG:32613
+51,10,757065.0,4825185.0,5,3,Stable / mixed / disagreement,EPSG:32613
+51,11,757095.0,4825185.0,4,3,Stable / mixed / disagreement,EPSG:32613
+51,12,757125.0,4825185.0,1,1,Recovery,EPSG:32613
+51,13,757155.0,4825185.0,1,1,Recovery,EPSG:32613
+51,14,757185.0,4825185.0,1,1,Recovery,EPSG:32613
+51,15,757215.0,4825185.0,5,3,Stable / mixed / disagreement,EPSG:32613
+51,16,757245.0,4825185.0,5,3,Stable / mixed / disagreement,EPSG:32613
+51,17,757275.0,4825185.0,5,3,Stable / mixed / disagreement,EPSG:32613
+51,18,757305.0,4825185.0,1,1,Recovery,EPSG:32613
+51,19,757335.0,4825185.0,5,3,Stable / mixed / disagreement,EPSG:32613
+51,20,757365.0,4825185.0,1,1,Recovery,EPSG:32613
+51,21,757395.0,4825185.0,1,1,Recovery,EPSG:32613
+51,22,757425.0,4825185.0,1,1,Recovery,EPSG:32613
+51,23,757455.0,4825185.0,1,1,Recovery,EPSG:32613
+51,24,757485.0,4825185.0,4,3,Stable / mixed / disagreement,EPSG:32613
+51,25,757515.0,4825185.0,4,3,Stable / mixed / disagreement,EPSG:32613
+51,26,757545.0,4825185.0,4,3,Stable / mixed / disagreement,EPSG:32613
+51,27,757575.0,4825185.0,5,3,Stable / mixed / disagreement,EPSG:32613
+51,28,757605.0,4825185.0,5,3,Stable / mixed / disagreement,EPSG:32613
+51,29,757635.0,4825185.0,4,3,Stable / mixed / disagreement,EPSG:32613
+51,30,757665.0,4825185.0,5,3,Stable / mixed / disagreement,EPSG:32613
+51,31,757695.0,4825185.0,1,1,Recovery,EPSG:32613
+51,32,757725.0,4825185.0,4,3,Stable / mixed / disagreement,EPSG:32613
+51,33,757755.0,4825185.0,4,3,Stable / mixed / disagreement,EPSG:32613
+51,34,757785.0,4825185.0,4,3,Stable / mixed / disagreement,EPSG:32613
+51,35,757815.0,4825185.0,1,1,Recovery,EPSG:32613
+51,36,757845.0,4825185.0,1,1,Recovery,EPSG:32613
+51,37,757875.0,4825185.0,1,1,Recovery,EPSG:32613
+51,38,757905.0,4825185.0,1,1,Recovery,EPSG:32613
+51,39,757935.0,4825185.0,1,1,Recovery,EPSG:32613
+51,40,757965.0,4825185.0,1,1,Recovery,EPSG:32613
+51,41,757995.0,4825185.0,1,1,Recovery,EPSG:32613
+51,42,758025.0,4825185.0,1,1,Recovery,EPSG:32613
+51,43,758055.0,4825185.0,1,1,Recovery,EPSG:32613
+51,44,758085.0,4825185.0,1,1,Recovery,EPSG:32613
+51,45,758115.0,4825185.0,1,1,Recovery,EPSG:32613
+51,46,758145.0,4825185.0,1,1,Recovery,EPSG:32613
+51,47,758175.0,4825185.0,1,1,Recovery,EPSG:32613
+51,48,758205.0,4825185.0,5,3,Stable / mixed / disagreement,EPSG:32613
+51,49,758235.0,4825185.0,1,1,Recovery,EPSG:32613
+51,50,758265.0,4825185.0,1,1,Recovery,EPSG:32613
+51,51,758295.0,4825185.0,5,3,Stable / mixed / disagreement,EPSG:32613
+51,52,758325.0,4825185.0,5,3,Stable / mixed / disagreement,EPSG:32613
+51,53,758355.0,4825185.0,5,3,Stable / mixed / disagreement,EPSG:32613
+51,54,758385.0,4825185.0,1,1,Recovery,EPSG:32613
+51,55,758415.0,4825185.0,1,1,Recovery,EPSG:32613
+51,56,758445.0,4825185.0,1,1,Recovery,EPSG:32613
+52,3,756855.0,4825155.0,1,1,Recovery,EPSG:32613
+52,4,756885.0,4825155.0,1,1,Recovery,EPSG:32613
+52,5,756915.0,4825155.0,1,1,Recovery,EPSG:32613
+52,6,756945.0,4825155.0,1,1,Recovery,EPSG:32613
+52,7,756975.0,4825155.0,1,1,Recovery,EPSG:32613
+52,8,757005.0,4825155.0,1,1,Recovery,EPSG:32613
+52,9,757035.0,4825155.0,1,1,Recovery,EPSG:32613
+52,10,757065.0,4825155.0,5,3,Stable / mixed / disagreement,EPSG:32613
+52,11,757095.0,4825155.0,4,3,Stable / mixed / disagreement,EPSG:32613
+52,12,757125.0,4825155.0,4,3,Stable / mixed / disagreement,EPSG:32613
+52,13,757155.0,4825155.0,1,1,Recovery,EPSG:32613
+52,14,757185.0,4825155.0,1,1,Recovery,EPSG:32613
+52,15,757215.0,4825155.0,4,3,Stable / mixed / disagreement,EPSG:32613
+52,16,757245.0,4825155.0,5,3,Stable / mixed / disagreement,EPSG:32613
+52,17,757275.0,4825155.0,4,3,Stable / mixed / disagreement,EPSG:32613
+52,18,757305.0,4825155.0,1,1,Recovery,EPSG:32613
+52,19,757335.0,4825155.0,5,3,Stable / mixed / disagreement,EPSG:32613
+52,20,757365.0,4825155.0,1,1,Recovery,EPSG:32613
+52,21,757395.0,4825155.0,1,1,Recovery,EPSG:32613
+52,22,757425.0,4825155.0,1,1,Recovery,EPSG:32613
+52,23,757455.0,4825155.0,1,1,Recovery,EPSG:32613
+52,24,757485.0,4825155.0,4,3,Stable / mixed / disagreement,EPSG:32613
+52,25,757515.0,4825155.0,4,3,Stable / mixed / disagreement,EPSG:32613
+52,26,757545.0,4825155.0,4,3,Stable / mixed / disagreement,EPSG:32613
+52,27,757575.0,4825155.0,4,3,Stable / mixed / disagreement,EPSG:32613
+52,28,757605.0,4825155.0,4,3,Stable / mixed / disagreement,EPSG:32613
+52,29,757635.0,4825155.0,4,3,Stable / mixed / disagreement,EPSG:32613
+52,30,757665.0,4825155.0,5,3,Stable / mixed / disagreement,EPSG:32613
+52,31,757695.0,4825155.0,1,1,Recovery,EPSG:32613
+52,32,757725.0,4825155.0,5,3,Stable / mixed / disagreement,EPSG:32613
+52,33,757755.0,4825155.0,4,3,Stable / mixed / disagreement,EPSG:32613
+52,34,757785.0,4825155.0,4,3,Stable / mixed / disagreement,EPSG:32613
+52,35,757815.0,4825155.0,4,3,Stable / mixed / disagreement,EPSG:32613
+52,36,757845.0,4825155.0,5,3,Stable / mixed / disagreement,EPSG:32613
+52,37,757875.0,4825155.0,5,3,Stable / mixed / disagreement,EPSG:32613
+52,38,757905.0,4825155.0,5,3,Stable / mixed / disagreement,EPSG:32613
+52,39,757935.0,4825155.0,1,1,Recovery,EPSG:32613
+52,40,757965.0,4825155.0,1,1,Recovery,EPSG:32613
+52,41,757995.0,4825155.0,1,1,Recovery,EPSG:32613
+52,42,758025.0,4825155.0,1,1,Recovery,EPSG:32613
+52,43,758055.0,4825155.0,1,1,Recovery,EPSG:32613
+52,44,758085.0,4825155.0,1,1,Recovery,EPSG:32613
+52,45,758115.0,4825155.0,1,1,Recovery,EPSG:32613
+52,46,758145.0,4825155.0,5,3,Stable / mixed / disagreement,EPSG:32613
+52,47,758175.0,4825155.0,5,3,Stable / mixed / disagreement,EPSG:32613
+52,48,758205.0,4825155.0,5,3,Stable / mixed / disagreement,EPSG:32613
+52,49,758235.0,4825155.0,5,3,Stable / mixed / disagreement,EPSG:32613
+52,50,758265.0,4825155.0,5,3,Stable / mixed / disagreement,EPSG:32613
+52,51,758295.0,4825155.0,5,3,Stable / mixed / disagreement,EPSG:32613
+52,52,758325.0,4825155.0,5,3,Stable / mixed / disagreement,EPSG:32613
+52,53,758355.0,4825155.0,4,3,Stable / mixed / disagreement,EPSG:32613
+52,54,758385.0,4825155.0,4,3,Stable / mixed / disagreement,EPSG:32613
+52,55,758415.0,4825155.0,4,3,Stable / mixed / disagreement,EPSG:32613
+52,56,758445.0,4825155.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,3,756855.0,4825125.0,1,1,Recovery,EPSG:32613
+53,4,756885.0,4825125.0,1,1,Recovery,EPSG:32613
+53,5,756915.0,4825125.0,1,1,Recovery,EPSG:32613
+53,6,756945.0,4825125.0,1,1,Recovery,EPSG:32613
+53,7,756975.0,4825125.0,1,1,Recovery,EPSG:32613
+53,8,757005.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,9,757035.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,10,757065.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,11,757095.0,4825125.0,4,3,Stable / mixed / disagreement,EPSG:32613
+53,12,757125.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,13,757155.0,4825125.0,1,1,Recovery,EPSG:32613
+53,14,757185.0,4825125.0,1,1,Recovery,EPSG:32613
+53,15,757215.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,16,757245.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,17,757275.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,18,757305.0,4825125.0,1,1,Recovery,EPSG:32613
+53,19,757335.0,4825125.0,1,1,Recovery,EPSG:32613
+53,20,757365.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,21,757395.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,22,757425.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,23,757455.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,24,757485.0,4825125.0,1,1,Recovery,EPSG:32613
+53,25,757515.0,4825125.0,1,1,Recovery,EPSG:32613
+53,26,757545.0,4825125.0,1,1,Recovery,EPSG:32613
+53,27,757575.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,28,757605.0,4825125.0,1,1,Recovery,EPSG:32613
+53,29,757635.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,30,757665.0,4825125.0,4,3,Stable / mixed / disagreement,EPSG:32613
+53,31,757695.0,4825125.0,4,3,Stable / mixed / disagreement,EPSG:32613
+53,32,757725.0,4825125.0,4,3,Stable / mixed / disagreement,EPSG:32613
+53,33,757755.0,4825125.0,4,3,Stable / mixed / disagreement,EPSG:32613
+53,34,757785.0,4825125.0,4,3,Stable / mixed / disagreement,EPSG:32613
+53,35,757815.0,4825125.0,4,3,Stable / mixed / disagreement,EPSG:32613
+53,36,757845.0,4825125.0,4,3,Stable / mixed / disagreement,EPSG:32613
+53,37,757875.0,4825125.0,4,3,Stable / mixed / disagreement,EPSG:32613
+53,38,757905.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,39,757935.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,40,757965.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,41,757995.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,42,758025.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,43,758055.0,4825125.0,1,1,Recovery,EPSG:32613
+53,44,758085.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,45,758115.0,4825125.0,1,1,Recovery,EPSG:32613
+53,46,758145.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,47,758175.0,4825125.0,1,1,Recovery,EPSG:32613
+53,48,758205.0,4825125.0,1,1,Recovery,EPSG:32613
+53,49,758235.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,50,758265.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,51,758295.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,52,758325.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,53,758355.0,4825125.0,5,3,Stable / mixed / disagreement,EPSG:32613
+53,54,758385.0,4825125.0,4,3,Stable / mixed / disagreement,EPSG:32613
+53,55,758415.0,4825125.0,4,3,Stable / mixed / disagreement,EPSG:32613
+53,56,758445.0,4825125.0,1,1,Recovery,EPSG:32613
+54,3,756855.0,4825095.0,1,1,Recovery,EPSG:32613
+54,4,756885.0,4825095.0,1,1,Recovery,EPSG:32613
+54,5,756915.0,4825095.0,1,1,Recovery,EPSG:32613
+54,6,756945.0,4825095.0,1,1,Recovery,EPSG:32613
+54,7,756975.0,4825095.0,1,1,Recovery,EPSG:32613
+54,8,757005.0,4825095.0,1,1,Recovery,EPSG:32613
+54,9,757035.0,4825095.0,5,3,Stable / mixed / disagreement,EPSG:32613
+54,10,757065.0,4825095.0,1,1,Recovery,EPSG:32613
+54,11,757095.0,4825095.0,1,1,Recovery,EPSG:32613
+54,12,757125.0,4825095.0,5,3,Stable / mixed / disagreement,EPSG:32613
+54,13,757155.0,4825095.0,4,3,Stable / mixed / disagreement,EPSG:32613
+54,14,757185.0,4825095.0,5,3,Stable / mixed / disagreement,EPSG:32613
+54,15,757215.0,4825095.0,5,3,Stable / mixed / disagreement,EPSG:32613
+54,16,757245.0,4825095.0,1,1,Recovery,EPSG:32613
+54,17,757275.0,4825095.0,5,3,Stable / mixed / disagreement,EPSG:32613
+54,18,757305.0,4825095.0,1,1,Recovery,EPSG:32613
+54,19,757335.0,4825095.0,1,1,Recovery,EPSG:32613
+54,20,757365.0,4825095.0,5,3,Stable / mixed / disagreement,EPSG:32613
+54,21,757395.0,4825095.0,1,1,Recovery,EPSG:32613
+54,22,757425.0,4825095.0,5,3,Stable / mixed / disagreement,EPSG:32613
+54,23,757455.0,4825095.0,1,1,Recovery,EPSG:32613
+54,24,757485.0,4825095.0,5,3,Stable / mixed / disagreement,EPSG:32613
+54,25,757515.0,4825095.0,5,3,Stable / mixed / disagreement,EPSG:32613
+54,26,757545.0,4825095.0,1,1,Recovery,EPSG:32613
+54,27,757575.0,4825095.0,1,1,Recovery,EPSG:32613
+54,28,757605.0,4825095.0,1,1,Recovery,EPSG:32613
+54,29,757635.0,4825095.0,5,3,Stable / mixed / disagreement,EPSG:32613
+54,30,757665.0,4825095.0,4,3,Stable / mixed / disagreement,EPSG:32613
+54,31,757695.0,4825095.0,4,3,Stable / mixed / disagreement,EPSG:32613
+54,32,757725.0,4825095.0,4,3,Stable / mixed / disagreement,EPSG:32613
+54,33,757755.0,4825095.0,4,3,Stable / mixed / disagreement,EPSG:32613
+54,34,757785.0,4825095.0,4,3,Stable / mixed / disagreement,EPSG:32613
+55,3,756855.0,4825065.0,1,1,Recovery,EPSG:32613
+55,4,756885.0,4825065.0,1,1,Recovery,EPSG:32613
+55,5,756915.0,4825065.0,1,1,Recovery,EPSG:32613
+55,6,756945.0,4825065.0,1,1,Recovery,EPSG:32613
+55,7,756975.0,4825065.0,1,1,Recovery,EPSG:32613
+55,8,757005.0,4825065.0,1,1,Recovery,EPSG:32613
+55,9,757035.0,4825065.0,1,1,Recovery,EPSG:32613
+55,10,757065.0,4825065.0,5,3,Stable / mixed / disagreement,EPSG:32613
+55,11,757095.0,4825065.0,1,1,Recovery,EPSG:32613
+55,12,757125.0,4825065.0,1,1,Recovery,EPSG:32613

@@ -1,0 +1,12 @@
+filename,spatial_dimensions,latitude_coordinate,longitude_coordinate,spatial_metadata
+environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,{},False,False,{}
+environmental_data_cube_oglala_lakota_2015_2023.nc,{},False,False,{'evi_spatial_coverage': 'Verified Pine Ridge Reservation boundary'}
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,{},False,False,{}
+environmental_data_cube_oglala_lakota_monthly_2015_2023.nc,{},False,False,{}
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,{},False,False,{}
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,{},False,False,{}
+pine_ridge_multi_variable_cube.nc,{},False,False,"{'location': 'Pine Ridge Reservation, Oglala Lakota Nation'}"
+pine_ridge_ndvi_cube.nc,{},False,False,"{'location': 'Pine Ridge Reservation, Oglala Lakota Nation', 'crs': 'EPSG:4326 (WGS84)'}"
+pine_ridge_ndvi_monthly.nc,{},False,False,"{'location': 'Pine Ridge Reservation, Oglala Lakota Nation', 'crs': 'EPSG:4326 (WGS84)'}"
+spatial_grid_0.5deg_2000_2023.nc,"{'lat': 3, 'lon': 4}",True,True,"{'location': 'Pine Ridge, Oglala Lakota Nation'}"
+pine_ridge_example_cube.nc,"{'lat': 4, 'lon': 4}",True,True,"{'location': 'Pine Ridge, Oglala Lakota Nation', 'crs': 'EPSG:4326 (WGS84 geographic)'}"

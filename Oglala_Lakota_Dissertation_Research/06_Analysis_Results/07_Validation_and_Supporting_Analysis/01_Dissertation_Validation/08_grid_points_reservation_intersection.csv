@@ -1,0 +1,13 @@
+latitude,longitude,inside_reservation,on_boundary,location_status
+43.0,-103.0,False,False,Outside
+43.0,-102.5,True,False,Inside
+43.0,-102.0,True,False,Inside
+43.0,-101.5,True,False,Inside
+43.5,-103.0,True,False,Inside
+43.5,-102.5,True,False,Inside
+43.5,-102.0,True,False,Inside
+43.5,-101.5,True,False,Inside
+44.0,-103.0,False,False,Outside
+44.0,-102.5,False,False,Outside
+44.0,-102.0,False,False,Outside
+44.0,-101.5,False,False,Outside

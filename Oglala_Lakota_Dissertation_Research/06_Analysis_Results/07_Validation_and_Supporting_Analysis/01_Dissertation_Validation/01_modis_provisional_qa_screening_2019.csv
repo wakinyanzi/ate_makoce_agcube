@@ -1,0 +1,4 @@
+date,latitude,longitude,valid_pixels,good_pixels,original_ndvi,qa_screened_ndvi,retention_pct,ndvi_difference,qa_method,protocol_status
+2019-05-09,43.5,-102.5,289,102,0.305596,0.30985,35.294117647058826,0.0042540000000000355,MOD13Q1 pixel reliability = 0,Provisional
+2019-07-12,43.5,-102.5,289,247,0.503847,0.527332,85.46712802768167,0.023484999999999978,MOD13Q1 pixel reliability = 0,Provisional
+2019-09-14,43.5,-102.5,289,281,0.378093,0.384123,97.23183391003461,0.00602999999999998,MOD13Q1 pixel reliability = 0,Provisional

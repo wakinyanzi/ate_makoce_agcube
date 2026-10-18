@@ -1,0 +1,7 @@
+location,latitude,longitude,date,strategy,pixels_retained,retention_pct,mean_ndvi
+Reference,43.5,-102.5,2019-07-12,Original,289,100.0,0.5038470588235294
+Reference,43.5,-102.5,2019-07-12,Pixel reliability = 0,247,85.46712802768167,0.5273319838056679
+Reference,43.5,-102.5,2019-07-12,MODLAND QA = 0,289,100.0,0.5038470588235294
+Second interior,43.5,-102.0,2019-07-12,Original,289,100.0,0.6875290657439448
+Second interior,43.5,-102.0,2019-07-12,Pixel reliability = 0,289,100.0,0.6875290657439448
+Second interior,43.5,-102.0,2019-07-12,MODLAND QA = 0,289,100.0,0.6875290657439448

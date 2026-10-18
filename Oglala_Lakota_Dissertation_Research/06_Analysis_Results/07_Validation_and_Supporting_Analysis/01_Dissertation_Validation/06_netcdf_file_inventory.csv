@@ -1,0 +1,12 @@
+filename,relative_path,size_mb,dimensions,variables,title,status
+environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,data/cache/environmental_data_cube_oglala_lakota_2000_2023_with_evi.nc,0.01,{'year': 24},"ndvi, tmax_k, precip_mm, evi",Environmental Data Cube for Oglala Lakota,Readable
+environmental_data_cube_oglala_lakota_2015_2023.nc,data/cache/environmental_data_cube_oglala_lakota_2015_2023.nc,0.01,{'year': 9},"ndvi, tmax_k, precip_mm, evi",Environmental Data Cube for Oglala Lakota,Readable
+environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,data/cache/environmental_data_cube_oglala_lakota_2015_2023_before_evi_update.nc,0.01,{'year': 9},"ndvi, tmax_k, precip_mm, evi",Environmental Data Cube for Oglala Lakota,Readable
+environmental_data_cube_oglala_lakota_monthly_2015_2023.nc,data/cache/environmental_data_cube_oglala_lakota_monthly_2015_2023.nc,0.01,{'time': 108},"ndvi, evi, tmax_k, precip_mm",Environmental Data Cube for Oglala Lakota,Readable
+environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,data/cache/environmental_data_cube_oglala_lakota_monthly_2015_2023_interpolated.nc,0.02,{'time': 108},"ndvi, evi, tmax_k, precip_mm, evi_interpolated",Environmental Data Cube for Oglala Lakota,Readable
+environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,data/cache/environmental_data_cube_oglala_lakota_monthly_2015_2023_with_ndmi.nc,0.02,{'time': 108},"ndvi, evi, tmax_k, precip_mm, evi_interpolated, ndmi",Environmental Data Cube for Oglala Lakota,Readable
+pine_ridge_multi_variable_cube.nc,data/cache/pine_ridge_multi_variable_cube.nc,0.02,{'time': 287},"ndvi, tmax_f, precip_mm",Pine Ridge Multi-Variable Environmental Cube,Readable
+pine_ridge_ndvi_cube.nc,data/cache/pine_ridge_ndvi_cube.nc,0.02,{'time': 549},ndvi,"MODIS NDVI Time Series for Pine Ridge, Oglala Lakota Nation",Readable
+pine_ridge_ndvi_monthly.nc,data/cache/pine_ridge_ndvi_monthly.nc,0.02,{'time': 287},ndvi,"MODIS NDVI Time Series for Pine Ridge, Oglala Lakota Nation",Readable
+spatial_grid_0.5deg_2000_2023.nc,data/cache/spatial_grid_0.5deg_2000_2023.nc,0.01,"{'year': 24, 'lat': 3, 'lon': 4}",ndvi,Pine Ridge Spatial NDVI Cube,Readable
+pine_ridge_example_cube.nc,data/pine_ridge_example_cube.nc,0.01,"{'time': 12, 'lat': 4, 'lon': 4}","ndvi, tmax_f",Pine Ridge Environmental Data Cube,Readable

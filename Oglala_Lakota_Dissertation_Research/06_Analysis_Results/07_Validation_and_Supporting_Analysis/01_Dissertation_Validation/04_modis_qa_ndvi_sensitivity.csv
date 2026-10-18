@@ -1,0 +1,3 @@
+strategy,valid_comparisons,mean_difference,mean_absolute_difference,maximum_absolute_difference
+Pixel reliability = 0,8,0.004135664306713187,0.004306615560279635,0.0234849249821385
+MODLAND QA = 0,9,-0.0002591221637706766,0.0005778738633983717,0.003766482122260717

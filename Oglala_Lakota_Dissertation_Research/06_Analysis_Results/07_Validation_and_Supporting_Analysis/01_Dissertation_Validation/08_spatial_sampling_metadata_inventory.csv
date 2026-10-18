@@ -1,0 +1,8 @@
+attribute,value
+global:title,Pine Ridge Spatial NDVI Cube
+global:location,"Pine Ridge, Oglala Lakota Nation"
+global:grid_step_deg,0.5
+global:tk_community,Oglala Lakota Nation
+ndvi:long_name,Annual growing season mean NDVI
+ndvi:units,dimensionless
+ndvi:source,MODIS MOD13Q1 via ORNL DAAC

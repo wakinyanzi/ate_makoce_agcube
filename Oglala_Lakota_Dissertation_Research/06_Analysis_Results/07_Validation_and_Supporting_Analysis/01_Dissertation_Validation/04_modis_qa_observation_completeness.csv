@@ -1,0 +1,4 @@
+strategy,total_observations,usable_observations,mean_pixel_retention_pct,min_pixel_retention_pct,completeness_pct
+MODLAND QA = 0,9,9,98.53902345251826,88.23529411764706,100.0
+Original,9,9,100.0,100.0,100.0
+Pixel reliability = 0,9,8,79.62322183775471,0.0,88.88888888888889

@@ -1,0 +1,3 @@
+filename,relative_path,extension,reservation_candidate
+pine_ridge_boundary.geojson,data/cache/pine_ridge_boundary.geojson,.geojson,True
+sd_tribal_boundaries.geojson,data/cache/sd_tribal_boundaries.geojson,.geojson,True
